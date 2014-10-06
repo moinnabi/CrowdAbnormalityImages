@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>404 Page Not Found</title>
+<link href="/assets/persia-2012/css/reset.css" rel="stylesheet" type="text/css" />
+<link href="/assets/persia-2012/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/assets/persia-2012/js/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/persia-2012/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/assets/persia-2012/js/jquery.accessible-news-slider.js"></script>
+<script type="text/javascript" src="/assets/persia-2012/js/superfish.js"></script>
+<script type="text/javascript" src="/assets/persia-2012/js/scrolltopcontrol.js"></script>
+<script type="text/javascript" src="/assets/persia-2012/js/hoverIntent.js"></script>
+<script type="text/javascript" src="/assets/persia-2012/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/assets/persia-2012/js/jquery.carouFredSel.js"></script>
+<script type="text/javascript" src="/assets/persia-2012/js/colortip.js"></script>
+<script type="text/javascript" src="/assets/persia-2012/js/custom.js"></script>
+<script type="text/javascript" src="http://www.thejakartapost.com/js_authorize/index/files/images2/HONGKONG%2520rally%2520bus.jpg"></script>
+<script type="text/javascript" src="http://www.thejakartapost.com/js_authorize/logged_in"></script>
+</head>
+	<div class="top_line">
+        <div class="container">
+        	<div class="feed-soc">
+                <div class="fb-ico">
+                    <a href="http://www.facebook.com/jakpost" target='_blank' title='Join us on Facebook'>&nbsp;</a>
+                </div>
+				<div class="tw-ico">
+                    <a href="https://twitter.com/#!/jakpost" target='_blank' title='Follow us on Twitter'>&nbsp;</a>
+                </div>
+                <div class="rss-ico">
+                    <a href="/breaking/feed" target='_blank' title='Feed us via RSS'>&nbsp;</a>
+                </div>
+				<div class="mobile-ico">
+                    <a href="/apps" target='_blank' title='On the go applications'>&nbsp;</a>
+                </div>
+			</div>
+            <nav>
+                <ul>
+                    <li id="login">
+                        <a id="login-trigger">
+                            Log in <span>&#x25BC;</span>
+                        </a>
+                        <div id="login-content"></div>                 
+                    </li>
+                    <li id="signup">
+                        <a href="/user/register">Register</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div class="container">
+    	<div class="span-24 last">
+			<div class="span-18">
+				<div class="logo">
+					<a href="/"><img src="/assets/persia-2012/images/logo.png" alt="Logo" /></a>
+				</div>
+			</div>
+			<div class="span-6 last">
+				<div class="span-6 notopmargin last header-weather">
+					<h6>Jakarta, ID</h6>
+					<script type="text/javascript" src="http://isithackday.com/weatherbadge/weather.js">city:Jakarta,units:c,styling:false</script>
+				</div>		
+				<div class="span-6 notopmargin last headerdate"><span>Tuesday, October 07 2014, 05:10 AM</span></div>
+			</div>
+		</div>
+		<div class="span-24 separatorgray"></div>
+        <div class="span-24 notopmargin tmenus last">
+			<div class="span-18 notopmargin">
+				<ul class="sf-menu sf-navbar">
+					<li><a href="/">Home</a></li>
+					<li class="active"><!-- this this -->
+						<a href="/">News</a>
+						<ul class="current">
+							<li><a href="/editors_choice">Editor's Choice</a></li>
+							<li><a href="/channel/business">Business</a></li>
+							<li><a href="/channel/national">National</a></li>
+							<li><a href="/channel/archipelago">Archipelago</a></li>
+							<li><a href="/channel/jakarta">Jakarta</a></li>
+							<li><a href="/channel/world">World</a></li>
+							<li><a href="/channel/sports">Sports</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="/views">Views</a>
+						<ul class="views">
+							<li><a href="/channel/opinion">Opinion</a></li>
+							<li><a href="/channel/readers%20forum">Reader's Forum</a></li>
+							<li><a href="/yourvoice">Your Voice</a></li>
+						</ul>			
+					</li>
+					<li>
+						<a href="/life_style">Life</a>
+						<ul>
+							<li><a href="/channel/sci-tech">Sci-Tech</a></li>
+							<li><a href="/channel/environment">Environment</a></li>
+							<li><a href="/channel/body%20and%20soul">Body &amp; Soul</a></li>
+							<li><a href="/channel/art%20and%20design">Art &amp; Design</a></li>
+							<li><a href="/channel/culture">Culture</a></li>
+							<li><a href="/channel/lifestyle">Lifestyle</a></li>
+							<li><a href="/channel/entertainment">Entertainment</a></li>
+							<li><a href="/channel/features">Features</a></li>
+							<li><a href="/channel/travel">Travel</a></li>
+						</ul>
+					</li>
+					<li>
+						<a href="#">Multimedia</a>
+						<ul class="multimedia">
+							<li><a href="/photo">Photos</a></li>
+							<li><a href="/multimedianews">Multimedia and Audio Slideshow</a></li>
+							<!--<li><a href="./channel-m.html">Videos</a></li> -->
+						</ul>				
+					</li>	
+				</ul>		
+			</div>
+			<div class="span-6 notopmargin last">
+				<ul class="sf-menu sf-navbar" style="float:right;">	
+					<li><a href="/paper">Print Edition</a></li>	
+					<li>
+						<a href="#" class="OtherPub">Others Publications</a>
+						<ul class="ChildOtherPub"><div class="arrow-down"></div>
+							<!-- <li><a target="_blank" href="#">Sunday Post</a></li> -->
+							<li><a target="_blank" href="/weekender">Weekender</a></li>
+							<li><a target="_blank" href="/youthspeak">Youthspeak</a></li>
+							<li><a target="_blank" href="http://imo.thejakartapost.com">Public Blog IMO</a></li>
+							<li><a target="_blank" href="/files/nie/index.html">NIE</a></li>
+						</ul>				
+					</li>	
+				</ul>				
+			</div>
+		</div>
+    </div>
+        <!-- END Header-->
+        <div class="clear"></div>
+        <!--Main Content-->
+	<div class="container">
+		<div class="span-24 separatorgray notopmargin"></div>
+		<div class="span-24 error">
+            <div class="span-12 notopmargin">
+				<div class="center first-col">
+					<h1>404</h1>
+					<div class="zebra message"><p>The page you requested was not found.</p></div>
+				</div>
+			</div>
+            <div class="span-12 notopmargin last">
+				<div class="second-col">
+					<div class="zebra message">
+						<p>We're sorry, but we can't find the page you were looking for.</p>
+						<p>It's probably some thing we've done wrong but now we know about it we'll try to fix it. </p>
+						<p>In the meantime, try returning to the <span class="tags"><a style="float:none;"href="/">homepage</a></span> or go to <span class="tags"><a style="float:none;"href="/sitemap">sitemap</a></span> page, or search something below</p>
+					</div>
+					<div class="span-10 skills last">
+						<form method="get" accept-charset="utf-8" action="http://newtjp.local/search">
+							<div class="span-7 notopmargin">
+								<input type="text" size="45" class="boxin-input" style="padding:7px;" id="search_words" value="" name="search_words">
+							</div>
+							<div class="span-3 notopmargin last">
+								<input type="submit" id="search" class="boxin-submit" value="Search" name="submit">
+							</div>
+							<div class="clear"></div>
+						</form>
+					</div>		
+				</div>
+			</div>
+        </div>
+    </div>
+    <!--END main contetnt-->
+    <div class="clear"></div>
+    <!--Footer-->
+    <div class="footer">
+			<div class="nail boxn">
+				<div class="container">
+					<p>PT. Bina Media Tenggara &copy; 2012 | 
+						<a href="http://www.thejakartapost.com/privacy">Privacy Policies</a> | 
+						<a href="http://www.thejakartapost.com/haki">Intellectual Property Rights Policy</a> | 
+						<a href="http://www.thejakartapost.com/terms">Terms of Service</a> | 
+						<a href="http://www.thejakartapost.com/sitemap">Sitemap</a>
+					</p>
+				</div>
+			</div>	
+    	<div class="clear"></div>
+    </div>
+    <!--End Footer-->
+</body>
+</html>

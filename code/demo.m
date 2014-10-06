@@ -19,7 +19,7 @@ maxImgReSize = 1000;
 
 
 
-for f = 1:size(phrasenames,2)
+for f = 10:size(querynames,2)
     phrasenames = querynames{f}(find(~isspace(querynames{f})))
     thisdowndir = [datadir '/' phrasenames '/']; 
     filenameWithPath=which('googleimages_dsk.py');      %code/downloadImages/googleimages_dsk.py
