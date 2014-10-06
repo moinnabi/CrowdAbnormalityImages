@@ -1,0 +1,679 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" itemscope itemtype="http://schema.org/Blog" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Nothing found for  Error Php</title>
+<link rel="stylesheet" href="http://vipnite.com/wp-content/themes/TheSource-child/style.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/rss+xml" title="Red Carpet VIP Las Vegas RSS Feed" href="http://vipnite.com/feed" />
+<link rel="alternate" type="application/atom+xml" title="Red Carpet VIP Las Vegas Atom Feed" href="http://vipnite.com/feed/atom" />
+<link rel="pingback" href="http://vipnite.com/xmlrpc.php" />
+
+<!--[if lt IE 7]>
+
+	<link rel="stylesheet" type="text/css" href="http://vipnite.com/wp-content/themes/TheSource/css/ie6style.css" />
+
+	<script type="text/javascript" src="http://vipnite.com/wp-content/themes/TheSource/js/DD_belatedPNG_0.0.8a-min.js"></script>
+
+	<script type="text/javascript">DD_belatedPNG.fix('img#logo, #cat-nav-left, #cat-nav-right, #search-form, #cat-nav-content, div.top-overlay, .slide .description, div.overlay, a#prevlink, a#nextlink, .slide a.readmore, .slide a.readmore span, .recent-cat .entry .title, #recent-posts .entry p.date, .footer-widget ul li, #tabbed-area ul#tab_controls li span');</script>
+
+<![endif]-->
+
+<!--[if IE 7]>
+
+	<link rel="stylesheet" type="text/css" href="http://vipnite.com/wp-content/themes/TheSource/css/ie7style.css" />
+
+<![endif]-->
+
+<!--[if IE 8]>
+
+	<link rel="stylesheet" type="text/css" href="http://vipnite.com/wp-content/themes/TheSource/css/ie8style.css" />
+
+<![endif]-->
+
+<script type="text/javascript">
+
+	document.documentElement.className = 'js';
+
+</script>
+<link rel="alternate" type="application/rss+xml" title="Red Carpet VIP Las Vegas &raquo; Feed" href="http://vipnite.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="Red Carpet VIP Las Vegas &raquo; Comments Feed" href="http://vipnite.com/comments/feed" />
+		<link rel="stylesheet" href="http://vipnite.com/wp-content/themes/TheSource/style-Red.css" type="text/css" media="screen" />
+	<meta content="The Source Child v.0.2.0" name="generator"/><link rel='stylesheet' id='colorbox-theme1-css'  href='http://vipnite.com/wp-content/plugins/jquery-colorbox/themes/theme1/colorbox.css?ver=4.6' type='text/css' media='screen' />
+<link rel='stylesheet' id='q-a-plus-css'  href='http://vipnite.com/wp-content/plugins/q-and-a/css/q-a-plus.css?ver=1.0.6.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='cfblbcss-css'  href='http://vipnite.com/wp-content/plugins/cardoza-facebook-like-box/cardozafacebook.css?ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://vipnite.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-theme-css'  href='http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/vader/jquery-ui.min.css?ver=1.10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-timepicker-css'  href='http://vipnite.com/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-timepicker/jquery-ui-timepicker-addon.min.css?ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-plugin-css'  href='http://vipnite.com/wp-content/plugins/videojs-html5-video-player-for-wordpress/plugin-styles.css?ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-css'  href='//vjs.zencdn.net/4.5/video-js.css?ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-css-css'  href='http://vipnite.com/wp-content/themes/TheSource/epanel/shortcodes/css/shortcodes.css?ver=3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://vipnite.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='http://vipnite.com/wp-content/themes/TheSource/epanel/page_templates/js/fancybox/jquery.fancybox-1.3.4.css?ver=1.3.4' type='text/css' media='screen' />
+<link rel='stylesheet' id='et_page_templates-css'  href='http://vipnite.com/wp-content/themes/TheSource/epanel/page_templates/page_templates.css?ver=1.8' type='text/css' media='screen' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+<script type='text/javascript'>try{jQuery.noConflict();}catch(e){};</script>
+<script type='text/javascript' src='http://vipnite.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jQueryColorboxSettingsArray = {"jQueryColorboxVersion":"4.6","colorboxInline":"false","colorboxIframe":"false","colorboxGroupId":"","colorboxTitle":"","colorboxWidth":"false","colorboxHeight":"false","colorboxMaxWidth":"false","colorboxMaxHeight":"false","colorboxSlideshow":"false","colorboxSlideshowAuto":"false","colorboxScalePhotos":"false","colorboxPreloading":"false","colorboxOverlayClose":"true","colorboxLoop":"true","colorboxEscKey":"true","colorboxArrowKey":"true","colorboxScrolling":"true","colorboxOpacity":"0.85","colorboxTransition":"elastic","colorboxSpeed":"350","colorboxSlideshowSpeed":"2500","colorboxClose":"close","colorboxNext":"next","colorboxPrevious":"previous","colorboxSlideshowStart":"start slideshow","colorboxSlideshowStop":"stop slideshow","colorboxCurrent":"{current} of {total} images","colorboxXhrError":"This content failed to load.","colorboxImgError":"This image failed to load.","colorboxImageMaxWidth":"false","colorboxImageMaxHeight":"false","colorboxImageHeight":"false","colorboxImageWidth":"false","colorboxLinkHeight":"50%","colorboxLinkWidth":"50%","colorboxInitialHeight":"100","colorboxInitialWidth":"300","autoColorboxJavaScript":"","autoHideFlash":"","autoColorbox":"","autoColorboxGalleries":"","addZoomOverlay":"","useGoogleJQuery":"","colorboxAddClassToLinks":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://vipnite.com/wp-content/plugins/jquery-colorbox/js/jquery.colorbox-min.js?ver=1.3.21'></script>
+<script type='text/javascript' src='http://vipnite.com/wp-content/plugins/jquery-colorbox/js/jquery-colorbox-wrapper-min.js?ver=4.6'></script>
+<script type='text/javascript' src='http://vipnite.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/jwplayer.js?ver=3.9.2'></script>
+<script type='text/javascript' src='http://vipnite.com/wp-content/plugins/cardoza-facebook-like-box/cardozafacebook.js?ver=3.9.2'></script>
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://vipnite.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://vipnite.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.9.2" />
+
+<!-- All in One SEO Pack Pro 1.78.40 by Michael Torbert of Semper Fi Web Design[396,444] -->
+<!-- /all in one seo pack -->
+		<script type="text/javascript">
+
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-32332715-1']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		</script>
+	<meta property="fb:app_id" content="162286630577142"/>
+<meta property="fb:admins" content=""/>
+<link type="text/css" rel="stylesheet" href="http://vipnite.com/wp-content/plugins/latest-twitter-sidebar-widget/latest_twitter_widget.css" />
+<!-- Q & A -->
+		<noscript><link rel="stylesheet" type="text/css" href="http://vipnite.com/wp-content/plugins/q-and-a/css/q-a-plus-noscript.css?ver=1.0.6.2" /></noscript><!-- Q & A -->
+<!-- Using Simple Yearly Archive Plugin v1.6.2.5 | http://www.schloebe.de/wordpress/simple-yearly-archive-plugin/ // -->
+
+		<script type="text/javascript"> document.createElement("video");document.createElement("audio");document.createElement("track"); </script>
+		<link rel="shortcut icon" href="http://vipnite.com/wp-content/uploads/2011/03/favicon.ico" />
+<!-- wpsso meta tags begin -->
+<meta name="generator" content="WPSSO 2.6.1G" />
+<meta name="description" content="Las Vegas&#039; largest, longest running and highest rated Independent VIP hosting company." />
+<meta itemprop="description" content="Las Vegas&#039; largest, longest running and highest rated Independent VIP hosting company." />
+<meta property="og:locale" content="en_US" />
+<meta property="og:site_name" content="Red Carpet VIP Las Vegas" />
+<meta property="og:url" content="http://vipnite.com/error.php" />
+<meta property="og:title" content="Page not found" />
+<meta property="og:description" content="Las Vegas&#039; largest, longest running and highest rated Independent VIP hosting company." />
+<meta property="og:type" content="website" />
+<!-- wpsso meta tags end -->
+	<style type="text/css">
+		#et_pt_portfolio_gallery { margin-left: 2px; }
+		.et_pt_portfolio_item { margin-left: 11px; }
+		.et_portfolio_small { margin-left: -14px !important; }
+		.et_portfolio_small .et_pt_portfolio_item { margin-left: 22px !important; }
+		.et_portfolio_large { margin-left: -12px !important; }
+		.et_portfolio_large .et_pt_portfolio_item { margin-left: 13px !important; }
+	</style>
+
+
+
+
+<link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<script>
+			$(document).ready(function(){
+				//Examples of how to assign the Colorbox event to elements
+
+				$(".cboxiframe").colorbox({iframe:true, width:"80%", height:"80%"});
+				
+			});
+		</script>
+        
+        
+</head>
+
+<body class="error404 gecko et_includes_sidebar">
+<div id="header-top" class="clearfix">
+  <div class="container clearfix"> 
+    
+    <!-- Start Logo -->
+    
+        <a href="http://vipnite.com/">
+        <img src="http://vipnite.com/wp-content/uploads/2012/06/logo-vert1.png" alt="Red Carpet VIP Las Vegas" id="logo"/> </a>
+    <p id="slogan">
+      Las Vegas&#039; largest, longest running and highest rated Independent VIP hosting company.    </p>
+    
+    <!-- End Logo --> 
+    
+    <!-- Start vip-phone -->
+    <div id="vip-phone">Questions? Call <span style="">1-888-VIP-NITE</span> <span style="color: #999;">(1-888-847-6483)</span></div>
+    <!-- End vip-phone --> 
+    
+    <!-- Start Page-menu -->
+    
+    <div id="page-menu">
+      <div id="p-menu-left"> </div>
+      <div id="p-menu-content">
+        <ul id="menu-primary-menu-1" class="nav clearfix"><li id="menu-item-158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-158"><a href="http://vipnite.com">Home</a></li>
+<li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-159"><a href="http://vipnite.com/testimonials">Testimonials</a></li>
+<li id="menu-item-160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-160"><a href="http://vipnite.com/vip-services">VIP Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-161"><a href="http://vipnite.com/vip-services/table-bottle-service">VIP Bottle Service</a></li>
+	<li id="menu-item-163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-163"><a href="http://vipnite.com/vip-services/las-vegas-nightclub-entry">VIP Nightclub Entry</a></li>
+	<li id="menu-item-2043" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2043"><a href="http://vipnite.com/las-vegas-pool-parties">Pool Parties</a></li>
+	<li id="menu-item-2486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2486"><a href="http://vipnite.com/las-vegas-lounges">Las Vegas Lounges</a></li>
+	<li id="menu-item-3636" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3636"><a href="http://vipnite.com/las-vegas-restaurants-2">Las Vegas Restaurants</a></li>
+	<li id="menu-item-164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-164"><a href="http://vipnite.com/vip-services/gentlemen-clubs">Gentlemen&#8217;s Clubs</a></li>
+	<li id="menu-item-165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165"><a href="http://vipnite.com/vip-services/limo-services">Limo Services</a></li>
+	<li id="menu-item-632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-632"><a href="http://vipnite.com/vip-services/hotel-rooms">Hotel Rooms</a></li>
+</ul>
+</li>
+<li id="menu-item-2042" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2042"><a href="http://vipnite.com/las-vegas-vip-blog">News/Blog</a>
+<ul class="sub-menu">
+	<li id="menu-item-875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-875"><a href="http://vipnite.com/las-vegas-vip-blog">Blog</a></li>
+	<li id="menu-item-1525" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1525"><a href="http://vipnite.com/./newsletter">Newsletter</a></li>
+	<li id="menu-item-2378" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2378"><a href="http://vipnite.com/las-vegas-event-calendar">Event Calendar</a></li>
+	<li id="menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168"><a href="http://vipnite.com/about-us/frequently-asked-questions">F.A.Q.</a></li>
+	<li id="menu-item-1815" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1815"><a href="http://vipnite.com/download.php?f=Top-10-reasons-to-choose-Red-Carpet-VIP.pdf">10 Reasons to Use RCVIP</a></li>
+</ul>
+</li>
+<li id="menu-item-169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-169"><a href="http://vipnite.com/contact-us">Contact Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-637"><a href="http://vipnite.com/contact-us/general">General Inquiries</a></li>
+	<li id="menu-item-170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a href="http://vipnite.com/contact-us/vip-entry">VIP Entry</a></li>
+	<li id="menu-item-171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171"><a href="http://vipnite.com/contact-us/table-reservations">Table Reservations</a></li>
+	<li id="menu-item-4181" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4181"><a href="http://vipnite.com/affiliates">Affiliates</a></li>
+	<li id="menu-item-4186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4186"><a href="http://vipnite.com/publicity-inquiries">Publicity Inquiries</a></li>
+	<li id="menu-item-5179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5179"><a href="http://vipnite.com/contact-us">Directions / Address</a></li>
+</ul>
+</li>
+</ul>      </div>
+      <div id="p-menu-right"> </div>
+    </div>
+    <!-- end #page-menu --> 
+    
+    <!-- End Page-menu -->
+    
+    <div id="cat-nav" class="clearfix">
+      <div id="cat-nav-left"> </div>
+      <div id="cat-nav-content">
+        <ul id="menu-secondary-menu-1" class="superfish nav clearfix"><li id="menu-item-481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-481"><a href="http://vipnite.com/nightclubs">Nightclubs</a>
+<ul class="sub-menu">
+	<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a href="http://vipnite.com/nightclubs">Las Vegas VIP Nightclubs</a></li>
+	<li id="menu-item-604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604"><a href="http://vipnite.com/gentlemens-clubs">Las Vegas Gentlemen&#8217;s Clubs</a></li>
+</ul>
+</li>
+<li id="menu-item-2044" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2044"><a href="http://vipnite.com/las-vegas-hotels">Hotel Deals »</a></li>
+<li id="menu-item-1504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1504"><a href="http://vipnite.com/las-vegas-pool-parties">Pool Parties »</a></li>
+<li id="menu-item-1686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1686"><a href="http://vipnite.com/about-us/meet-the-team">Meet the Team »</a></li>
+<li id="menu-item-1233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1233"><a href="http://vipnite.com/contact-us/general">Request More Info »</a></li>
+</ul>        
+        <!-- Start Social -->
+        
+        <div id="social-vip">
+          <div id="twitterlink"> <a href="https://twitter.com/redcarpetvip" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" data-width="62px">Follow @RedCarpetVIP</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> 
+          </div>
+          <div id="facebooklink">
+            <div id="fb-root"></div>
+            <script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=531723103512677";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+            <div class="fb-like" data-href="http://www.facebook.com/RedCarpetVIP" data-width="5" data-height="35" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false">
+          </div>
+        </div>
+        <div id="googlepluslink"> <span>
+          <g:plusone size="medium" href="https://plus.google.com/104203085459672650165" count="false"></g:plusone>
+          </span>
+        </div>
+        <div id="instagramlink">
+      <a href="http://instagram.com/redcarpetvip?ref=badge" class="ig-b- ig-b-24"><img src="//badges.instagram.com/static/images/ig-badge-24.png" alt="Instagram" /></a>
+	  </div>
+      
+      </div>
+      
+      <!-- end social --> 
+      
+      <!-- Start Searchbox -->
+      
+      <div id="search-form">
+        <form method="get" id="searchform1" action="http://vipnite.com/">
+          <input type="text" value="search..." name="s" id="searchinput" />
+          <input type="image" src="http://vipnite.com/wp-content/themes/TheSource/images/red/search_btn.png" id="searchsubmit" />
+        </form>
+      </div>
+      
+      <!-- End Searchbox --> 
+      
+    </div>
+    <!-- end #cat-nav-content -->
+    
+    <div id="cat-nav-right"> </div>
+  </div>
+  <!-- end #cat-nav --> 
+  
+</div>
+<!-- end .container -->
+
+</div>
+<!-- end #header-top -->
+
+<div id="content">
+<div id="content-top-shadow"></div>
+
+<!-- start home cred -->
+
+<!-- End home cred -->
+
+<div class="container">
+
+<div id="main-content-wrap">
+	<div id="main-content" class="clearfix">
+		<div id="breadcrumbs">
+
+	<!-- Breadcrumb NavXT 5.1.1 -->
+<a title="Go to Red Carpet VIP Las Vegas." href="http://vipnite.com">Red Carpet VIP Las Vegas</a> &gt; 404
+</div> <!-- end #breadcrumbs -->		<div id="top-shadow"></div>
+
+		<div id="recent-posts" class="clearfix">
+				<div class="entry">
+<!--If no results are found-->
+	<h1>No Results Found</h1>
+	<p>The page you requested could not be found. Try refining your search, or use the navigation above to locate the post.</p>
+</div>
+<!--End if no results are found-->		</div> <!-- end #recent-posts -->
+
+		<div id="sidebar">
+	
+		<div id="onecol">
+			
+<div id="tabbed-area">
+
+	<ul class="clearfix" id="tab_controls">
+		<li class="first active"><a href="#"><span>Recent</span></a></li>
+		<li class="second"><a href="#"><span>Popular</span></a></li>
+		<li class="last"><a href="#"><span>Random</span></a></li>
+	</ul>
+
+	<div id="all_tabs" class="clearfix">
+		<div class="widget popular">
+			<ul>
+										
+<li class="clearfix">
+			<a href="http://vipnite.com/blog/this-week-in-vegas-sept-30th-october-5th">
+			<img src="http://vipnite.com/wp-content/uploads/2013/04/Light-2-74x74.jpg" alt='This Week in VEGAS!! Sept 30th &#8211; October 5th' width='74' height='74' />		</a>
+		<span class="right">
+		<a href="http://vipnite.com/blog/this-week-in-vegas-sept-30th-october-5th">
+			<span class="title">This Week in VEGAS!! Sept 30th &#8211; October 5th</span>
+		</a>
+		<span class="postinfo">Posted on Sep 30, 2014</span>
+	</span>
+</li>											
+<li class="clearfix">
+			<a href="http://vipnite.com/blog/this-week-in-vegas-september-22-28th">
+			<img src="http://vipnite.com/wp-content/uploads/2013/04/TAO-2-74x74.jpg" alt='This Week in VEGAS! September 22-28th' width='74' height='74' />		</a>
+		<span class="right">
+		<a href="http://vipnite.com/blog/this-week-in-vegas-september-22-28th">
+			<span class="title">This Week in VEGAS! September 22-28th</span>
+		</a>
+		<span class="postinfo">Posted on Sep 22, 2014</span>
+	</span>
+</li>											
+<li class="clearfix">
+			<a href="http://vipnite.com/blog/iheartradio-music-festival-this-week-in-vegas">
+			<img src="http://vipnite.com/wp-content/uploads/2014/04/Drais-Nightclub-74x74.jpg" alt='iHeartRadio Music Festival &#8211; This Week in Vegas!' width='74' height='74' />		</a>
+		<span class="right">
+		<a href="http://vipnite.com/blog/iheartradio-music-festival-this-week-in-vegas">
+			<span class="title">iHeartRadio Music Festival &#8211; This Week in Vegas!</span>
+		</a>
+		<span class="postinfo">Posted on Sep 15, 2014</span>
+	</span>
+</li>								</ul>
+		</div> <!-- end .widget -->
+
+		<div class="widget popular">
+			<ul>
+																																																										</ul>
+		</div> <!-- end .widget -->
+
+		<div class="widget popular">
+			<ul>
+										
+<li class="clearfix">
+			<a href="http://vipnite.com/uncategorized/this-week-in-vegas-mdw-2012">
+			<img src="http://vipnite.com/wp-content/uploads/2012/06/twmdw.jpg" alt='This Week in Vegas: MDW 2012' width='74' height='74' />		</a>
+		<span class="right">
+		<a href="http://vipnite.com/uncategorized/this-week-in-vegas-mdw-2012">
+			<span class="title">This Week in Vegas: MDW 2012</span>
+		</a>
+		<span class="postinfo">Posted on May 20, 2012</span>
+	</span>
+</li>											
+<li class="clearfix">
+			<a href="http://vipnite.com/blog/this-week-in-las-vegas-nightlfie">
+			<img src="http://vipnite.com/wp-content/uploads/2013/04/Avicii_Apr13_Proof.jpg" alt='This Week in Las Vegas Nightlife' width='74' height='74' />		</a>
+		<span class="right">
+		<a href="http://vipnite.com/blog/this-week-in-las-vegas-nightlfie">
+			<span class="title">This Week in Las Vegas Nightlife</span>
+		</a>
+		<span class="postinfo">Posted on Apr 8, 2013</span>
+	</span>
+</li>											
+<li class="clearfix">
+			<a href="http://vipnite.com/blog/shop-til-you-drop-in-vegas">
+			<img src="http://vipnite.com/wp-content/uploads/2013/04/fountain_trees-300x113-18187_74x74.jpg" alt='Shop &#8216;Til You Drop in Vegas' width='74' height='74' />		</a>
+		<span class="right">
+		<a href="http://vipnite.com/blog/shop-til-you-drop-in-vegas">
+			<span class="title">Shop &#8216;Til You Drop in Vegas</span>
+		</a>
+		<span class="postinfo">Posted on May 3, 2013</span>
+	</span>
+</li>								</ul>
+		</div> <!-- end .widget -->
+	</div> <!-- end #all-tabs -->
+
+</div> <!-- end #tabbed-area -->
+
+
+
+<div id="reallysimpletwitterwidget-3" class="widget widget_reallysimpletwitterwidget"><h4 class="widgettitle"><span><a href="http://twitter.com/RedCarpetVIP" class="twitter_title_link" ><img src="http://vipnite.com/wp-content/plugins/really-simple-twitter-feed-widget/twitter_small.png" alt="Red Carpet VIP on Twitter" title="Red Carpet VIP on Twitter" /> Red Carpet VIP on Twitter</a></span></h4><div class="widgetcontent">No public tweets</div><!-- end .widget-content --></div> <!-- end .widget --><div id="ltw_testimonials-8" class="widget widget_ltw_testimonials"><h4 class="widgettitle"><span>Testimonials</span></h4><div class="widgetcontent"><p>Sup Jeff M (J-Mar)! Been meaning to thank you for a flawless weekend during Labor Day. Avicii and Guetta day parties went without a hitch!! Sending a few folks your way for plans! Thanks again for everything! We’ll come back through you for sure!       </p><p><cite>Alan M, California<br />Weekend of August 31 - September 2, 2012</cite></p><p><a href="http://vipnite.com/testimonials#ltw_testimonial_520">Read More</a></p></div><!-- end .widget-content --></div> <!-- end .widget -->		</div> <!-- end #onecol -->
+
+	
+			<div id="firstcol">
+								</div> <!-- end #firstcol -->
+
+		<div id="secondcol">
+								</div> <!-- end #secondcol -->
+	
+</div> <!-- end sidebar -->
+
+
+
+			</div> <!-- end #main-content -->
+
+		</div> <!-- end #main-content-wrap -->
+
+	</div> 	<!-- end .container -->
+
+</div> <!-- end #content -->
+
+
+
+<div id="content-bottom">
+
+	<div class="container"></div>
+
+</div>
+
+
+
+<div id="footer">
+
+	<div class="container clearfix">
+
+
+
+		<div id="nav_menu-3" class="footer-widget widget_nav_menu"><h4 class="widgettitle">Popular Links</h4><div class="menu-popular-links-container"><ul id="menu-popular-links" class="menu"><li id="menu-item-193" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-193"><a href="http://vipnite.com/vip-services">VIP Services</a></li>
+<li id="menu-item-190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-190"><a href="http://vipnite.com/about-us/frequently-asked-questions">F.A.Q.</a></li>
+<li id="menu-item-192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192"><a href="http://vipnite.com/contact-us/table-reservations">Table Reservations</a></li>
+<li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="http://vipnite.com/testimonials">Testimonials</a></li>
+<li id="menu-item-1814" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1814"><a href="http://vipnite.com/download.php?f=Top-10-reasons-to-choose-Red-Carpet-VIP.pdf">Top 10 Reasons to Use RCVIP</a></li>
+</ul></div></div> <!-- end .footer-widget --><div id="ltw_testimonials-6" class="footer-widget widget_ltw_testimonials"><h4 class="widgettitle">Client Testimonial</h4><p>Hi Jeremy, My friends and I had a great time....</p><p><cite>Michelle J, Tennessee<br />Weekend of September 20 - 22, 2013</cite></p><p><a href="http://vipnite.com/testimonials#ltw_testimonial_785">Read More</a></p></div> <!-- end .footer-widget --><div id="text-2" class="footer-widget widget_text"><h4 class="widgettitle">Directions</h4>			<div class="textwidget"><a href="http://maps.google.com/?q=101+Convention+Center+Drive+,+Las+Vegas+NV+,+89109" target="_blank"><img src="http://vipnite.com/wp-content/uploads/2012/02/map.jpg" border="0" /></a></div>
+		</div> <!-- end .footer-widget --><div id="text-3" class="footer-widget widget_text"><h4 class="widgettitle">Contact Us</h4>			<div class="textwidget"><strong style="color: #ffffff;">Red Carpet VIP Las Vegas, Inc.</strong><br />
+101 Convention Center Drive<br />
+Las Vegas, NV 89109 <br />
+phone: 1.888.847.6483<br />
+email: <a href="mailto:info@vipnight.com" style="text-decoration: underline;">info@vipnight.com</a><br />
+<a href='/contact-us' class='small-button smallblack'>Contact Us</a> </div>
+		</div> <!-- end .footer-widget -->
+		<div class="clear"></div>
+
+
+
+	</div> <!--end .container -->
+
+</div> <!-- end #footer -->
+
+
+
+<div id="footer-bottom">
+
+	<div class="container clearfix">
+
+		
+
+
+		<ul id="menu-footer-menu-1" class="bottom-nav"><li id="menu-item-176" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-176"><a href="/">Home</a></li>
+<li id="menu-item-181" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-181"><a href="/seating-charts-las-vegas-nightclubs-pools">Club Maps</a></li>
+<li id="menu-item-184" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-184"><a href="/terms-and-conditions">Terms &#038; Conditions</a></li>
+<li id="menu-item-194" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-194"><a href="/privacy-policy">Privacy Policy</a></li>
+</ul>
+
+        
+		<img src="/pay/images/cc-logos-bw.png" alt="Visa, Master Card, Discover, American Express" style="margin: 13px 0px 0px 100px;" />
+
+        <p id="copyright">&copy; 2014 | <a href="http://www.vipnite.com" title="Red Carpet VIP Las Vegas, Inc.">Red Carpet VIP Las Vegas, Inc.</a></p>
+        
+
+
+
+	</div> <!--end .container -->
+
+</div> <!-- end #footer-bottom -->
+
+
+
+
+
+		<script type="text/javascript" src="http://vipnite.com/wp-content/themes/TheSource/js/superfish.js"></script>
+	<script type="text/javascript">
+	//<![CDATA[
+		jQuery.noConflict();
+
+		jQuery('ul.superfish, #page-menu ul.nav').superfish({
+			delay:       300,                            // one second delay on mouseout
+			animation:   {opacity:'show',height:'show'},  // fade-in and slide-down animation
+			speed:       'fast',                          // faster animation speed
+			autoArrows:  true,                           // disable generation of arrow mark-up
+			dropShadows: false                            // disable drop shadows
+		});
+
+		jQuery('ul.nav > li > a.sf-with-ul').parent('li').addClass('sf-ul');
+
+		et_search_bar();
+		et_footer_improvements('#footer .footer-widget');
+
+		<!---- et_switcher plugin v1.3 ---->
+		(function($)
+		{
+			$.fn.et_switcher = function(options)
+			{
+				var defaults =
+				{
+				   slides: '>div',
+				   activeClass: 'active',
+				   linksNav: '',
+				   findParent: true, //use parent elements in defining lengths
+				   lengthElement: 'li', //parent element, used only if findParent is set to true
+				   useArrows: false,
+				   arrowLeft: 'prevlink',
+				   arrowRight: 'nextlink',
+				   auto: false,
+				   autoSpeed: 5000
+				};
+
+				var options = $.extend(defaults, options);
+
+				return this.each(function()
+				{
+					var slidesContainer = jQuery(this);
+					slidesContainer.find(options.slides).hide().end().find(options.slides).filter(':first').css('display','block');
+
+					if (options.linksNav != '') {
+						var linkSwitcher = jQuery(options.linksNav);
+
+						linkSwitcher.click(function(){
+							var targetElement;
+
+							if (options.findParent) targetElement = jQuery(this).parent();
+							else targetElement = jQuery(this);
+
+							if (targetElement.hasClass('active')) return false;
+
+							targetElement.siblings().removeClass('active').end().addClass('active');
+
+							var ordernum = targetElement.prevAll(options.lengthElement).length;
+
+							slidesContainer.find(options.slides).filter(':visible').hide().end().end().find(options.slides).filter(':eq('+ordernum+')').stop(true,true).fadeIn(700);
+							return false;
+						});
+					};
+
+					jQuery('#'+options.arrowRight+', #'+options.arrowLeft).click(function(){
+
+						var slideActive = slidesContainer.find(options.slides).filter(":visible"),
+							nextSlide = slideActive.next(),
+							prevSlide = slideActive.prev();
+
+						if (jQuery(this).attr("id") == options.arrowRight) {
+							if (nextSlide.length) {
+								var ordernum = nextSlide.prevAll().length;
+							} else { var ordernum = 0; }
+						};
+
+						if (jQuery(this).attr("id") == options.arrowLeft) {
+							if (prevSlide.length) {
+								var ordernum = prevSlide.prevAll().length;
+							} else { var ordernum = slidesContainer.find(options.slides).length-1; }
+						};
+
+						slidesContainer.find(options.slides).filter(':visible').hide().end().end().find(options.slides).filter(':eq('+ordernum+')').stop(true,true).fadeIn(700);
+
+						if (typeof interval != 'undefined') {
+							clearInterval(interval);
+							auto_rotate();
+						};
+
+						return false;
+					});
+
+					if (options.auto) {
+						auto_rotate();
+					};
+
+					function auto_rotate(){
+						interval = setInterval(function(){
+							var slideActive = slidesContainer.find(options.slides).filter(":visible"),
+								nextSlide = slideActive.next();
+
+							if (nextSlide.length) {
+								var ordernum = nextSlide.prevAll().length;
+							} else { var ordernum = 0; }
+
+							if (options.linksNav === '')
+								jQuery('#'+options.arrowRight).trigger("click");
+							else
+								linkSwitcher.filter(':eq('+ordernum+')').trigger("click");
+						},options.autoSpeed);
+					};
+				});
+			}
+		})(jQuery);
+
+
+		var $featuredArea = jQuery('#featured'),
+			$all_tabs = jQuery('#all_tabs');
+
+		jQuery(window).load( function(){
+			if ($featuredArea.length) {
+				$featuredArea.addClass('et_slider_loaded').et_switcher({
+					useArrows: true ,
+											auto: true,
+											autoSpeed: 6000													});
+
+				if ( $featuredArea.find('.slide').length == 1 ){
+					jQuery('#featured-control a#prevlink, #featured-control a#nextlink').hide();
+				}
+			};
+		} );
+
+		if ($all_tabs.length) {
+			$all_tabs.et_switcher({
+				linksNav: 'ul#tab_controls li a'
+			});
+		};
+
+		
+		<!---- Footer Improvements ---->
+		function et_footer_improvements($selector){
+			var $footer_widget = jQuery($selector);
+
+			if (!($footer_widget.length == 0)) {
+				$footer_widget.each(function (index, domEle) {
+					if ((index+1)%4 == 0) jQuery(domEle).addClass("last").after("<div class='clear'></div>");
+				});
+			};
+		};
+
+		<!---- Search Bar Improvements ---->
+		function et_search_bar(){
+			var $searchform = jQuery('#cat-nav div#search-form'),
+				$searchinput = $searchform.find("input#searchinput"),
+				searchvalue = $searchinput.val();
+
+			$searchinput.focus(function(){
+				if (jQuery(this).val() === searchvalue) jQuery(this).val("");
+			}).blur(function(){
+				if (jQuery(this).val() === "") jQuery(this).val(searchvalue);
+			});
+		};
+
+	//]]>
+	</script>
+
+
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32332715-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><script type='text/javascript' src='http://vipnite.com/wp-content/plugins/q-and-a/js/q-a-plus.js?ver=1.0.6.2'></script>
+<script type='text/javascript' src='http://vipnite.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/vipnite.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://vipnite.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.9.1'></script>
+<script type='text/javascript' src='http://vipnite.com/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-timepicker/jquery-ui-timepicker-addon.min.js?ver=3.9.2'></script>
+<script type='text/javascript' src='http://vipnite.com/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-sliderAccess.js?ver=3.9.2'></script>
+<script type='text/javascript' src='http://vipnite.com/wp-content/themes/TheSource/epanel/page_templates/js/fancybox/jquery.easing-1.3.pack.js?ver=1.3.4'></script>
+<script type='text/javascript' src='http://vipnite.com/wp-content/themes/TheSource/epanel/page_templates/js/fancybox/jquery.fancybox-1.3.4.pack.js?ver=1.3.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_ptemplates_strings = {"captcha":"Captcha","fill":"Fill","field":"field","invalid":"Invalid email"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://vipnite.com/wp-content/themes/TheSource/epanel/page_templates/js/et-ptemplates-frontend.js?ver=1.1'></script>
+<!-- Facebook Comments for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=162286630577142";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+</body>
+
+</html>

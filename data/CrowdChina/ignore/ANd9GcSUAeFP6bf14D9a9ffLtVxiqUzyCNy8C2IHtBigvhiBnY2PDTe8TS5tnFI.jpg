@@ -1,0 +1,875 @@
+<!--[if i]><![endif]-->
+<!DOCTYPE html>
+<!--[if ie]><meta http-equiv=X-UA-Compatible content="IE=Edge"><![endif]-->
+<!--[if IEMobile 7]><html class="iem7" lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:fb="http://www.facebook.com/2008/fbml"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie10 lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:fb="http://www.facebook.com/2008/fbml"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie10 lt-ie9 lt-ie8" lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:fb="http://www.facebook.com/2008/fbml"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><![endif]-->
+<!--[if IE 8]><html class="lt-ie10 lt-ie9" lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:fb="http://www.facebook.com/2008/fbml"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><![endif]-->
+<!--[if lte IE 9]><html class="lt-ie10" lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:fb="http://www.facebook.com/2008/fbml"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><![endif]-->
+
+<!--[if IE 9]><html class="ie9" lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:fb="http://www.facebook.com/2008/fbml"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><![endif]-->
+
+<!--[if (gt IE 9)|(gt IEMobile 7)]><!--><html lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:fb="http://www.facebook.com/2008/fbml"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="fb:app_id" content="282931841805811" />
+<link rel="shortcut icon" href="http://www.scmp.com/sites/all/themes/scmp/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta property="fb:app_id" content="282931841805811"/>
+<meta property="og:site_name" content="South China Morning Post"/>
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.scmp.com/sites/default/files/styles/980w/public/2014/01/14/cny_bus_ap_china_lunar_new_year_travel_xay802_26399455.jpg%3Fitok%3DiIgrjLzX" />
+<meta property="og:title" content="403 Access Denied"/>
+<meta property="og:image" content="http://www.scmp.com/sites/all/themes/scmp/images/bookmark-icon.png"/>
+<meta name="description" content="Your source for credible news and authoritative insights from Hong Kong, China and the world." />
+<meta name="apple-itunes-app" content="app-id=623201967">
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/sites/all/themes/scmp_mini/images/touch-icon-ipad-retina.png">
+  <title>403 Access Denied | South China Morning Post</title>
+  <link type="text/css" rel="stylesheet" href="http://www.scmp.com/sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.scmp.com/sites/default/files/css/css_fDrG_yHTtgFgVsv8ZsfnZFbPFLJmUIzbylzJHifFik8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.scmp.com/sites/default/files/css/css_Z5mbbGkZOP53pHdOHrHmnnK4ZeN_LujKAJVfOqhkKes.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.scmp.com/sites/default/files/css/css_sq2yvvC2J_swtGGDtPXzozKuFd897h_-rnoQrIh2MB4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.scmp.com/sites/default/files/css/css_G-33P3c836kgbXi9mcQNLxUknprftOXhIQxhYlBG2Q4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.scmp.com/sites/default/files/css/css_eT7dqoCTEvbabqdeJnF06-ywhuSQ7FGNU6lNfKCxWxI.css" media="print" />
+
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" href="http://www.scmp.com/sites/default/files/css/css_k0HCrivERb4bt-1DpZqO_WMCxsvdXR5gGU5KjBtkyD8.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="http://www.scmp.com/sites/default/files/css/css_Hdfr8W3XiR1KElNWR11E3PuotIL-Ui9vCyneJ0gdMKA.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://www.scmp.com/sites/default/files/css/css_lOF60tUrRfXstxIKHQpNXZLwvv62l_ABcl1KKgyhyNk.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="http://www.scmp.com/sites/default/files/css/css_r7Y_Th2zWS-Gf4t5lVATuNyY7Ozn2acQFUoEcY9vvek.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="http://www.scmp.com/sites/default/files/css/css_svsebZyetrLuRQBchEQBMPqGpS_kneIxJX-9oQkzip8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.scmp.com/sites/default/files/css/css_pRRudfHsE42ox3ZZY3Uw6YYdoxg_I_GlauPYZtc8P84.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.scmp.com/sites/default/files/css_injector/css_injector_5.css?ncfa48" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://www.scmp.com/sites/default/files/css/css_NL6FlRmUDh6vALkPQy4vzuh-LU0FEqU5WmCMC4zKcC8.css" media="all" />
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.google_analytics_uacct = "UA-6891676-1";
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.scmp.com/sites/default/files/js/js_xAPl0qIk9eowy_iS9tNkCWXLUVoat94SQT48UBCFkyQ.js"></script>
+<script type="text/javascript" src="http://www.scmp.com/sites/default/files/js/js_rZ2WDaIKMViBhWAsbbe248_cAA-Qg3LsiB0jwA3xm78.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+/* Google DoubleClick GPT */
+    var gptadslots = gptadslots || [];
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+  
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.scmp.com/sites/default/files/js/js_G6OPgLexENqxjeYclMHWBwNDMPSzTz-lXCq4DX4845s.js"></script>
+<script type="text/javascript" src="http://www.scmp.com/sites/default/files/js/js_FPn_Mn9RWLbc-Eb41xegObYHjNOFoPqIfXPtsWmFkyE.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var mtGA = {"slot":2,"name":"Metered Access","value":false,"scope":1};
+//--><!]]>
+</script>
+<script type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js?ncfa48"></script>
+<script type="text/javascript" src="http://www.scmp.com/sites/default/files/js/js_IDBX5SzkJ9gGNq7x-qOE_2DZsexqguTJQGMKvi4w-Uw.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-6891676-1"]);_gaq.push(['_setCustomVar', 1, "user-role", "anonymous user", 1]);_gaq.push(["_trackPageview", "/403.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.scmp.com/sites/default/files/js/js_QYc82yMmja2H9Yirpmv8bHJn1AASDdI9dHMM7Kaef5I.js"></script>
+<script type="text/javascript" src="http://www.scmp.com/sites/default/files/js/js_pZLMpcRQVJsvzeyc_QnbpPR-fPnCVYPkowlXCuYf-88.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"scmp","theme_token":"ZZyTVUjL-Exf-Ds3ou1mVlO8H4sMcSVMikIex2Oa96Y","js":{"sites\/all\/modules\/features\/scmp_fpe\/scmp_fpe.js":1,"sites\/all\/modules\/custom\/scmp_megamenus\/js\/megamenus_wrapper.js":1,"sites\/all\/modules\/custom\/scmp_content\/js\/visual_revenue.js":1,"0":1,"1":1,"2":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"3":1,"misc\/jquery.cookie.js":1,"misc\/ui\/jquery.ui.datepicker.min.js":1,"sites\/all\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/image_caption\/image_caption.min.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/libraries\/device_detection\/device.js":1,"sites\/all\/modules\/custom\/scmp_search\/scmp_search.predict.js":1,"4":1,"\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"5":1,"sites\/all\/libraries\/lazyload\/jquery.lazyload.min.js":1,"sites\/all\/modules\/custom\/scmp_cache\/lazyload.js":1,"sites\/all\/modules\/custom\/scmp_content\/js\/strategy_movideo_player.js":1,"sites\/all\/themes\/scmp\/js\/datepicker-init.js":1,"sites\/all\/themes\/scmp\/js\/jquery.cycle.all.js":1,"sites\/all\/themes\/scmp\/js\/jcarousellite.js":1,"sites\/all\/themes\/scmp\/js\/jquery.carouFredSel-5.5.0-packed.js":1,"sites\/all\/themes\/scmp\/js\/jquery.qtip-1.0.0-rc3.min.js":1,"sites\/all\/themes\/scmp\/js\/script.js":1,"sites\/all\/themes\/scmp\/js\/fixFlash.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/ckeditor.css":1,"sites\/all\/libraries\/colorbox\/example1\/colorbox.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/custom\/scmp_search\/scmp_search.predict.css":1,"sites\/all\/modules\/contrib\/simplenews\/simplenews.css":1,"sites\/all\/modules\/contrib\/twitter_pull\/twitter-pull-listing.css":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"sites\/all\/modules\/custom\/scmp_megamenus\/css\/scmp_megamenus.css":1,"sites\/all\/modules\/features\/scmp_panels\/plugins\/layouts\/three_column_grid\/three_column_grid.css":1,"sites\/all\/themes\/scmp\/css\/html-reset.css":1,"sites\/all\/themes\/scmp\/css\/layout-fixed.css":1,"sites\/all\/themes\/scmp\/css\/page-backgrounds.css":1,"sites\/all\/themes\/scmp\/css\/tabs.css":1,"sites\/all\/themes\/scmp\/css\/blocks.css":1,"sites\/all\/themes\/scmp\/css\/pages.css":1,"sites\/all\/themes\/scmp\/css\/views-styles.css":1,"sites\/all\/themes\/scmp\/css\/nodes.css":1,"sites\/all\/themes\/scmp\/css\/comments.css":1,"sites\/all\/themes\/scmp\/css\/voting.css":1,"sites\/all\/themes\/scmp\/css\/forms.css":1,"sites\/all\/themes\/scmp\/css\/fields.css":1,"sites\/all\/themes\/scmp\/css\/footer.css":1,"sites\/all\/themes\/scmp\/css\/lightbox.css":1,"sites\/all\/themes\/scmp\/css\/adverts.css":1,"sites\/all\/themes\/scmp\/font\/font.css":1,"sites\/all\/themes\/scmp\/css\/print.css":1,"sites\/all\/themes\/scmp\/css\/ie.css":1,"sites\/all\/themes\/scmp\/css\/ie8.css":1,"sites\/all\/themes\/scmp\/css\/ie7.css":1,"sites\/all\/themes\/scmp\/css\/ie6.css":1,"sites\/all\/themes\/scmp_snake\/stylesheets\/masthead-combined.css":1,"sites\/all\/themes\/scmp_snake\/stylesheets\/snaketheme-pagestyles.css":1,"public:\/\/css_injector\/css_injector_2.css":1,"public:\/\/css_injector\/css_injector_5.css":1,"public:\/\/css_injector\/css_injector_6.css":1}},"chartbeat":{"uid":34625,"domain":"scmp.com","sections":", desktop","path":"\/sites\/default\/files\/styles\/980w\/public\/2014\/01\/14\/cny_bus_ap_china_lunar_new_year_travel_xay802_26399455.jpg%3Fitok%3DiIgrjLzX"},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"100%","maxHeight":"100%","fixed":true,"__drupal_alter_by_ref":["sites\/all\/libraries\/colorbox\/example1"]},"cr":{"txt":"\u003Cdiv class=\u0022bg-wrapper\u0022\u003E\r\n\t\u003Cimg class=\u0022bg\u0022 src=\u0022\/sites\/all\/themes\/scmp\/images\/lightbox\/meter-full.jpg\u0022 \/\u003E\u003C\/div\u003E\r\n\u003Cdiv class=\u0022popup-content\u0022\u003E\r\n\t\u003Ch1\u003E\r\n\t\tCookies required\u003C\/h1\u003E\r\n\t\u003Ch2\u003E\r\n\t\tCookies are required to login.\u003C\/h2\u003E\r\n\t\u003Cp\u003EPlease enable your cookies and then try logging in again.\u003C\/p\u003E\r\n\u003C\/div\u003E\r\n\u003Cdiv class=\u0022popout-footer\u0022\u003E\r\n\tMore info on \u003Ca href=\u0022http:\/\/support.google.com\/accounts\/bin\/answer.py?hl=en\u0026amp;answer=61416\u0022 style=\u0022color: black;\u0022\u003Ehow to enable cookies\u003C\/a\u003E\u003C\/div\u003E\r\n"},"scmpSearch":{"active":false},"scmp_megamenus":["news_megamenu","business_megamenu","opinion_megamenu","lifestyle_megamenu","sport_megamenu","property_megamenu","magazines_megamenu","multimedia_megamenu"],"scmp_advert_gpt":{"global":{"network_code":"8134","com_prefix":"scmp\/desktop","m_prefix":"mscmp\/mobile","default_ad_unit":"homepage\/hk","location":0,"m_location":0,"async":0,"sra":1,"collapse":1}},"fpe":{"HK":"\/frontpage\/hk","O1":"\/frontpage\/international"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackOutboundAsPageview":1},"visual_revenue":{"id":"273","automate":false}});
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.scmp.com/sites/all/modules/custom/scmp_advert/scmp_advert_gpt_sync.js?h=ncfa48"></script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-page-403 section-page-403 page-panels" >
+  <div id="skip-link">
+    <a href="#main-menu" class="element-invisible element-focusable">Jump to Navigation</a>
+  </div>
+  <div id="fb-root"></div><script type="text/javascript">
+     window.fbAsyncInit = function() {
+       FB.init({
+         appId: "282931841805811",
+         status: true,
+         cookie: true,
+         xfbml: true,
+         oauth : true,
+         channelUrl: "http:\/\/www.scmp.com\/fb_social\/channel"
+         });
+  
+         FB.Event.subscribe("edge.create", function(href, widget) {
+_gaq.push(["_trackEvent", "Facebook like", "Drupal", href]);
+});
+        var redirect_uri = 'http://www.scmp.com/fboauth/connect?destination=sites%2Fdefault%2Ffiles%2Fstyles%2F980w%2Fpublic%2F2014%2F01%2F14%2Fcny_bus_ap_china_lunar_new_year_travel_xay802_26399455.jpg%253Fitok%253DiIgrjLzX';
+
+        (function ($) {
+          FB.Event.subscribe('auth.login', function(response) {
+            var access_token = 'access_token=' + response.authResponse.accessToken;
+            access_token = ((redirect_uri.indexOf('?destination=') >= 0) ? '&' : '?') + access_token;
+            window.location = redirect_uri + access_token;
+          });
+
+          FB.Event.subscribe('auth.statusChange', function(response) {
+            if (response.status == 'connected') {
+              var access_token = 'access_token=' + response.authResponse.accessToken;
+              access_token = ((redirect_uri.indexOf('?destination=') >= 0) ? '&' : '?') + access_token;
+
+              // hide the true fb login div(s)
+              $('div.fb-login-button').hide();
+
+              // set the link on the 'fake' login button(s)
+              if ($('div.scmp-fb-login-button a')) {
+                $('div.scmp-fb-login-button a').each(function(i, e) {
+                  e.href = redirect_uri + access_token;
+                });
+              }
+
+              // make the 'fake' login button(s) visible
+              $('div.scmp-fb-login-button').show();
+            }
+          });
+        })(jQuery);
+     };
+     (function() {
+       var e = document.createElement('script');
+       e.async = true;
+       e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+       document.getElementById('fb-root').appendChild(e);
+     }());
+  </script>  <!--[esi_block]--><!--[\esi_block]--><div id="page-wrapper"><div id="page">
+
+  
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+
+    <div id="content" class="column"><div class="section">
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system first odd">
+
+      
+  <div class="content">
+    <div class="panel-display panel-1col clearfix" id="panel-403">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-panels-mini pane-masthead-minipanel pane-first pos-0" >
+    
+  
+  
+  
+  <div class="pane-content">
+      <div class="masthead-row row-03 columns-2">
+      <div class="masthead-col col-1">
+      <div class="panel-pane pane-block pane-menu-menu-guest-menu pane-last pos-1" >
+    
+  
+  
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf menu-1628 login"><a href="https://www.scmp.com/user/login?destination=sites/default/files/styles/980w/public/2014/01/14/cny_bus_ap_china_lunar_new_year_travel_xay802_26399455.jpg%3Fitok%3DiIgrjLzX" title="login">Login</a></li>
+<li class="last leaf menu-1629"><a href="https://www.scmp.com/subscribe" title="subscribe">Subscribe</a></li>
+</ul>  </div>
+
+  
+  </div>
+    </div>
+      <div class="masthead-col col-2">
+      <div class="panel-pane pane-block pane-menu-menu-supplementary-links-menu pane-first pos-0" >
+    
+  
+  
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf menu-2077"><a href="http://www.classifiedpost.com" title="Classified Post">ClassifiedPost</a></li>
+<li class="leaf menu-13958"><a href="/directories" title="LuxeHomes, Mice Biz, At Your Service and The Directory">Directories</a></li>
+<li class="leaf menu-4727"><a href="http://www.luxehomes.com.hk" title="A comprehensive bilingual guide to the hottest properties in Hong Kong">LuxeHomes</a></li>
+<li class="last leaf menu-33819"><a href="http://www.educationpost.com.hk/" title="Hong Kong&#039;s most comprehensive postgraduate course finder">EducationPost</a></li>
+</ul>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-apachesolr-panels-search-form pane-last pos-1" >
+    
+  
+  
+  
+  <div class="pane-content">
+    <form action="/sites/default/files/styles/980w/public/2014/01/14/cny_bus_ap_china_lunar_new_year_travel_xay802_26399455.jpg%3Fitok%3DiIgrjLzX" method="post" id="apachesolr-panels-search-block" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-apachesolr-panels-search-form">
+  <label class="element-invisible" for="edit-apachesolr-panels-search-form">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search" type="text" id="edit-apachesolr-panels-search-form" name="apachesolr_panels_search_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<input type="hidden" name="form_build_id" value="form-aacRvT6x76niFK7q6vtibltBsPfaUVUeszvF02JrLuw" />
+<input type="hidden" name="form_id" value="apachesolr_panels_search_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div></div></form>  </div>
+
+  
+  </div>
+    </div>
+    </div>
+  <div class="masthead-row row-04 columns-1">
+      <div class="masthead-col col-1">
+      <div class="panel-pane pane-page-logo pane-first pos-0" >
+    
+  
+  
+  
+  <div class="pane-content">
+    <a href="/" rel="home" id="logo" title="Home"><img data-original="http://www.scmp.com/sites/all/themes/scmp/logo.png" alt="Home" /></a>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-scmp-content-scmp-date pane-last pos-1" >
+    
+  
+  
+  
+  <div class="pane-content">
+    <div class="item-list"><ul class="date-info"><li class="day first" datetime="2014-10-07T05:46:33+08:00">Tuesday</li>
+<li class="date" datetime="2014-10-07T05:46:33+08:00">October 7, 2014</li>
+<li class="updated last" datetime="2014-10-07T05:45:08+08:00">Last updated: <span datetime="2014-10-07T05:45:08+08:00">5:45am</span>
+</li>
+</ul></div>  </div>
+
+  
+  </div>
+    </div>
+    </div>
+  <div class="masthead-row row-05 columns-1">
+      <div class="masthead-col col-1">
+      <div class="panel-pane pane-block pane-scmp-menus-scmp-main-menu pane-first pane-last pos-0" >
+    
+  
+  
+  
+  <div class="pane-content">
+    <div id="navigation"><div class="section clearfix"><h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="links inline clearfix"><li class="menu-514 first"><a href="/home" title="">Home</a></li>
+<li class="menu-12781"><a href="/news" title="" class="scmp-megamenu scmp-megamenu-12781" data-megamenu="news_megamenu">News</a></li>
+<li class="menu-13160"><a href="/business" title="" class="scmp-megamenu scmp-megamenu-13160" data-megamenu="business_megamenu">Business</a></li>
+<li class="menu-12780"><a href="/comment" title="" class="scmp-megamenu scmp-megamenu-12780" data-megamenu="opinion_megamenu">Comment</a></li>
+<li class="menu-12972"><a href="/lifestyle" title="" class="scmp-megamenu scmp-megamenu-12972" data-megamenu="lifestyle_megamenu">Lifestyle</a></li>
+<li class="menu-12784"><a href="/sport" title="" class="scmp-megamenu scmp-megamenu-12784" data-megamenu="sport_megamenu">Sport</a></li>
+<li class="menu-12782"><a href="/property" title="" class="scmp-megamenu scmp-megamenu-12782" data-megamenu="property_megamenu">Property</a></li>
+<li class="menu-35871"><a href="/magazines" title="" class="scmp-megamenu scmp-megamenu-35871" data-megamenu="magazines_megamenu">Magazines</a></li>
+<li class="menu-36631 last"><a href="/infographics" title="" class="scmp-megamenu scmp-megamenu-0" data-megamenu="multimedia_megamenu">Multimedia</a></li>
+</ul></div></div>  </div>
+
+  
+  </div>
+    </div>
+    </div>
+  <div class="masthead-row row-06 columns-2">
+      <div class="masthead-col col-1">
+      <div class="panel-pane pane-page-breadcrumb pane-first pos-0" >
+    
+  
+  
+  
+  <div class="pane-content">
+    <div class="breadcrumb"><h2 class="element-invisible">You are here</h2><a href="/">Home</a>    </div>  </div>
+
+  
+  </div>
+    </div>
+      <div class="masthead-col col-2">
+      <div class="panel-pane pane-views-panes pane-terms-topics-by-count pane-first pos-0 created--1-year" >
+    
+  
+      <h2 class="pane-title">Trending</h2>
+  
+  
+  <div class="pane-content">
+    <div class="view view-terms view-id-terms view-display-id-topics_by_count view-dom-id-4ba2db87e8dcdb85f9bb3fa7f7a1adac">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topics/xi-jinping">Xi Jinping</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topics/edward-snowden">Edward Snowden</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/topics/chart-book">Chart Book</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+    </div>
+    </div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-1 pos-1" >
+    
+  
+  
+  
+  <div class="pane-content">
+    <p><img data-original="/sites/all/themes/scmp/images/error-bkrd.jpg" title="403" /></p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-2 pos-2" >
+    
+  
+      <h2 class="pane-title">Sorry...</h2>
+  
+  
+  <div class="pane-content">
+    <h3 class="subtitle">
+	You are not authorized to access the requested URL.</h3>
+<ul><li>
+		Try <a href="/user">logging in</a> first.</li>
+<li>
+		If you think there is a technical problem, please <a href="/contact">contact us here</a>.</li>
+</ul><p>To return to <a href="/">SCMP.com</a> use the navigation or <a href="/">click here</a> to return to the homepage. Alternatively try searching for the page below.</p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-apachesolr-panels-search-form pos-3" >
+    
+  
+  
+  
+  <div class="pane-content">
+    <form action="/sites/default/files/styles/980w/public/2014/01/14/cny_bus_ap_china_lunar_new_year_travel_xay802_26399455.jpg%3Fitok%3DiIgrjLzX" method="post" id="apachesolr-panels-search-block--2" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-apachesolr-panels-search-form">
+  <label class="element-invisible" for="edit-apachesolr-panels-search-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="Search" type="text" id="edit-apachesolr-panels-search-form--2" name="apachesolr_panels_search_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<input type="hidden" name="form_build_id" value="form-B9wJh_BHfRZ4nzyCRBEsNOS27UzYHLV-vpS0s0rjGdA" />
+<input type="hidden" name="form_id" value="apachesolr_panels_search_block" />
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Search" class="form-submit" /></div></div></form>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-footer pane-last pos-4" >
+    
+  
+  
+  
+  <div class="pane-content">
+    <div class="panel-display panel-three-column-grid clearfix panels-three-column-grid" id="mini-panel-footer">
+  <div class="inside-first">
+
+          <!-- Row 1 -->
+      <div class="row-wrapper clearfix row-1-wrapper col-count-2 cols-1-2 first-row">
+                <div class="panel-col panel-col-1">
+            <div class="inside"><div class="panel-pane pane-block pane-menu-block-2 pane-first pane-last pos-0" >
+  
+  
+      <h3>Sections</h3>
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-2 menu-name-menu-footer parent-mlid-2928 menu-level-1">
+  <div class="menu-footer-menu-column">
+    <ul class="menu"><li class="first leaf menu-mlid-2930 menu-2930"><a href="/news/hong-kong" title="">Hong Kong News</a></li>
+<li class="leaf menu-mlid-2931 menu-2931"><a href="/news/asia" title="">Asia News</a></li>
+<li class="leaf menu-mlid-2932 menu-2932"><a href="/news/china" title="">China News</a></li>
+<li class="leaf menu-mlid-41151 menu-41151"><a href="/news/china-insider" title="China Insider">China Insider</a></li>
+<li class="leaf menu-mlid-41152 menu-41152"><a href="/news/china-digest" title="China Digest">China Digest</a></li>
+<li class="leaf menu-mlid-2933 menu-2933"><a href="/news/world" title="">World News</a></li>
+<li class="leaf menu-mlid-2934 menu-2934"><a href="/business" title="">Business</a></li>
+<li class="leaf menu-mlid-2935 menu-2935"><a href="/business/money" title="">Money</a></li>
+<li class="leaf menu-mlid-2936 menu-2936"><a href="/comment" title="">Comment</a></li>
+<li class="leaf menu-mlid-2937 menu-2937"><a href="/comment/insight-opinion" title="">Insight &amp; Opinion</a></li>
+<li class="leaf menu-mlid-2938 menu-2938"><a href="/comment/blogs" title="">Blogs</a></li>
+<li class="leaf menu-mlid-2939 menu-2939"><a href="/lifestyle" title="">Lifestyle</a></li>
+</ul>  </div>
+  <div class="menu-footer-menu-column">
+    <ul class="menu"><li class="leaf menu-mlid-41153 menu-41153"><a href="/lifestyle/technology" title="Technology">Technology</a></li>
+<li class="leaf menu-mlid-2940 menu-2940"><a href="/sport" title="">Sport</a></li>
+<li class="leaf menu-mlid-2941 menu-2941"><a href="/property" title="">Property</a></li>
+<li class="leaf menu-mlid-2943 menu-2943"><a href="/photos" title="">Photos</a></li>
+<li class="leaf menu-mlid-2944 menu-2944"><a href="/video" title="">Video</a></li>
+<li class="leaf menu-mlid-2945 menu-2945"><a href="/magazines" title="">Magazines</a></li>
+<li class="leaf menu-mlid-2946 menu-2946"><a href="/magazines/post-magazine" title="">Post Magazine</a></li>
+<li class="leaf menu-mlid-2947 menu-2947"><a href="/magazines/style" title="">Style</a></li>
+<li class="leaf menu-mlid-2948 menu-2948"><a href="/magazines/money" title="">Money</a></li>
+<li class="leaf menu-mlid-2949 menu-2949"><a href="/magazines/good-eating" title="">Good Eating</a></li>
+<li class="leaf menu-mlid-2950 menu-2950"><a href="/magazines/faces" title="">Faces</a></li>
+<li class="leaf menu-mlid-35347 menu-35347"><a href="http://www.scmp.com/magazines/48hrs" title="48 Hours - Your weekend starts Thursday!">48 Hours</a></li>
+</ul>  </div>
+  <div class="menu-footer-menu-column">
+    <ul class="menu"><li class="leaf menu-mlid-2951 menu-2951"><a href="http://racing.scmp.com/" title="">Racing Post</a></li>
+<li class="leaf menu-mlid-2952 menu-2952"><a href="http://www.yp.scmp.com" title="">Young Post</a></li>
+<li class="leaf menu-mlid-2954 menu-2954"><a href="http://www.scmpchinese.com" title="">南华早报中文网</a></li>
+<li class="leaf menu-mlid-2957 menu-2957"><a href="/weather" title="">Weather</a></li>
+<li class="leaf menu-mlid-21137 menu-21137"><a href="/most-popular" title="Most popular">Most popular</a></li>
+<li class="leaf menu-mlid-30182 menu-30182"><a href="/timemachine" title="Homepage Time Machine &amp; 7 Day Index">Homepage Time Machine</a></li>
+<li class="leaf menu-mlid-32073 menu-32073"><a href="/timemachine" title="7 Day Index and Homepage Time Machine">7 Day Index</a></li>
+<li class="leaf menu-mlid-30187 menu-30187"><a href="/lifestyle/crossword" title="Daily Crossword Puzzle">Crossword</a></li>
+<li class="leaf menu-mlid-30188 menu-30188"><a href="/lifestyle/sudoku" title="Sudoku">Sudoku</a></li>
+<li class="leaf menu-mlid-32452 menu-32452"><a href="/lifestyle/bridge" title="Today&#039;s Bridge Puzzle">Bridge Puzzle</a></li>
+<li class="leaf menu-mlid-30189 menu-30189"><a href="/promotions" title="SCMP&#039;s latest promotions and competitions">Promotions</a></li>
+<li class="last leaf menu-mlid-31882 menu-31882"><a href="/specialreports" title="Special Reports">Special Reports</a></li>
+</ul>  </div>
+</div>
+  </div>
+</div>
+</div>
+          </div>
+                          <div class="panel-col panel-col-2">
+            <div class="inside"><div class="panel-pane pane-block pane-menu-block-3 pane-first pos-0" >
+  
+  
+      <h3>Subscriptions</h3>
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-menu-footer parent-mlid-2959 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-2960 menu-2960"><a href="https://www.scmp.com/subscribe" title="">South China Morning Post</a></li>
+<li class="leaf menu-mlid-2961 menu-2961"><a href="/subscribe/digital" title="">SCMP.com</a></li>
+<li class="last leaf menu-mlid-2962 menu-2962"><a href="/subscribe/corporate" title="">Corporate subscriptions</a></li>
+</ul></div>
+  </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-block-4 pos-1" >
+  
+  
+      <h3>Classified Post</h3>
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-menu-footer parent-mlid-2963 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-2964 menu-2964"><a href="http://www.classifiedpost.com/hk" title="">Find a Job</a></li>
+<li class="last leaf menu-mlid-2965 menu-2965"><a href="http://www.classifiedpost.com/hk/news-advice" title="">News &amp; Advice</a></li>
+</ul></div>
+  </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-block-5 pos-2" >
+  
+  
+      <h3>Education Post</h3>
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-5 menu-name-menu-footer parent-mlid-2967 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-2968 menu-2968"><a href="http://www.educationpost.com.hk/courses" title="">Find a course</a></li>
+<li class="leaf menu-mlid-2969 menu-2969"><a href="http://www.educationpost.com.hk/institutions" title="">Featured Institutions</a></li>
+<li class="last leaf menu-mlid-2970 menu-2970"><a href="http://www.educationpost.com.hk/mba" title="">The MBA Centre</a></li>
+</ul></div>
+  </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-block-6 pos-3" >
+  
+  
+      <h3>Services</h3>
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-6 menu-name-menu-footer parent-mlid-2971 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-35346 menu-35346"><a href="http://www.scmp.com/mobile" title="SCMP Mobile Edition for iPhone and Android mobile">SCMP Mobile Edition</a></li>
+<li class="leaf menu-mlid-2976 menu-2976"><a href="http://www.scmp.com/tabletedition" title="Introducing the SCMP Tablet Edition for iPads and Android Tablets">SCMP Tablet Edition</a></li>
+<li class="leaf menu-mlid-40278 menu-40278"><a href="/epaper" title="SCMP ePaper Edition">SCMP ePaper Edition</a></li>
+<li class="leaf menu-mlid-2972 menu-2972"><a href="http://photo.scmp.com" title="Buy SCMP Photos">Buy SCMP Photos</a></li>
+<li class="leaf menu-mlid-2973 menu-2973"><a href="/reprint-policy" title="">Copyright Licensing</a></li>
+<li class="last leaf menu-mlid-31879 menu-31879"><a href="/archive" title="">10-Year News Archive</a></li>
+</ul></div>
+  </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-block-8 pane-last pos-5" >
+  
+  
+      <h3>Jiu Jik</h3>
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-8 menu-name-menu-footer parent-mlid-2979 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-2980 menu-2980"><a href="http://www.jiujik.com/jssearch.php?page=0&amp;fuzzy=y&amp;industryQ=&amp;jobtypeQ=&amp;quickkeyword=&amp;x=43&amp;y=9" title="">Find a Job</a></li>
+<li class="leaf menu-mlid-43026 menu-43026"><a href="http://www.jiujik.com/job-channels/hotel-catering-jobs" title="">Catering, Hotel &amp; Tourism</a></li>
+<li class="last leaf menu-mlid-43027 menu-43027"><a href="http://www.jiujik.com/job-channels/retail-jobs" title="">Retail</a></li>
+</ul></div>
+  </div>
+</div>
+</div>
+          </div>
+                      </div>
+      <!-- / Row 1 -->
+      <div class="panel-separator"></div>
+    
+    <div class="wrapper-panel-inner panel-content-mini-panel-footer">
+      
+                  <!-- Row 2 -->
+          <div class="row-wrapper clearfix row-2-wrapper col-count-2 cols-1-2">
+            <div class="row-inner clearfix">
+                              <div class="panel-col panel-col-1">
+                  <div class="inside"><div class="panel-pane pane-block pane-menu-block-9 pane-first pos-0" >
+  
+  
+      <h3>Directories</h3>
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-9 menu-name-menu-footer parent-mlid-19577 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-22118 menu-22118"><a href="http://www.ays.com.hk/" title="Serviced Apartments in Hong Kong, China and Southeast Asia">At Your Service</a></li>
+<li class="leaf menu-mlid-30185 menu-30185"><a href="http://business-services.scmp.com/" title="Business Services Directory">Business Services </a></li>
+<li class="leaf menu-mlid-30186 menu-30186"><a href="http://goodeating.scmp.com/restaurants/" title="Good Eating Restaurant Directory (Hong Kong)">HK Restaurant Directory</a></li>
+<li class="leaf menu-mlid-22119 menu-22119"><a href="http://mice.scmp.com/" title="">Mice Biz</a></li>
+<li class="leaf menu-mlid-22120 menu-22120"><a href="/directories" title="">The Directory</a></li>
+<li class="last leaf menu-mlid-19581 menu-19581"><a href="http://www.luxehomes.com.hk" title="">LuxeHomes</a></li>
+</ul></div>
+  </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-block-10 pane-last pos-1" >
+  
+  
+      <h3>Advertising Opportunities</h3>
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-10 menu-name-menu-footer parent-mlid-2987 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-2988 menu-2988"><a href="http://advertising.scmp.com/marketing_guide" title="Hong Kong Rate Card">Hong Kong Rate Card</a></li>
+<li class="leaf menu-mlid-2989 menu-2989"><a href="http://advertising.scmp.com/marketing_guide/ratecard_overseas.html" title="Overseas Rate Card">Overseas Rate Card</a></li>
+<li class="leaf menu-mlid-2990 menu-2990"><a href="http://advertising.scmp.com/marketing_guide/ratecard_china.html" title="China Rate Card">China Rate Card</a></li>
+<li class="leaf menu-mlid-34976 menu-34976"><a href="http://advertising.scmp.com" title="The Marketer">The Marketer</a></li>
+<li class="collapsed menu-mlid-2991 menu-2991"><a href="http://advertising.scmp.com/marketingsolutions" title="">SCMP Marketing Solutions</a></li>
+<li class="leaf menu-mlid-2993 menu-2993"><a href="http://advertising.scmp.com/recruiter/index.asp" title="">Recruitment Advertising</a></li>
+<li class="last leaf menu-mlid-43029 menu-43029"><a href="http://outdoormedia.scmp.com" title="">SCMP Outdoor Media</a></li>
+</ul></div>
+  </div>
+</div>
+</div>
+                </div>
+                                            <div class="panel-col panel-col-2">
+                  <div class="inside"><div class="panel-pane pane-block pane-menu-block-11 pane-first pos-0" >
+  
+  
+      <h3>Events</h3>
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-11 menu-name-menu-footer parent-mlid-2994 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-2995 menu-2995"><a href="http://conferences.scmp.com/" title="">SCMP Events</a></li>
+<li class="leaf menu-mlid-2996 menu-2996"><a href="http://osc.scmp.com/" title="">Operation Santa Claus</a></li>
+<li class="last leaf menu-mlid-2997 menu-2997"><a href="http://homesforhope.scmp.com/about.asp" title="">Homes For Hope</a></li>
+</ul></div>
+  </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-block-12 pos-1" >
+  
+  
+      <h3>Magazines</h3>
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-12 menu-name-menu-footer parent-mlid-19578 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-19582 menu-19582"><a href="http://www.cosmopolitan.com.hk/" title="">Cosmopolitan</a></li>
+<li class="leaf menu-mlid-19583 menu-19583"><a href="http://www.cosmogirl.com.hk/" title="">CosmoGIRL!</a></li>
+<li class="leaf menu-mlid-30184 menu-30184"><a href="http://elle.com.hk" title="Elle Magazine">Elle</a></li>
+<li class="leaf menu-mlid-19580 menu-19580"><a href="http://www.harpersbazaar.com.hk/home.jsp" title="">Harpers Bazaar</a></li>
+<li class="leaf menu-mlid-41436 menu-41436"><a href="http://hk-magazine.com/" title="HK Magazine">HK Magazine</a></li>
+<li class="leaf menu-mlid-41437 menu-41437"><a href="http://thelist.com.hk/" title="The List">The List</a></li>
+<li class="last leaf menu-mlid-41438 menu-41438"><a href="http://www.destination-macau.com/en/home" title="Destination Macau">Destination Macau</a></li>
+</ul></div>
+  </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-block-13 pane-last pos-2" >
+  
+  
+      <h3>Connect with Us</h3>
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-13 menu-name-menu-footer parent-mlid-3003 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-3004 menu-3004"><a href="http://www.facebook.com/southchinamorningpost" title="">SCMP on Facebook</a></li>
+<li class="leaf menu-mlid-3005 menu-3005"><a href="http://twitter.com/#!/SCMP_News" title="">SCMP on Twitter</a></li>
+<li class="leaf menu-mlid-3006 menu-3006"><a href="/newsletters" title="">Newsletters</a></li>
+<li class="last leaf menu-mlid-3007 menu-3007"><a href="/rss" title="">RSS</a></li>
+</ul></div>
+  </div>
+</div>
+</div>
+                </div>
+                                        </div>
+          </div>
+          <!-- / Row 2 -->
+          <div class="panel-separator"></div>
+        
+      
+                  <!-- Row 3 -->
+          <div class="row-wrapper clearfix row-3-wrapper col-count-1 cols-1 last-row">
+            <div class="row-inner clearfix">
+                              <div class="panel-col panel-col-1">
+                  <div class="inside"><div class="panel-pane pane-custom pane-3 pos-1" >
+  
+  
+  
+  <div class="pane-content">
+    <p>Copyright © 2014 South China Morning Post Publishers Ltd. All rights reserved.</p>
+  </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-menu-menu-footer-base pane-last pos-2" >
+  
+  
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf menu-3168"><a href="http://www.scmpgroup.com" title="">SCMP Group</a></li>
+<li class="leaf menu-3169"><a href="/privacy-policy" title="">Privacy Policy</a></li>
+<li class="leaf menu-3170"><a href="/faqs" title="">FAQs</a></li>
+<li class="leaf menu-3171"><a href="/terms-conditions" title="">Terms &amp; Conditions</a></li>
+<li class="leaf menu-3172"><a href="http://www.scmpgroup.com/work_for_us.asp" title="">Work For Us</a></li>
+<li class="last leaf menu-3173"><a href="/contactus" title="">Contact Us</a></li>
+</ul>  </div>
+</div>
+</div>
+                </div>
+                                                      </div>
+          </div>
+          <!-- / Row 3 -->
+          <div class="panel-separator"></div>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          </div>  <!-- / wrapper-panel-inner -->
+  </div>  <!-- / inside first -->
+</div>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+
+</div><!-- /.block -->
+<div id="block-user-login" class="block block-user last even">
+ <div id="form-user-login">
+ 	<div class="region-header">
+		<img data-original="/sites/all/themes/scmp/logo.png" title="SCMP.com">
+	</div>
+  <div id="main-wrapper">
+  <h2 class="block-title">Login</h2>
+  
+  <div class="errors"></div>
+  <div class="content" class="clearfix">
+    <div class="left">
+		<h2>SCMP.com Account</h2>
+   		<form action="https://www.scmp.com/user/login?destination=sites/default/files/styles/980w/public/2014/01/14/cny_bus_ap_china_lunar_new_year_travel_xay802_26399455.jpg%3Fitok%3DiIgrjLzX" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input tabindex="1" placeholder="Username" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input tabindex="2" placeholder="Password" type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<input type="hidden" name="form_build_id" value="form-IzvHfB5_wubsat9CvuzxSaqFU8jDC2xDCQHTw7mpIYc" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-item form-type-checkbox form-item-scmp-profile-remember-me">
+ <input type="checkbox" id="edit-scmp-profile-remember-me" name="scmp_profile_remember_me" value="1" checked="checked" class="form-checkbox" />  <label class="option" for="edit-scmp-profile-remember-me">Remember Me </label>
+
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--3"><input type="submit" id="edit-submit--3" name="op" value="Log in" class="form-submit" /><a href="https://www.scmp.com/user/password" title="Request new password.">Forgotten password</a></div></div></form>    </div>
+    	<div class="left no-bkrd">
+		<p>or</p>
+	</div>
+	<div class="left partner-login">
+		<h2>Log in using a partner site</h2>
+		<p class="partner-facebook">Log in using your Facebook account. <a href="/page/800174/faqs">What's this?</a></p>
+    <div class="scmp-fb-login-button" style="display:none;"><a class="fb_button fb_button_medium"><span class="fb_button_text">Login with Facebook</span></a></div><div class="fb-login-button" data-show-faces="false" data-scope="email">Login with Facebook</div><!--		<p class="partner-twitter">--><!-- <a href="#">--><!--</a></p>-->
+<!--		<p class="twitter-login-block">--><!--</p>-->
+	</div>
+		<p class="clear subscribe">Don't have an SCMP.com account? <a href="/subscribe">Subscribe Now!</a></p>
+  </div></div></div>
+</div><!-- /.block -->
+<div id="device-tablet"></div>  </div><!-- /.region -->
+    </div></div><!-- /.section, /#content -->
+
+  </div></div><!-- /#main, /#main-wrapper -->
+
+    <div class="region region-footer">
+    <div id="block-scmp-content-colorbox-promo-2" class="block block-scmp-content first last odd">
+
+      
+  <div class="content">
+    
+        <script type='text/javascript'>
+          (function ($) {
+            $(document).ready(function () {
+              setTimeout(function () {
+                if((($.isAndroidTablet() || $.isTablet())) && (!$('#colorbox').is(':visible')) && ($.cookie('Drupal.visitor.cbox_1') == undefined)){
+                    $('body').addClass('colorbox_promo');
+                    var options = {
+                    innerWidth: 550,
+                    innerHeight: 450,
+                    href: '/promo/content/colorbox_promo_2',
+                    onClosed: function(){
+                      
+                      $('body').removeClass('colorbox_promo');
+                    }
+                  }
+                  $.colorbox(options);
+                  $('#colorbox').addClass('colorbox_promo colorbox_promo_2');
+                }
+              }, $('body').hasClass('mt') ? 5000 : 0);
+            });
+            Drupal.behaviors.colorbox_hide = {
+              attach: function (context, settings) {
+                $('#colorbox_msg_hide').click(function(){
+                  if($(this).is(':checked')){
+                    $.cookie('Drupal.visitor.cbox_1', 1, { path: '/', expires: 30 });
+                    $.colorbox.close();
+                  }
+                });
+                $('#colorbox .close').click(function(){
+                  $.colorbox.close();
+                });
+              }
+            };
+          }(jQuery));
+        </script>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+
+</div></div><!-- /#page, /#page-wrapper -->
+  <script type="text/javascript" src="http://www.scmp.com/sites/default/files/js/js_jl6CarAHXBa0k5mPaQOrpGCweYJmMFhHjz0njLuYyXo.js"></script>
+<script type="text/javascript" src="http://www.scmp.com/sites/default/files/js/js_TAcMus5IYvprpPk9ziS8zlDUWn2_B-p_RSHt3ZqTRbA.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+    // Add Chartbeat
+    var _sf_async_config = Drupal.settings.chartbeat;
+    (function($){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement("script");
+        e.setAttribute("language", "javascript");
+        e.setAttribute("type", "text/javascript");
+        e.setAttribute("src" , "//static.chartbeat.com/js/chartbeat_video.js") ;
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      var delay = window.location.pathname == "/video" ? 1000 : 0;
+      window.onload = (typeof window.onload != "function") ?
+         loadChartbeat : function() { oldonload(); setTimeout(function() { loadChartbeat(); }, delay); };
+    })(jQuery);
+      
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6687883" });
+(function() {
+  var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+  s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+  el.parentNode.insertBefore(s, el);
+})();
+//--><!]]>
+</script>
+</body>
+</html>
