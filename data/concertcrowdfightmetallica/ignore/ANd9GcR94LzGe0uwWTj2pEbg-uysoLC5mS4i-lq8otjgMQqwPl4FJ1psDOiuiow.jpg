@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Not Found</title>
+		<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1" />
+        <meta http-equiv="Content-Language" content="en-us" />
+        <meta http-equiv="imagetoolbar" content="no" />
+        <link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon" />
+        <script type="text/javascript" src="http://www.npr.org/templates/javascript/generated/dynamicWithPlayer.js"></script>	
+		<style type="text/css" media="screen">@import "http://www.npr.org/templates/css/generated/newsStatic.css";</style>
+    </head>
+	<body class="missing-404">	
+	<script type="text/javascript">
+//<![CDATA[
+
+function getDateStr()
+    {
+        var today = new Date();
+        var year = today.getYear();
+        if(year<1000) year+=1900;
+        var todayStr = toFullMonth(today.getMonth()) + " " + today.getDate() + ", " + year;
+        return todayStr;
+    }
+
+//]]>
+</script>
+
+<div id="header">
+
+    <div id="login">
+		<div id="todaysdate">
+		<script type="text/javascript">
+			 //<![CDATA[
+			 document.write(getDateStr());
+			 //]]>
+		</script>
+		</div>
+
+		<div class="loginwrap">
+			<div class="donate"><a href="/stations/donate/index.php" data-action="Click Business Link" data-metrics='{"action":"Click Business Link","label":"/stations/donate/index.php","category":"News Navigation"}'></a></div>
+	    	<p id="loginPElm">
+				<!--<a href="/stations/donate/" class="donate">Donate</a> | -->
+				<a href="http://shop.npr.org/?utm_source=topnav&amp;utm_medium=topnav&amp;utm_campaign=topnav" class="shop" data-action="Click Business Link" data-metrics='{"action":"Click Business Link","label":"http://shop.npr.org/?utm_source=topnav&amp;utm_medium=topnav&amp;utm_campaign=topnav","category":"News Navigation"}'>NPR Shop</a> |
+				<a href="/templates/community/" class="comm" data-action="Click Business Link" data-metrics='{"action":"Click Business Link","label":"/templates/community/","category":"News Navigation"}'>NPR Social Media</a> |
+				<a href="/templates/reg/login.php" data-action="Click Business Link" data-metrics='{"action":"Click Business Link","label":"/templates/reg/login.php","category":"News Navigation"}'>Sign In</a> |
+				<a href="/templates/reg" class="reg" data-action="Click Business Link" data-metrics='{"action":"Click Business Link","label":"/templates/reg","category":"News Navigation"}'>Register</a>
+			</p>
+		</div>
+
+	</div>
+
+    <div class="headercontent">
+        <a href="/" data-action="Click Logo" data-metrics='{"action":"Click Logo","label":"/","category":"News Navigation"}'><img src="http://media.npr.org/chrome/news/nprlogo_138x46.gif" width="138" height="46" alt="NPR" /></a>
+
+        <div id="stationLocalizationWrap" class="supportwrap">
+            <div class="support">
+                <p><a href="/templates/stations/stations/" class="find" data-metrics='{"action":"Toggle Drawer","category":"Station Drawer"}'>Find a Station</a></p>
+            </div>
+        </div>
+
+        <!--<div class="topnavSponsor">
+            <div class="searchSponsorTxt">Support<br />provided by:</div>
+            <div class="searchSponsor"><a href=""><img src="/banners/generic_88x31.gif" width="88" height="31" alt="" /></a></div>
+        </div>-->
+
+		<!-- DFP Search Sponsorship -->
+        <!-- COMMENTED IN - IN USE CURRENTLY -->
+        <div class="topnavSponsor" id="ad-88">
+            <div class="ad-88-text">Support<br />provided by:</div>
+
+			<script type="text/javascript">
+			<!--
+			try {
+			    googletag.cmd.push(function() { googletag.display('ad-88'); });
+			} catch(e){
+			    NPR.messaging.warning('Problem fetching/rendering ad server code: ' + e.message,'googletag.display',NPR.messaging.constants.SPONSORSHIP_ERROR);
+			}
+			// -->
+			</script>
+        </div>
+
+        <form action="/search/index.php" method="get" name="searchForm" id="searchForm" class="search">
+			<label for="searchinput">Search</label>
+			<input type="text" name="searchinput" id="searchinput" class="textbox searchbox" />
+			<input type="button" value="Go" class="btn_go" onclick="submit();" />
+		</form>
+
+    </div>
+
+    <!-- localization dropdown -->
+    <div class="ddstn">
+
+        <!-- station info will be written here -->
+        <div id="station_info" class="station"></div>
+
+        <a href="javascript:void(0);" class="closemenu">close</a>
+
+        <div class="stationdata_arrow">&nbsp;</div>
+
+    </div>
+
+
+    <!-- global nav -->
+    <ul id="nav">
+        <li class="navhome"><a href="/" data-action="Click Home" data-metrics='{"action":"Click Home","label":"/","category":"News Navigation"}'>home</a></li>
+        <li class="navnews"><a href="/sections/news/" data-action="Click News" data-metrics='{"action":"Click News","label":"/sections/news/","category":"News Navigation"}'>news</a></li>
+        <li class="navarts"><a href="/sections/arts/" data-action="Click Arts & Life" data-metrics='{"action":"Click Arts & Life","label":"/sections/arts/","category":"News Navigation"}'>arts &amp; life</a></li>
+        <li class="navmusic"><a href="/music/" data-action="Click Music" data-metrics='{"action":"Click Music","label":"/music/","category":"News Navigation"}'>music</a></li>
+        <li class="navprograms"><a href="javascript:void(0);" data-action="Open Program Drawer" class="programs" data-metrics='{"action":"Open Program Drawer","label":"javascript:void(0);","category":"News Navigation"}'>programs</a></li>
+        <li class="navlisten"><a href="javascript:void(0);" data-action="Open Listen Drawer" class="listen" data-metrics='{"action":"Open Listen Drawer","label":"javascript:void(0);","category":"News Navigation"}'>listen</a></li>
+        <li class="navhourly"><a href="javascript:getNewsCast();" data-action="Play Hourly News" class="hourlyNews" data-metrics='{"action":"Play Hourly News","label":"navigation","category":"News Navigation"}'></a></li>
+        <li class="navpodcasts"><a href="/podcasts/" data-action="Click Podcasts" data-metrics='{"action":"Click Podcasts","label":"/podcasts/","category":"News Navigation"}'></a></li>
+    </ul>
+
+    <!-- programs dropdown -->
+    <div id="menuprograms">
+        <div class="col news">
+            <h3>news</h3>
+            <ul class="left">
+                <li><a href="/programs/morning-edition/" data-metrics='{"action":"Click Program","label":"/programs/morning-edition/","category":"News Navigation"}'>Morning Edition</a></li>
+                <li><a href="/programs/all-things-considered/" data-metrics='{"action":"Click Program","label":"/programs/all-things-considered/","category":"News Navigation"}'>All Things Considered</a></li>
+                <li><a href="/programs/fresh-air/" data-metrics='{"action":"Click Program","label":"/programs/fresh-air/","category":"News Navigation"}'>Fresh Air</a></li>
+                <li><a href="http://hereandnow.wbur.org/" data-metrics='{"action":"Click Program","label":"http://hereandnow.wbur.org/","category":"News Navigation"}'>Here &amp; Now</a></li>
+                <li><a href="http://thedianerehmshow.org" data-metrics='{"action":"Click Program","label":"http://thedianerehmshow.org","category":"News Navigation"}'>The Diane Rehm Show</a></li>
+                <li><a href="/programs/latino-usa/" data-metrics='{"action":"Click Program","label":"/programs/latino-usa/","category":"News Navigation"}'>Latino USA</a></li>
+                <li><a href="http://www.onthemedia.org" data-metrics='{"action":"Click Program","label":"http://www.onthemedia.org","category":"News Navigation"}'>On The Media</a></li>
+                <li><a href="http://www.onpointradio.org/" data-metrics='{"action":"Click Program","label":"http://www.onpointradio.org/","category":"News Navigation"}'>On Point</a></li>
+            </ul>
+            <ul class="right">
+				<li><a href="http://sciencefriday.com/" data-metrics='{"action":"Click Program","label":"http://sciencefriday.com/","category":"News Navigation"}'>Science Friday</a></li>
+                <li><a href="/programs/weekend-edition-saturday/" data-metrics='{"action":"Click Program","label":"/programs/weekend-edition-saturday/","category":"News Navigation"}'>Weekend Edition Saturday</a></li>
+                <li><a href="/programs/weekend-edition-sunday/" data-metrics='{"action":"Click Program","label":"/programs/weekend-edition-sunday/","category":"News Navigation"}'>Weekend Edition Sunday</a></li>
+                <li class="hdr">Also heard on NPR stations:</li>
+                <li class="other"><a href="http://marketplace.publicradio.org" data-metrics='{"action":"Click Program","label":"http://marketplace.publicradio.org","category":"News Navigation"}'>Marketplace <span>APM</span></a></li>
+            </ul>
+        </div>
+
+        <div class="col entertainment">
+            <h3>arts &amp; life</h3>
+            <ul>
+                <li><a href="/programs/ask-me-another/" data-metrics='{"action":"Click Program","label":"/programs/ask-me-another/","category":"News Navigation"}'>Ask Me Another</a></li>
+                <li><a href="http://www.cartalk.com" data-metrics='{"action":"Click Program","label":"http://www.cartalk.com","category":"News Navigation"}'>Car Talk</a></li>
+				<li><a href="http://www.radiolab.org" data-metrics='{"action":"Click Program","label":"http://www.radiolab.org","category":"News Navigation"}'>Radiolab</a></li>
+				<li><a href="/programs/snap-judgment/" data-metrics='{"action":"Click Program","label":"http://snapjudgment.org","category":"News Navigation"}'>Snap Judgment</a></li>
+				<li><a href="/programs/ted-radio-hour/" data-metrics='{"action":"Click Program","label":"/programs/ted-radio-hour/","category":"News Navigation"}'>TED Radio Hour</a></li>
+                <li><a href="/programs/wait-wait-dont-tell-me/" data-metrics='{"action":"Click Program","label":"/programs/wait-wait-dont-tell-me/","category":"News Navigation"}'>Wait Wait...Don't Tell Me!</a></li>
+                <li class="hdr">Also heard on NPR stations:</li>
+                <li class="other"><a href="http://www.thisamericanlife.org" data-metrics='{"action":"Click Program","label":"http://www.thisamericanlife.org","category":"News Navigation"}'>This American Life <span>PRX</span></a></li>
+                <li class="other"><a href="http://prairiehome.publicradio.org" data-metrics='{"action":"Click Program","label":"http://prairiehome.publicradio.org","category":"News Navigation"}'>A Prairie Home Companion <span>APM</span></a></li>
+            </ul>
+        </div>
+
+        <div class="col music">
+            <h3>music</h3>
+
+            <ul class="left">
+                <li><a href="/programs/all-songs-considered/" data-metrics='{"action":"Click Program","label":"/programs/all-songs-considered/","category":"News Navigation"}'>All Songs Considered</a></li>
+                <li><a href="/series/alt-latino/" data-metrics='{"action":"Click Program","label":"/series/alt-latino/","category":"News Navigation"}'>Alt.Latino</a></li>
+                <li><a href="/series/98679384/first-listen/" data-metrics='{"action":"Click Program","label":"/series/98679384/first-listen","category":"News Navigation"}'>First Listen</a></li>
+                <li><a href="/blogs/metropolis/" data-metrics='{"action":"Click Program","label":"/blogs/metropolis/","category":"News Navigation"}'>Metropolis</a></li>
+                <li><a href="/blogs/microphonecheck/" data-metrics='{"action":"Click Program","label":"/blogs/microphonecheck/","category":"News Navigation"}'>Microphone Check</a></li>
+                <li><a href="/series/mountain-stage/" data-metrics='{"action":"Click Program","label":"/series/mountain-stage/","category":"News Navigation"}'>Mountain Stage</a></li>
+            </ul>
+
+            <ul class="right">
+                <li><a href="http://www.fromthetop.org/" data-metrics='{"action":"Click Program","label":"http://www.fromthetop.org/","category":"News Navigation"}'>From The Top</a></li>
+                <li><a href="/programs/jazzset/" data-metrics='{"action":"Click Program","label":"/programs/jazzset/","category":"News Navigation"}'>JazzSet</a></li>
+                <li><a href="/programs/piano-jazz/" data-metrics='{"action":"Click Program","label":"/programs/piano-jazz/","category":"News Navigation"}'>Piano Jazz</a></li>
+                <li><a href="/series/150560513/song-travels/" data-metrics='{"action":"Click Program","label":"/series/150560513/song-travels","category":"News Navigation"}'>Song Travels</a></li>
+                <li><a href="/series/103063413/the-thistle-and-shamrock/" data-metrics='{"action":"Click Program","label":"/series/103063413/the-thistle-and-shamrock","category":"News Navigation"}'>The Thistle &amp; Shamrock</a></li>
+                <li><a href="/programs/world-cafe/" data-metrics='{"action":"Click Program","label":"/programs/world-cafe/","category":"News Navigation"}'>World Cafe</a></li>
+            </ul>
+        </div>
+
+        <div class="col special">
+            <h3>special series</h3>
+            <ul>
+                <li><a href="/series/4516989/storycorps" data-metrics='{"action":"Click Program","label":"/series/4516989/storycorps","category":"News Navigation"}'>StoryCorps</a></li>
+                <li><a href="/blogs/money/" data-metrics='{"action":"Click Program","label":"/blogs/money/","category":"News Navigation"}'>Planet Money</a></li>
+				<li><a href="/blogs/pictureshow/" data-metrics='{"action":"Click Program","label":"/blogs/pictureshow/","category":"News Navigation"}'>Picture Show</a></li>
+				<li><a href="/blogs/krulwich/" data-metrics='{"action":"Click Program","label":"/blogs/krulwich/","category":"News Navigation"}'>Krulwich Wonders...</a></li>
+				<li><a href="/series/153299281/cabinet-of-wonders" data-metrics='{"action":"Click Program","label":"/series/153299281/cabinet-of-wonders","category":"News Navigation"}'>Cabinet of Wonders</a></li>
+            </ul>
+        </div>
+
+        <div class="footer">
+            <a href="/programs/" data-metrics='{"action":"Click Program","label":"/programs/","category":"News Navigation"}'>PUBLIC RADIO PROGRAMS A-Z </a> <span class="pipe">|</span> <a href="#" class="closemenu">close</a>
+        </div>
+
+
+    </div>
+    <!-- end programs dropdown -->
+
+
+    <!-- listen dropdown -->
+    <div id="menulisten">
+        <div class="audiostreams">
+			<h3>hear continuous streams</h3>
+			<div class="listenblock">
+				<div class="primary">
+					<a href="javascript:getProgramStream();" class="listenicon" data-action="Play Program Stream" data-metrics='{"action":"Play Program Stream","label":"Drawer","category":"News Navigation"}'></a>
+					<div class="listencontent">
+						<h4><a href="javascript:getProgramStream();" data-action="Play Program Stream" data-metrics='{"action":"Play Program Stream","label":"Drawer","category":"News Navigation"}'>24-Hour Program Stream</a></h4>
+						<p class="info">NPR News and Shows</p>
+					</div>
+				</div>
+				<div class="tab"><span><a href="/audiohelp/progstream.html" class="trans" data-metrics='{"action":"Click Listen Link","label":"/audiohelp/progstream.html","category":"News Navigation"}'>View Schedule</a></span></div>
+				<p class="findstreams"><a href="/templates/stations/stations/" data-metrics='{"action":"Click Listen Link","label":"/templates/stations/stations/","category":"News Navigation"}'>Find Stations</a> | <a href="/templates/websites/musicstreams.php" data-metrics='{"action":"Click Listen Link","label":"/templates/websites/musicstreams.php","category":"News Navigation"}'>Music Streams</a></p>
+			</div>
+		</div>
+
+		<script type="text/javascript" src="/include/navigation/news/listenLatestProgram.js"></script>
+
+		<div class="hourlynews">
+			<h3>hear the latest news</h3>
+			<div class="listenblock">
+				<div class="primary">
+					<a href="javascript:getNewsCast();" class="listenicon" data-action="Play Hourly News" data-metrics='{"action":"Play Hourly News","label":"Drawer","category":"News Navigation"}'></a>
+					<div class="listencontent">
+						<h4><a href="javascript:getNewsCast();" data-action="Play Hourly News" data-metrics='{"action":"Play Hourly News","label":"Drawer","category":"News Navigation"}'>Hourly News Summary</a></h4>
+						<div class="duration">[4 min 45 sec]</div>
+						<p class="info">Latest NPR Newscast</p>
+					</div>
+				</div>
+			</div>
+		</div>
+        <div class="footer">
+            <a href="/programs/" data-metrics='{"action":"Click Listen Link","label":"/programs/","category":"News Navigation"}'>Public Radio Programs A-Z</a> <span class="pipe">|</span> <a href="#" class="closemenu">close</a>
+        </div>
+
+
+    </div>
+    <!-- listen dropdown -->
+
+    <div class="beta"></div>
+
+</div>
+		<div id="wrapper">
+			<div id="wrapper_main">
+			<!-- START MIDDLE COLUMN -->
+			<div id="main_content">
+				<div id="content">
+
+				<!-- start paste page content -->
+
+				<h1>Page Not Found</h1>
+				<p>Sorry! We can't seem to find the page you were looking for. Please visit the <a href="http://www.npr.org/help/">NPR Help Center</a> to report 
+					this page as missing, or use the links below to continue your search.</p>
+				
+				<div id="searchwrap">
+					
+					<form id="searchForm" name="searchform" action="/search/index.php" method="get">
+						<h3>Search NPR.org</h3>
+						<input type="text" name="searchinput" value="" class="textbox" />
+						<input type="button" onclick="submit();" class="btn_go" value="Go" />
+					</form>
+					
+					<h3>Other Options</h3>
+					<ul>
+						<li><a href="/programs/">All Programs A-Z</a></li>
+						<li><a href="http://www.npr.org/help/">NPR Help Center</a></li>
+					</ul>
+					<ul>
+						<li><a href="/about/">About NPR</a></li>
+						<li><a href="http://www.npr.org/contact/">Contact NPR</a></li>
+					</ul>
+					
+				</div>
+				<!-- end paste page content -->
+				
+				<p class="bottom-missing">It's a shame that your page is lost, but at least it's in good company; stick around to browse through NPR stories about lost people, places and things that still haven't turned up.</p>
+				
+				<div class="missing-story">
+					<a href="/templates/story/story.php?storyId=1032135"><img src="http://media.npr.org/images/404/404-1.jpg" alt="Amelia Earhart" /></a>
+					<h2><a href="/templates/story/story.php?storyId=1032135">Amelia Earhart</a></h2>
+					<p>Researchers are still trying to figure out what happened to aviator Amelia Earhart, who disappeared while flying over the South Pacific in 1937.</p>
+				</div>
+				<div class="missing-story">
+					<a href="/templates/story/story.php?storyId=4463532"><img src="http://media.npr.org/images/404/404-2.jpg" alt="18 1/2 Minutes of Watergate Tapes" /></a>
+					<h2><a href="/templates/story/story.php?storyId=4463532">18 1/2 Minutes of Watergate Tapes</a></h2>
+					<p>Rose Mary Woods, the loyal secretary of President Richard Nixon, took responsibility for erasing tape that was crucial to the Watergate investigation. </p>
+				</div>
+				<div class="missing-story">
+					<a href="/templates/story/story.php?storyId=5440223"><img src="http://media.npr.org/images/404/404-3.jpg" alt="Jimmy Hoffa" /></a>
+					<h2><a href="/templates/story/story.php?storyId=5440223">Jimmy Hoffa</a></h2>
+					<p>Prosecutors in Michigan say authorities are calling off their latest search for the remains of Jimmy Hoffa, the long-missing former Teamsters boss.</p>
+				</div>
+				<div class="missing-story">
+					<a href="/templates/story/story.php?storyId=1114640"><img src="http://media.npr.org/images/404/404-4.jpg" alt="Your Luggage" /></a>
+					<h2><a href="/templates/story/story.php?storyId=1114640">Your Luggage</a></h2>
+					<p>Travelling without luggage can be a major inconvenience, but for commentator Bill Harley, it turned out to be a blessing in disguise.</p>
+				</div>
+				<div class="missing-story">
+					<a href="/templates/story/story.php?storyId=4176661"><img src="http://media.npr.org/images/404/404-5.jpg" alt="The Lost City of Atlantis" /></a>
+					<h2><a href="/templates/story/story.php?storyId=4176661">The Lost City of Atlantis</a></h2>
+					<p>Slate senior editor Andy Bowers explains the myths surrounding the lost city of Atlantis, a metropolis mentioned in ancient texts.</p>
+				</div>
+				<div class="missing-story">
+					<a href="/templates/story/story.php?storyId=89677916"><img src="http://media.npr.org/images/404/404-6.jpg" alt="Waldo" /></a>
+					<h2><a href="/templates/story/story.php?storyId=89677916">Waldo</a></h2>
+					<p>Artist Melanie Coles has plastered a 2,300-square-foot Waldo on a roof in Vancouver. Now she's waiting for Google Earth satellites to pick him up.</p>
+				</div>
+				<div class="missing-story">
+					<a href="/templates/story/story.php?storyId=106637066"><img src="http://media.npr.org/images/404/404-7.jpg" alt="Waldo" /></a>
+					<h2><a href="/templates/story/story.php?storyId=106637066">Tapes of the Moon Landing</a></h2>
+					<p>After three years of searching for the Apollo 11 tapes, NASA concluded that the footage of the first manned moon landing is probably lost forever.</p>
+				</div>
+				
+				</div>
+
+				<script type="text/javascript">
+					$(document).ready(function() {
+						try {
+							document.domain="npr.org";
+							AddNamespace("NPR.metrics");
+							NPR.metrics.pageImpression();
+						} catch (e) {
+							NPR.messaging.exception(e, ' in metrics.js ', 'document.ready', NPR.messaging.constants.METRICS_ERROR);
+						}
+					});
+				</script>
+			</div>
+			<!-- END MIDDLE COLUMN -->
+			
+			<!-- START RIGHT COLUMN -->
+			<div id="main_sidebar">
+				<div class="adwrapper">
+				<style>
+    #ad-88 {display: none;}
+</style>
+
+<script type="text/javascript" src="/templates/javascript/sponsorship/dfp.js"></script>
+<script type="text/javascript" src="/include/sponsorship/sponsor.js"></script>
+
+   
+<script type="text/javascript">
+        googletag.cmd.push(function() {
+            try {
+                
+                // use sponsor.js to get a target based on url
+                var target = urlArray[urlIndex][0];
+                var program = urlArray[urlIndex][1];
+                var agg = urlArray[urlIndex][2];
+                var siteSuffix = urlArray[urlIndex][3];
+                
+                
+                googletag.defineSlot("/6735/n6735.NPR" + siteSuffix + "/" + target, [300,250], 'ad-desktop').addService(googletag.pubads());
+
+                googletag.pubads().setTargeting('program', program);
+                googletag.pubads().setTargeting('agg', agg);
+
+                // device detection to send to ad server
+                var deviceString = '';
+                var ua = navigator.userAgent.toLowerCase();
+                if (ua.indexOf("android") > -1) {
+                    googletag.pubads().setTargeting('device', 'android');
+                }
+                else if (ua.match(/(iPad|iPhone|iPod)/i)) {
+                    googletag.pubads().setTargeting('device', 'ios');
+                }
+                
+                if (typeof DFP.queryParameters.sc === 'string' && DFP.queryParameters.sc.length > 0) {
+                    scValue = DFP.queryParameters.sc;
+                }
+                else if (typeof document.referrer === 'string' && document.referrer.search('facebook.com') > -1) {
+                    scValue = 'fb';
+                }
+                else if (typeof DFP.queryParameters.ft === 'string') {
+                    scValue = DFP.queryParameters.ft;
+                }
+                googletag.pubads().setTargeting('sc', scValue);
+                
+                
+                var utm_source = typeof DFP.queryParameters.utm_source === 'string' && DFP.queryParameters.utm_source.length > 0?DFP.queryParameters.utm_source:'';
+                var utm_medium = typeof DFP.queryParameters.utm_medium === 'string' && DFP.queryParameters.utm_medium.length > 0?DFP.queryParameters.utm_medium:'';
+                googletag.pubads().setTargeting('utm_source', utm_source);
+                googletag.pubads().setTargeting('utm_medium', utm_medium);
+                
+                var orient = '';
+                if (NPR.Devices.isOnPhone() || NPR.Devices.isOnTablet()) {
+                    if (window.orientation == 0 || window.orientation == 180) {
+                        orient = 'portrait';
+                    } else if (window.orientation == 90 || window.orientation == -90) {
+                        orient = 'landscape';
+                    }
+                }
+                googletag.pubads().setTargeting('orient', orient);                        
+                        
+                googletag.pubads().enableSingleRequest();
+                googletag.pubads().collapseEmptyDivs();
+                googletag.enableServices();
+            } catch(e) {
+                NPR.messaging.exception(e, 'Define Google Publisher Tags', NPR.messaging.constants.SPONSORSHIP_ERROR);
+            }
+                        
+        });                
+</script>   
+   
+<div id="ad-desktop-wrap">
+    <div id="ad-desktop">
+            <script type="text/javascript">
+            if (DFP.shouldRenderForDevice('desktop')) {
+                googletag.cmd.push(function() { googletag.display('ad-desktop'); });
+            }
+            </script>
+    </div>
+    <p class="left">NPR thanks our sponsors</p><p class="right"><a href="/about/place/corpsupport/">Become an NPR sponsor</a></p>
+</div> 
+				</div>
+			</div>
+			<!-- END RIGHT COlUMN -->
+			<div class="spacer"> </div>
+			</div>
+		</div>
+		<div id="footer" data-metrics-category="News Footer" data-metrics-action="Click Footer" data-metrics-all>
+
+    <div class="footerwrap">
+
+        <div class="everywhere">
+            <h3><a href="/services/">npr <span>always on</span></a></h3>
+            <ul>
+                <li><a href="/email/" class="newsletter">Newsletters</a></li>
+                <li><a href="/podcasts/" class="pod">Podcasts</a></li>
+                <li><a href="/services/mobile/" class="mobile">Mobile</a></li>
+                <li><a href="/rss/" class="rss">RSS Feeds</a></li>
+                <li><a href="/services/desktop.html" class="widget">Widgets</a></li>
+                <li><a href="/api/" class="api">API</a></li>
+                <li><a href="/services/radio.html" class="radio">Radio</a></li>
+            </ul>
+        </div>
+
+        <div class="listbg">
+
+            <div class="col first">
+                <h4><a href="/sections/news/">news</a></h4>
+                <ul>
+                    <li><a href="/sections/us/">U.S.</a></li>
+                    <li><a href="/sections/world/">World</a></li>
+                    <li><a href="/sections/opinion/">Opinion</a></li>
+                    <li><a href="/sections/politics">Politics</a></li>
+                    <li><a href="/sections/business/">Business</a></li>
+                    <li><a href="/sections/technology/">Technology</a></li>
+                    <li><a href="/sections/science/">Science</a></li>
+                    <li><a href="/sections/health/">Health</a></li>
+                    <li><a href="/sections/sports/">Sports</a></li>
+                </ul>
+            </div>
+
+            <div class="col">
+                <h4><a href="/sections/arts/">arts &amp; life</a></h4>
+                <ul>
+                    <li><a href="/books/">Books</a></li>
+                    <li><a href="/sections/movies/">Movies</a></li>
+                    <li><a href="/sections/pop-culture/">Pop Culture</a></li>
+                    <li><a href="/sections/food/">Food</a></li>
+                    <li><a href="/sections/performing-arts/">Performing Arts</a></li>
+                    <li><a href="/sections/games-humor/">Games &amp; Humor</a></li>
+                </ul>
+            </div>
+
+            <div class="col">
+                <h4><a href="/music/">music</a></h4>
+                <ul>
+                    <li><a href="/series/100920965/music-articles/">Music Articles</a></li>
+                    <li><a href="/sections/music-videos/">Music Videos</a></li>
+                    <li><a href="/templates/websites/musicstreams.php">NPR Music Radio</a></li>
+                    <li><a href="/music/">Browse Genres</a></li>
+                    <li><a href="/templates/artist/artist_index.php?filter=A">Browse Artists A-Z </a></li>
+                </ul>
+
+                <ul>
+                    <li><a href="/programs/all-songs-considered/">All Songs Considered</a></li>
+                    <li><a href="/series/alt-latino/">Alt.Latino</a></li>
+                    <li><a href="/series/98679384/first-listen/">First Listen</a></li>
+                    <li><a href="/blogs/metropolis/">Metropolis</a></li>
+                    <li><a href="/blogs/microphonecheck/">Microphone Check</a></li>
+                    <li><a href="/series/mountain-stage/">Mountain Stage</a></li>
+                    <li><a href="http://www.fromthetop.org/">From The Top</a></li>
+                    <li><a href="/programs/jazzset/">JazzSet</a></li>
+                    <li><a href="/programs/piano-jazz/">Piano Jazz</a></li>
+                    <li><a href="/series/150560513/song-travels/">Song Travels</a></li>
+                    <li><a href="/series/103063413/the-thistle-and-shamrock/">The Thistle &amp; Shamrock</a></li>
+                    <li><a href="/programs/world-cafe/">World Cafe</a></li>
+                </ul>
+            </div>
+
+            <div class="col">
+                <h4><a href="/programs/">programs a-z</a></h4>
+                <ul>
+                    <li><a href="/programs/all-things-considered/">All Things Considered</a></li>
+                    <li><a href="/programs/ask-me-another/">Ask Me Another</a></li>
+               		<li><a href="/series/153299281/cabinet-of-wonders">Cabinet of Wonders</a></li>
+                    <li><a href="http://www.cartalk.com">Car Talk</a></li>
+                    <li><a href="http://thedianerehmshow.org">The Diane Rehm Show</a></li>
+                    <li><a href="/programs/fresh-air/">Fresh Air</a></li>
+                    <li><a href="/programs/latino-usa/">Latino USA</a></li>
+                    <li><a href="/programs/morning-edition/">Morning Edition</a></li>
+                    <li><a href="http://www.onthemedia.org">On The Media</a></li>
+                    <li><a href="http://www.onpointradio.org/">On Point</a></li>
+                    <li><a href="/programs/ted-radio-hour/">TED Radio Hour</a></li>
+                    <li><a href="/programs/wait-wait-dont-tell-me/">Wait Wait...Don't Tell Me!</a></li>
+                    <li><a href="/programs/weekend-edition-saturday/">Weekend Edition <span>Saturday</span></a></li>
+                    <li><a href="/programs/weekend-edition-sunday/">Weekend Edition Sunday</a></li>
+                </ul>
+            </div>
+
+            <div class="col">
+                <h4>listen</h4>
+                <ul>
+                    <li><a href="javascript:getNewsCast();" data-action="Play Hourly News" data-metrics='{"action":"Play Hourly News"'>Hourly News</a></li>
+                    <li><a href="javascript:getProgramStream();" data-action="Play Program Stream" data-metrics='{"action":"Play Program Stream"'>NPR Program Stream</a></li>
+                    <li><a href="/audiohelp/progstream.html"><span>Schedule</span></a></li>
+                    <li><a href="/stations/">Find Station Streams</a></li>
+                </ul>
+            </div>
+
+            <div class="col last">
+				<h4>more</h4>
+				<ul>
+					<li><a href="/sections/multimedia/">Multimedia</a></li>
+					<li><a href="/sections/columns/">Columns</a></li>
+					<li><a href="/blogs/">Blogs</a></li>
+					<li><a href="/sections/analysis/">Analysis</a></li>
+					<li><a href="/sections/commentary/">Commentary</a></li>
+					<li><a href="/ombudsman/">NPR Ombudsman</a></li>
+					<li><a href="http://stateimpact.npr.org/">StateImpact</a></li>
+				</ul>
+				<h4><a href="/about/">about</a></h4>
+				<ul>
+					<li><a href="/about/">This Is NPR</a></li>
+					<li><a href="/about/support/">Support and Sponsor</a></li>
+					<li><a href="/about/press/">Press Room</a></li>
+					<li><a href="/about/careers/">Careers</a></li>
+					<li><a href="http://shop.npr.org">NPR Shop</a></li>
+					<li><a href="/contact/">Contact Us</a></li>
+				</ul>
+            </div>
+
+        </div>
+
+    </div>
+
+    <ul class="bottomlist">
+        <li>Copyright <script type="text/javascript">
+               year = new Date();
+               document.write(year.getFullYear());
+           </script> NPR</li>
+        <li><a href="/about-npr/179876898/terms-of-use">Terms of Use</a></li>
+        <li><a href="/about-npr/179878450/privacy-policy">Privacy Policy</a></li>
+        <li><a href="/about-npr/179878450/privacy-policy#opting-out-of-cookies-and-web-beacons">Sponsorship Choices</a></li>
+        <li><a href="/about-npr/179881519/rights-and-permissions-information">Permissions</a></li>
+        <li><a href="/corrections/">Corrections</a></li>
+        <li><a href="http://thin.npr.org">Text-Only Site</a></li>
+        <li class="help"><a href="/help/">Help</a></li>
+        <li class="contact"><a href="/contact/">Contact Us</a></li>
+        <li class="donate"><a href="/stations/donate/">Donate</a></li>
+    </ul>
+
+</div>
+	</body>
+</html>
