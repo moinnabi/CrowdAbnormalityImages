@@ -1,0 +1,701 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+  
+   <meta name="Robots" content="index,follow" />  
+  
+  
+  <!-- aftershockevents -->
+
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+  <link id="primaryStylesheet" rel="stylesheet" type="text/css" href="/display/common.css?styleId=1825226&amp;RK=1403633422903&amp;CE=75"/>
+  
+  <link id="slideShowStylesheet" rel="stylesheet" type="text/css" href="/universal/styles/squarespace-gallery-slideshow.css?CE=75"/>
+  
+  
+  
+  <!-- Google Web Fonts -->
+  <script type="text/javascript">
+    	WebFontConfig = {"google": {"families": [
+  "Oswald:400",
+  "Raleway:100"
+]}};
+  
+   
+    (function() {
+      var wf = document.createElement('script');
+      wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })();
+  </script>
+
+  <script type="text/javascript" src="/universal/yui/yahoo-dom-event/yahoo-dom-event.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/connection/connection_core-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/json/json-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/animation/animation-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/selector/selector.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/element/element.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/global.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/lightbox.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/api.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/base64.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/census.js?CE=75"></script>
+
+
+  <script type="text/javascript">
+  // <![CDATA[
+
+    Squarespace.Constants.SS_AUTHKEY = encodeURIComponent("");
+    Squarespace.Constants.WEBSITE_TITLE =  "EDM Lounge"; 
+    
+    
+    
+    
+    
+    Squarespace.Constants.ADMINISTRATION_UI =  false; 
+    
+    
+    
+    Squarespace.Constants.CORE_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.CORE_V6_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.V5_FRONTSITE = "http://five.squarespace.com";
+    Squarespace.Constants.WEBSITE_ID = "1380808";
+
+    
+
+    
+
+    
+
+  // ]]>
+  </script>
+
+      <title>Page Not Found - EDM Lounge | Electronic Dance Music, News, and Reviews</title>
+    <meta property="og:title" content="Page Not Found - EDM Lounge | Electronic Dance Music, News, and Reviews" /> 
+  
+
+  
+
+  
+
+  <!-- End Heading -->
+
+  <meta name="keywords" content="best dance music, house music, free music downloads, techno blog, trance music, dj mixes, club music, electro music, dubstep, electronic dance music, electronic music, edm" />
+
+<script type="text/javascript">
+if (document.location.pathname == "/") {
+document.title="EDM Lounge | Electronic Dance Music, News, Reviews";
+}
+</script>
+<script type="text/javascript">function togglecomments (postid) {var whichpost = document.getElementById(postid); if (whichpost.className=="commentshown") { whichpost.className="commenthidden"; } else { whichpost.className="commentshown"; }
+} </script>
+
+<meta name="verifyownership" content="1380bff8b47d5cb244e93a9c6ae748f5" />
+
+
+  <script type="text/javascript" src="/universal/scripts/cookie-min.js"></script>
+  <script type="text/javascript" src="/universal/scripts/eu-cookie-policy.js"></script>
+
+</head>
+
+<body   >
+
+  <script type="text/javascript">
+  YAHOO.util.Event.onDOMReady(function() {
+    if (document.location.href.indexOf("SSLogoutOk=true") != -1) {
+      new Squarespace.FixedPositionTip("Logout Successful", "You have been successfully logged out.", { xMargin: 15, yMargin: 15, icon: "/universal/images/helptip-info.png", orientation: "upper-right", viewportFixed: true, autoHide: 1800 }).show();
+    }
+  });
+</script>
+
+    
+
+  <script type="text/javascript">
+    YAHOO.util.Event.onDOMReady(function() { new Squarespace.Census.hit(); } );
+  </script>
+
+  <script type="text/javascript">
+    YAHOO.util.Event.addListener(document, "keyup", function (e) { if (!e) { e = event; } if (e.keyCode == 27) { document.location.href = "/display/Login?returnUrl=%2Fstorage%2Fedc-london-1.JPG%3F__SQUARESPACE_CACHEVERSION%3D1374355905964"; } });
+  </script>
+
+
+
+
+  
+
+  <div id="canvasWrapper"><div id="canvas">
+  
+  
+
+  <div id="pageHeaderWrapper"><div id="pageHeader">
+
+      <div id="navigationTop"><div id="navigationTop-sectionContent6855768" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module   " id="navigationTop-moduleContentWrapper16264633">
+
+    <div id="navigationTop-moduleContent16264633">
+
+              <a id="navigationTop-moduleLink16264633" class=" " href="/" ><span>Blog</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19326060">
+
+    <div id="navigationTop-moduleContent19326060">
+
+              <a id="navigationTop-moduleLink19326060" class=" " href="/mixes/" ><span>Live Sets, Mixes, &amp; Podcasts</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19172341">
+
+    <div id="navigationTop-moduleContent19172341">
+
+              <a id="navigationTop-moduleLink19172341" class=" " href="/show-tickets/" ><span>Show Tickets</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper16418712">
+
+    <div id="navigationTop-moduleContent16418712">
+
+              <a id="navigationTop-moduleLink16418712" class=" " href="/event-photos/" ><span>Event Photos</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper18158046">
+
+    <div id="navigationTop-moduleContent18158046">
+
+              <a id="navigationTop-moduleLink18158046" class=" " href="/about-us/" ><span>About Us</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper16658851">
+
+    <div id="navigationTop-moduleContent16658851">
+
+              <a id="navigationTop-moduleLink16658851" class=" " href="/contact/" ><span>Contact</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+    
+        
+      
+  
+      <div id="bannerAreaWrapper"><div id="bannerArea">
+
+        
+        <div id="bannerWrapper">
+          <a href="http://www.edmlounge.com/"><img id="banner" src="/storage/edm-lounge-banner.gif" alt="EDM Lounge" title="EDM Lounge"/></a>
+        </div>  
+
+      
+      
+      </div></div>
+    
+    
+    
+
+      <div id="navigationBottom"><div id="navigationBottom-sectionContent6855768" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module   " id="navigationBottom-moduleContentWrapper16264633">
+
+    <div id="navigationBottom-moduleContent16264633">
+
+              <a id="navigationBottom-moduleLink16264633" class=" " href="/" ><span>Blog</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19326060">
+
+    <div id="navigationBottom-moduleContent19326060">
+
+              <a id="navigationBottom-moduleLink19326060" class=" " href="/mixes/" ><span>Live Sets, Mixes, &amp; Podcasts</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19172341">
+
+    <div id="navigationBottom-moduleContent19172341">
+
+              <a id="navigationBottom-moduleLink19172341" class=" " href="/show-tickets/" ><span>Show Tickets</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper16418712">
+
+    <div id="navigationBottom-moduleContent16418712">
+
+              <a id="navigationBottom-moduleLink16418712" class=" " href="/event-photos/" ><span>Event Photos</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper18158046">
+
+    <div id="navigationBottom-moduleContent18158046">
+
+              <a id="navigationBottom-moduleLink18158046" class=" " href="/about-us/" ><span>About Us</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper16658851">
+
+    <div id="navigationBottom-moduleContent16658851">
+
+              <a id="navigationBottom-moduleLink16658851" class=" " href="/contact/" ><span>Contact</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+
+  </div></div>
+  
+  
+
+  
+
+  
+  <div id="pageBodyWrapper"><div id="pageBody">
+  
+  <div id="sidebar1Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar1" class="verticalNavigationBar">
+
+  
+
+    <div id="sectionContent6855768" class="sectionWrapper promotedContainer "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Top</div> 
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module   " id="moduleContentWrapper16264633">
+
+    <div id="moduleContent16264633">
+
+              <a id="moduleLink16264633" class=" " href="/" ><span>Blog</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19326060">
+
+    <div id="moduleContent19326060">
+
+              <a id="moduleLink19326060" class=" " href="/mixes/" ><span>Live Sets, Mixes, &amp; Podcasts</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19172341">
+
+    <div id="moduleContent19172341">
+
+              <a id="moduleLink19172341" class=" " href="/show-tickets/" ><span>Show Tickets</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper16418712">
+
+    <div id="moduleContent16418712">
+
+              <a id="moduleLink16418712" class=" " href="/event-photos/" ><span>Event Photos</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper18158046">
+
+    <div id="moduleContent18158046">
+
+              <a id="moduleLink18158046" class=" " href="/about-us/" ><span>About Us</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper16658851">
+
+    <div id="moduleContent16658851">
+
+              <a id="moduleLink16658851" class=" " href="/contact/" ><span>Contact</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent6923979" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+      
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper19342950" class="widget-wrapper  widget-type-page"><div id="moduleContent19342950">
+
+
+
+
+
+  <div class="fb-like" data-href="http://facebook.com/edmlounge" data-send="false" data-width="200" data-show-faces="false" data-font="lucida grande"></div>
+</div></div><div id="moduleContentWrapper18156605" class="widget-wrapper  widget-type-page"><div id="moduleContent18156605">
+
+
+
+
+
+  <iframe allowtransparency="true" frameborder="0" scrolling="no"
+    src="//platform.twitter.com/widgets/follow_button.html?screen_name=EDMLounge&show_count=true"
+    style="width:300px; height:20px;"></iframe>
+  <p><br>
+  <!-- Place this tag where you want the +1 button to render. -->
+  <div class="g-plusone" data-size="medium" data-annotation="inline" data-width="300"></div>
+  
+  <!-- Place this tag after the last +1 button tag. -->
+  <script type="text/javascript">
+    (function() {
+      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+      po.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+  </script>
+  <a href="https://plus.google.com/116604254540575819232"
+   rel="publisher">Find us on Google+</a>
+</div></div><div id="moduleContentWrapper16421010" class="widget-wrapper  widget-type-search"><div id="moduleContent16421010">
+
+
+<!-- <form method="get" action="/display/Search">
+	<div class="search-form-pt-wrapper">
+	  <div class="search-form-pt">
+	    <span class="queryFieldWrapper"><input type="text" class="text queryField" name="searchQuery" value=""/></span>
+	    <span class="queryButtonWrapper"><input type="submit" class="button queryButton" value="&raquo;"/></span>
+	    <input type="hidden" name="moduleId" value="16421010"/>
+	    <br class="clearer"/>
+	  </div>
+	</div>
+</form> -->
+
+<form method="get" action="/display/Search">
+	<input type="hidden" name="moduleId" value="16421010"/>
+	<table class="search-form-pt-wrapper search-form-table" border="0" cellpadding="0" cellspacing="0">
+		<tr class="search-form-pt search-form-row">
+			<td class="queryFieldCell search-form-cell">
+				<span class="queryFieldWrapper">
+					<input type="text" class="text queryField" name="searchQuery" value=""/>
+				</span>
+			</td>
+			<td class="queryButtonCell search-form-cell">
+				<span class="queryButtonWrapper">
+					<input type="submit" class="button queryButton" value="&rarr;"/>
+				</span>
+			</td>
+		</tr>
+	</table> 
+</form></div></div><div id="moduleContentWrapper18159354" class="widget-wrapper  widget-type-page"><div id="moduleContent18159354">
+
+
+
+
+
+  <h2><a style="font-size: 140%;" href="http://www.edmlounge.com/blog/tag/house">House</a></h2>
+  <h3><a href="http://www.edmlounge.com/blog/tag/progressive-house">Progressive House</a></h3><br>
+  <h3><a href="http://www.edmlounge.com/blog/tag/electro-house">Electro House</a></h3><br>
+  
+  <h2><a style="font-size: 140%;" href="http://www.edmlounge.com/blog/tag/electro">Electro</a></h2>
+  
+  <h2><a style="font-size: 140%;" href="http://www.edmlounge.com/blog/tag/trance">Trance</a></h2>
+  
+  <h2><a style="font-size: 140%;" href="http://www.edmlounge.com/blog/tag/dubstep">Dubstep</a></h2>
+  
+  <h3><a href="http://www.edmlounge.com/blog/tag/drum-bass"></a></h3>
+  <h3><a href="http://www.edmlounge.com/blog/tag/drum-bass">Drum &amp; Bass</a>&nbsp;|&nbsp;<a href="http://www.edmlounge.com/blog/tag/hard-dance">Hard Dance</a><br /><a href="http://www.edmlounge.com/blog/tag/moombah">Moombah</a>|<a href="http://www.edmlounge.com/blog/tag/trap">Trap</a><br /></h3>
+  <br>
+  <h2><a style="font-size: 120%;" href="http://www.edmlounge.com/blog/tag/track-of-the-day">Track of the Day</a><br /><a href="http://www.edmlounge.com/blog/tag/mix">Mixes</a></h2>
+  <h3><a href="http://www.edmlounge.com/blog/tag/reviews">Show, Festival, &amp; Album Reviews</a></h3><br>
+  <h3><a href="http://www.edmlounge.com/blog/tag/interview">Interviews</a></h3><br>
+  <h3><a href="http://www.edmlounge.com/blog/tag/free-download">Free Music Downloads</a></h3>
+</div></div><div id="moduleContentWrapper19342951" class="widget-wrapper  widget-type-page"><div id="moduleContent19342951">
+
+
+
+
+
+  <a class="twitter-timeline" href="https://twitter.com/EDMLounge" data-widget-id="248491391230021633">Tweets by @EDMLounge</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><br><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FEDMLounge&amp;width=250&amp;height=558&amp;show_faces=true&amp;colorscheme=light&amp;stream=true&amp;show_border=false&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:558px;" allowTransparency="true"></iframe>
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent7024280" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+      
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper18157200" class="widget-wrapper  widget-type-page"><div id="moduleContent18157200">
+
+
+
+
+
+  <p>&nbsp;<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><br /><span class="full-image-block ssNonEditable"><span><a href="http://www.edmlounge.tumblr.com"><img style="width: 300px;" src="/storage/tumblr.png?__SQUARESPACE_CACHEVERSION=1341512078614" alt="" /></a></span></span></p>
+  <p>&nbsp;<iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Fedm-lounge&color=orange_white&size=64" style="width: 64px; height: 64px;"></iframe></p>
+</div></div><div id="moduleContentWrapper16651595" class="widget-wrapper  widget-type-rss-syndicate"><div id="moduleContent16651595">
+
+
+
+  <ul class="feed-list-inline">
+    
+          <li><a href="http://www.edmlounge.com/blog/rss.xml" class="feed-link">Blog RSS</a></li>
+        
+  </ul>
+
+</div></div><div id="moduleContentWrapper17956745" class="widget-wrapper  widget-type-page"><div id="moduleContent17956745">
+
+
+
+
+
+  <script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
+  <p><p><!-- Place this tag where you want the su badge to render -->
+  <su:badge layout="2"></su:badge>
+  <!-- Place this snippet wherever appropriate -->
+  <script type="text/javascript">
+    (function() {
+      var li = document.createElement('script'); li.type = 'text/javascript'; li.async = true;
+      li.src = 'https://platform.stumbleupon.com/1/widgets.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(li, s);
+    })();
+  </script>
+  
+  <br> <a href="https://plus.google.com/102284387337794250579" rel="author">Google+</a>
+  
+
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  <div id="sidebar2Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar2" class="verticalNavigationBar">
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  
+  
+
+  <div id="contentWrapper"><div id="content">
+    
+    
+
+
+  <h2 class="document-title">Page Not Found</h2>
+
+  <div class="body">
+
+  <p>The page <strong>/storage/edc-london-1.JPG?__SQUARESPACE_CACHEVERSION=1374355905964</strong> could not be located on this website.</p>
+
+  <p>We recommend using the navigation bar to get back on track within our site.  If you feel you have reached this page in error, please contact a site operator.  Thank you!</p>
+
+  <p><strong><a href="http://www.edmlounge.com/">Return to the Front Page &raquo;</a></strong></p>
+
+  </div>
+
+
+</div></div> <!-- Content -->
+  
+          
+      </div>
+    
+  
+    </div></div> <!-- Page Body -->
+
+          
+      <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+    
+    
+    <div id="pageFooterWrapper"><div id="pageFooter">
+  
+                             <script type="text/javascript" charset="utf-8">
+                var disqus_forum_url = 'edmlounge';
+                </script>
+                <script type="text/javascript" src="http://mediacdn.disqus.com/1341348056/embed/squarespace.js"></script>
+                <script type="text/javascript" src="http://disqus.com/forums/edmlounge/embed.js"></script>
+            
+Copyright &copy; 2014, EDM Lounge LLC.  All rights reserved.
+      
+  
+      
+  
+    </div></div>
+  
+  </div></div> <!-- Canvas -->
+  
+      
+    <script type="text/javascript">
+(function(){
+  var bsa = document.createElement('script');
+     bsa.type = 'text/javascript';
+     bsa.async = true;
+     bsa.src = 'http://s3.buysellads.com/ac/bsa.js';
+  (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+})();
+</script>
+
+<div id="bsap_1288854" class="bsarocks bsap_4aa74dfe0eade175ba8844b247a8d979"></div>
+   
+
+
+  <div class="clearer" id="bodyClearer"></div>
+
+  
+
+
+
+</body>
+</html>
