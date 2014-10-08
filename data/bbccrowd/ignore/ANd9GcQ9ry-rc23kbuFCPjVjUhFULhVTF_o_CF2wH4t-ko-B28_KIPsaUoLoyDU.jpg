@@ -1,0 +1,973 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7" lang="en" dir="ltr" xmlns:og="http://opengraphprotocol.org/schema/"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr" xmlns:og="http://opengraphprotocol.org/schema/"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8" lang="en" dir="ltr" xmlns:og="http://opengraphprotocol.org/schema/"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" lang="en" dir="ltr" xmlns:og="http://opengraphprotocol.org/schema/"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html lang="en" dir="ltr" xmlns:og="http://opengraphprotocol.org/schema/" prefix="rnews: http://iptc.org/std/rNews/2011-10-07# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema# schema: http://schema.org/"><!--<![endif]-->
+<head>
+<meta property="article:publisher" content="https://www.facebook.com/cityam" />
+
+<meta property="og:type" content="website" />
+
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:site" content="@cityam" />
+<link rel="shortcut icon" href="http://cdn1.cityam.net/sites/all/themes/adaptivetheme/cityam_redesign/images/icons/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="http://cdn1.cityam.net/sites/all/themes/adaptivetheme/cityam_redesign/images/icons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="http://cdn1.cityam.net/sites/all/themes/adaptivetheme/cityam_redesign/images/icons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="http://cdn1.cityam.net/sites/all/themes/adaptivetheme/cityam_redesign/images/icons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="http://cdn1.cityam.net/sites/all/themes/adaptivetheme/cityam_redesign/images/icons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="http://cdn1.cityam.net/sites/all/themes/adaptivetheme/cityam_redesign/images/icons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="http://cdn1.cityam.net/sites/all/themes/adaptivetheme/cityam_redesign/images/icons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="http://cdn1.cityam.net/sites/all/themes/adaptivetheme/cityam_redesign/images/icons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="http://cdn1.cityam.net/sites/all/themes/adaptivetheme/cityam_redesign/images/icons/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="http://cdn1.cityam.net/sites/all/themes/adaptivetheme/cityam_redesign/images/icons/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="http://cdn1.cityam.net/sites/all/themes/adaptivetheme/cityam_redesign/images/icons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="http://cdn1.cityam.net/sites/all/themes/adaptivetheme/cityam_redesign/images/icons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="http://cdn1.cityam.net/sites/all/themes/adaptivetheme/cityam_redesign/images/icons/favicon-32x32.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="http://cdn1.cityam.net/sites/all/themes/adaptivetheme/cityam_redesign/images/icons/mstile-144x144.png">
+<meta name="msapplication-config" content="http://cdn1.cityam.net/sites/all/themes/adaptivetheme/cityam_redesign/images/icons/browserconfig.xml">
+<meta charset="utf-8" />
+<link rel="shortlink" href="http://cdn1.cityam.net/node/179470" />
+<link rel="shortcut icon" href="http://cdn1.cityam.net/sites/all/themes/adaptivetheme/cityam_redesign/images/favicon.png" type="image/png" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://cdn1.cityam.net/403-access-denied" />
+<meta name="description" content="We&#039;re sorry, but you do not have the necessary permissions to view this page." />
+<link rel="dns-prefetch" href="//cdn1.cityam.net" />
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<meta content="403 - Access Denied" about="/403-access-denied" property="dc:title" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<title>403 - Access Denied | City A.M.</title>
+<link type="text/css" rel="stylesheet" href="http://cdn1.cityam.net/sites/default/files/cdn/css/http/css_K7WjGF34aFsVnMnRA1FOzIIn9tYYJMxwaf-m_58_-9M.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://cdn1.cityam.net/sites/default/files/cdn/css/http/css_-JtcKckEKyXaaF0EV7AgKQah-3dmiqj_LcncdOEXafM.css" media="screen" />
+<style media="print">#sb-container{position:relative;}#sb-overlay{display:none;}#sb-wrapper{position:relative;top:0;left:0;}#sb-loading{display:none;}
+</style>
+<link type="text/css" rel="stylesheet" href="http://cdn1.cityam.net/sites/default/files/cdn/css/http/css_dNENIhJgN-XOrZGrlQDua_whWw_ufE5ZQaJ6KTn-iU8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://cdn1.cityam.net/sites/default/files/cdn/css/http/css_-LAMuiMxq_6u0L5Ffpi8AMQwhFsYgJlkT1o5SxyUGJk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://cdn1.cityam.net/sites/default/files/cdn/css/http/css_LCdVpcIZU2SzS7SRMNppqdtGf4GddZ6LXWXSkRF8rs4.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://cdn1.cityam.net/sites/default/files/cdn/css/http/css_LCGgy1tHySLDiiVnjG6AfLIFdY_clSTxt3fDy2M-GcQ.css" media="print" />
+<link type="text/css" rel="stylesheet" href="http://cdn1.cityam.net/sites/default/files/cdn/css/http/css_rrQaTXYH8AnIOoErTAsB80K--GmEahUjjGeLc7_uvqs.css" media="only screen" />
+
+<!--[if lt IE 8]>
+<link type="text/css" rel="stylesheet" href="http://cdn1.cityam.net/sites/default/files/cdn/css/http/css_reur1-RX9x2uqDVEJYGn_wdONfl7b1-HQiSiY8o5w3U.css" media="screen" />
+<![endif]-->
+
+<!--[if (lt IE 9)&(!IEMobile 7)]>
+<link type="text/css" rel="stylesheet" href="http://cdn1.cityam.net/sites/default/files/cdn/css/http/css_0FvRcEBuNUwNW0zgaaPsm9FFTlVJvn5IJiJ3BpmDj3Y.css" media="screen" />
+<![endif]-->
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="http://cdn1.cityam.net/sites/default/files/cdn/css/http/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU_ie8.css.css" media="all" />
+<![endif]-->
+<link href='http://fonts.googleapis.com/css?family=Lato:400,700|Roboto:400,700' rel='stylesheet' type='text/css'>
+<link href="/assets/css/font-awesome.min.css" rel="stylesheet">
+<script src="http://cdn1.cityam.net/sites/default/files/js/js_ykhVFQ-eZafbsKPeKd-4eUbEZKRk3WPUFjvEboxYyUs.js"></script>
+<script src="http://cdn1.cityam.net/sites/default/files/js/js_hEiGHsoXKn2xXTOd2gBWF5lwiqQLIEQRmb3PVnfV0NI.js"></script>
+<script src="http://cdn1.cityam.net/sites/default/files/js/js_KRvzPt4vvFFMKZEdOyIvBwStH5s6UweaLfgF6oE9MBI.js"></script>
+<script src="http://cdn1.cityam.net/sites/default/files/js/js_4Og0NG5b48p1ld68svGVSlBhPitdzQIHOudlj6uwqt4.js"></script>
+<script>window.CKEDITOR_BASEPATH = '/profiles/openpublish/libraries/ckeditor/'</script>
+<script src="http://cdn1.cityam.net/sites/default/files/js/js_kuC79szx4bszyMEOhAjgSPpQBEP06yp_CfZIELdtH74.js"></script>
+<script>
+          Shadowbox.path = "/sites/all/libraries/shadowbox/";
+        </script>
+<script src="http://cdn1.cityam.net/sites/default/files/js/js_zoIR6wxkKoF46wcDgqzuONs_b9HoqrZKgR3ptlHozWg.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"cityam_redesign","theme_token":"50MAYLUqXi0Fc6AqDfQZbNBhTYbbTSBz-VRuDpNVcSE","js":{"sites\/all\/modules\/contrib\/picture\/weblinc\/media.js":1,"sites\/all\/modules\/contrib\/picture\/weblinc\/media.extension.js":1,"sites\/all\/modules\/contrib\/picture\/weblinc\/picture.js":1,"sites\/all\/modules\/contrib\/picture\/picture.weblinc.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/fitvids\/jquery.fitvids.js":1,"sites\/all\/libraries\/shadowbox\/shadowbox.js":1,"sites\/all\/modules\/contrib\/shadowbox\/shadowbox_auto.js":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.js":1,"sites\/all\/modules\/contrib\/responsive_menus\/styles\/sidr\/js\/responsive_menus_sidr.js":1,"sites\/all\/libraries\/sidr\/jquery.sidr.min.js":1,"0":1,"sites\/all\/themes\/adaptivetheme\/cityam_redesign\/js\/custom.js":1,"sites\/all\/themes\/adaptivetheme\/cityam_redesign\/js\/tracking.js":1,"1":1,"sites\/all\/themes\/adaptivetheme\/at_core\/scripts\/scalefix.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/picture\/weblinc\/media.css":1,"sites\/all\/modules\/contrib\/picture\/picture.weblinc.css":1,"sites\/all\/libraries\/shadowbox\/shadowbox.css":1,"0":1,"profiles\/openpublish\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/openpublish\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/openpublish\/modules\/contrib\/views\/css\/views.css":1,"profiles\/openpublish\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/sidr\/stylesheets\/jquery.sidr.dark.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.settings.style.image.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/all\/themes\/adaptivetheme\/cityam_redesign\/css\/global.base.css":1,"sites\/all\/themes\/adaptivetheme\/cityam_redesign\/css\/global.styles.css":1,"sites\/all\/themes\/adaptivetheme\/cityam_redesign\/css\/pageskin.overrides.css":1,"sites\/all\/themes\/adaptivetheme\/cityam_redesign\/css\/print.css":1,"public:\/\/adaptivetheme\/cityam_redesign_files\/cityam_redesign.responsive.layout.css":1,"public:\/\/adaptivetheme\/cityam_redesign_files\/cityam_redesign.responsive.styles.css":1,"public:\/\/adaptivetheme\/cityam_redesign_files\/cityam_redesign.lt-ie8.layout.css":1,"sites\/all\/themes\/adaptivetheme\/cityam_redesign\/css\/lt-ie9.css":1,"sites\/all\/themes\/adaptivetheme\/cityam_redesign\/css\/ie8.css":1}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"shadowbox":{"animate":true,"animateFade":true,"animSequence":"wh","auto_enable_all_images":1,"auto_gallery":1,"autoplayMovies":true,"continuous":false,"counterLimit":10,"counterType":"default","displayCounter":true,"displayNav":true,"enableKeys":true,"fadeDuration":0.35,"handleOversize":"resize","handleUnsupported":"link","initialHeight":160,"initialWidth":320,"language":"en","modal":false,"overlayColor":"#000","overlayOpacity":0.8,"resizeDuration":0.55,"showMovieControls":true,"slideshowDelay":0,"viewportPadding":20,"useSizzle":false},"profile":"openpublish","profile_version":"7.x-1.0-beta7","fitvids":{"custom_domains":[],"selectors":["body"],"simplifymarkup":true},"responsive_menus":[{"selectors":[".responsive-menu .block-content .menu-block-wrapper ul.menu"],"trigger_txt":"\u003Cimg style=\u0022width:30px; height:30px; margin-top:10px; padding-left:10px;\u0022 src=\u0022\/sites\/all\/themes\/adaptivetheme\/cityam_redesign\/images\/threelines.png\u0022 width=\u002230\u0022 height=\u002230\u0022\u003E","side":"left","speed":"200","media_size":"1025","displace":"1","onOpen":"","onClose":"","responsive_menus_style":"sidr"}]});</script>
+<!-- Google Custom Search -->
+<script type="text/javascript">
+    (function() {
+        var cx = '012303637272837164841:8tcdln7ll_i';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                '//www.google.com/cse/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+    })();
+</script>
+<!-- END Google Custom Search -->
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({article:'auto'});
+    !function (e, f, u) {
+        e.async = 1;
+        e.src = u;
+        f.parentNode.insertBefore(e, f);
+    }(document.createElement('script'),
+            document.getElementsByTagName('script')[0],
+            'http://cdn.taboola.com/libtrc/cityam/loader.js');
+</script>
+
+<!--[if lt IE 9]>
+<script src="http://cdn1.cityam.net/sites/all/themes/adaptivetheme/at_core/scripts/respond.js?ncvnwm"></script>
+<script src="http://cdn1.cityam.net/sites/all/themes/adaptivetheme/at_core/scripts/html5.js?ncvnwm"></script>
+<![endif]-->
+                <script language="JavaScript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+            <script language="JavaScript" type="text/javascript">
+                GS_googleAddAdSenseService("ca-pub-3109763032856756");
+                GS_googleEnableAllServices();
+            </script>
+            <script language="JavaScript">GA_googleAddSlot("ca-pub-3109763032856756", "wwwcityamcom_LB_Top");GA_googleAddSlot("ca-pub-3109763032856756", "double_mpu");GA_googleAddSlot("ca-pub-3109763032856756", "wwwcityamcom_MPU_right");GA_googleAddSlot("ca-pub-3109763032856756", "wwwcityamcom_MPU_secondright");GA_googleAddSlot("ca-pub-3109763032856756", "Billboard_cityam");GA_googleAddSlot("ca-pub-3109763032856756", "pageskin");GA_googleAddSlot("ca-pub-3109763032856756", "Cityam_WideSkyscraper");GA_googleAddSlot("ca-pub-3109763032856756", "Cityam_jazzMPU");GA_googleAddSlot("ca-pub-3109763032856756", "Freewall");GA_googleAddSlot("ca-pub-3109763032856756", "native_content_slot_1");GA_googleAddSlot("ca-pub-3109763032856756", "native_content_slot_2");GA_googleAddSlot("ca-pub-3109763032856756", "native_content_slot_3");GA_googleAddSlot("ca-pub-3109763032856756", "native_content_slot_4");GA_googleAddSlot("ca-pub-3109763032856756", "native_content_slot_5");GA_googleAddSlot("ca-pub-3109763032856756", "native_content_slot_1_post");GA_googleAddSlot("ca-pub-3109763032856756", "native_content_slot_2_post");GA_googleAddSlot("ca-pub-3109763032856756", "native_content_slot_3_post");GA_googleAddSlot("ca-pub-3109763032856756", "native_content_slot_4_post");GA_googleAddSlot("ca-pub-3109763032856756", "native_content_slot_5_post");GA_googleAddSlot("ca-pub-3109763032856756", "sticky_mobile");            </script>
+            <script language="JavaScript">
+                GA_googleFetchAds();
+            </script>
+  <!-- Sponsored content Content Amp -->
+    
+    <!-- Sponsored content Content Amp -->
+
+    <!--
+    this code drives Google DFP
+    -->
+    <script type="text/javascript">
+        GA_googleAddAttr("category", "uncategorised");
+    </script>
+    <!-- Start Alexa Certify Javascript -->
+    <script type="text/javascript">
+        _atrk_opts = { atrk_acct:"HVBpi1a8s700yN", domain:"cityam.com",dynamic: true};
+        (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+    </script>
+    <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=HVBpi1a8s700yN" style="display:none" height="1" width="1" alt="" /></noscript>
+    <!-- End Alexa Certify Javascript -->
+</head>
+
+<body id="cityamBody" class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-179470 node-type-openpublish-site-page site-name-hidden site-name-city-am section-403-access-denied uncategorised">
+
+<!-- GTM custom variables -->
+<script type="text/javascript">
+    var dataLayer = [];
+    var dataVars = {};
+    i = 0;
+        dataVars.pageCategory = 'uncategorised';
+        dataVars.pageAuthor = 'none';
+    dataLayer.push(dataVars);
+</script><!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TRSBJS"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TRSBJS');</script>
+<!-- End Google Tag Manager -->
+<div id="sticky-ad">
+<div id="block-cityamblocks-sticky-mobile" class="block block-cityamblocks no-title odd first block-count-17 block-region-sticky-ad block-sticky-mobile" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id="sticky_mobile" class="dfp-ad "><script language="JavaScript">GA_googleFillSlot("sticky_mobile");</script></div></div>
+  </div></div></div>
+
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+<!-- PAGESKIN  -->  
+<div id='pageskinwrap'>
+<div id='pageskinbg'></div>
+
+<div id="page" class="container page">
+
+  <!-- region: Leaderboard -->
+  
+      <!-- header -->
+<header class="cam-header">
+    <!-- logo and nav -->
+    <div class="cam-header-masthead">
+        <div class="mobile-header">
+            <a id="responsive-menu-button" href="#sidr-main"><i class="fa fa-bars fa-2x"></i></a>
+        </div>
+        <!-- logo -->
+        <figure id="cam-logo">
+            <a title="Home" href="/">City A.M.</a>
+        </figure>
+        <div class="mobile-cse">
+            <a href="#" class="mobile-google-cse">&#xf002;</a>
+        </div>
+        <div class="cam-header-bar">
+            <div class="time-date">
+                <p>Wednesday 8 October 2014</p>
+            </div>
+            <div class="sub-title">
+                <p><span>Business with personality</span></p>
+            </div>
+            <!-- social bar -->
+            <nav role="complementary" class="cam-social-icons">
+                <ul class="fa-ul">
+                    <li><a href="https://www.facebook.com/cityam" title="Follow us on Facebook" target="blank"><i class="fa-li fa fa-facebook fa-2x"></i><span>Facebook</span></a></li>
+                    <li><a href="https://twitter.com/cityam" title="Follow us on Twitter" target="blank"><i class="fa-li fa fa-twitter fa-2x"></i><span>Twitter</span></a></li>
+                    <li><a href="http://www.linkedin.com/company/cityam" title="Follow us on LinkedIn" target="blank"><i class="fa-li fa fa-linkedin fa-2x"></i><span>LinkedIn</span></a></li>
+                    <li><a href="https://plus.google.com/106508342285323254392/posts" title="Follow us on Google+" target="blank"><i class="fa-li fa fa-google-plus fa-2x"></i><span>Google</span></a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div class="cam-header-nav-search">
+        <!-- nav -->
+        <nav role="navigation" id="cam-navigation">
+            <ul>
+                <li><a title="Home" href="/?ITO=nav-top-home"><i class="fa fa-home fa-2x"></i><span>Home</span></a></li>
+                <li><a title="News" href="/news?ITO=nav-top-news">News</a></li>
+                <li><a title="Opinion" href="/the-forum?ITO=nav-top-opinion">Opinion</a></li>
+                <li><a title="Features" href="/business-features?ITO=nav-top-features">Features</a></li>
+                <li><a title="Wealth" href="/wealth-management?ITO=nav-top-wealth">Wealth</a></li>
+                <li><a title="Life &amp; Style" href="/life-and-style?ITO=nav-top-life-and-style">Life &amp; Style</a></li>
+                <li class="last"><a title="Sport" href="/sport?ITO=nav-top-sport">Sport</a></li>
+                <li class="mobile-only"><a title="About" href="/about-city-am">About</a></li>
+                <li class="mobile-only"><a title="Newsletter" href="/city-am-newsletter">Newsletter</a></li>
+            </ul>
+        </nav>
+        <!-- search and social icons -->
+        <aside class="cam-search">
+            <div class="input">
+                <form action="/search-results" accept-charset="utf-8" _lpchecked="1">
+                    <span class="cam-search-icon">&#xf002;</span>
+                    <input id="gsc-i-id1" dir="ltr" spellcheck="false" autocomplete="off" type="text" size="10" name="as_q" title="search" placeholder="Search">
+                </form>
+            </div>
+        </aside>
+    </div>
+</header>    
+    <!-- region: Header ad -->
+    <div class="region region-header-ad"><div class="region-inner clearfix"><div id="block-cityamblocks-billboard-cityam" class="block block-cityamblocks no-title odd first block-count-1 block-region-header-ad block-billboard-cityam" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id="Billboard_cityam" class="dfp-ad "><script language="JavaScript">GA_googleFillSlot("Billboard_cityam");</script></div></div>
+  </div></div><div id="block-cityamblocks-wwwcityamcom-lb-top" class="block block-cityamblocks no-title even last block-count-2 block-region-header-ad block-wwwcityamcom-lb-top" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id="wwwcityamcom_LB_Top" class="dfp-ad "><script language="JavaScript">GA_googleFillSlot("wwwcityamcom_LB_Top");</script></div></div>
+  </div></div></div></div>
+
+  <!-- Breadcrumbs -->
+  
+  <!-- Messages and Help -->
+    
+  <!-- region: Secondary Content -->
+  
+  <div id="columns" class="columns clearfix">
+    <div id="content-column" class="content-column" role="main">
+      <div class="content-inner">
+
+        <!-- region: Highlighted -->
+        
+        <section id="main-content">
+
+          
+                      <header id="main-content-header" class="clearfix">
+
+                              <h1 id="page-title">
+                  403 - Access Denied                </h1>
+              
+              
+            </header>
+          
+          <!-- region: Main Content -->
+                      <div id="content" class="region">
+              <div id="block-system-main" class="block block-system no-title odd first block-count-3 block-region-content block-main" >  
+  
+  <article id="node-179470" class="node node-openpublish-site-page article odd node-full 1 ia-n clearfix" about="/403-access-denied" typeof="sioc:Item foaf:Document" role="article">
+  
+  
+
+  <div class="node-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full">
+
+  
+  <div class="field-items">
+          <div class="field-item even" property="content:encoded">
+        <p><strong>We're sorry, but you do not have the necessary permissions to view this page.</strong></p>
+<h2>Let us know</h2>
+<p>Expecting to see a different page?</p>
+<p><a href="javascript:void(0);" id="cityam-error-notify">Please contact us</a> or visit our <a href="/">homepage</a>.</p>
+<script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+    var pageUrl = top.location.href;
+    var emailTo = 'website' + '@' + 'cityam' + '.com';
+    var rawBody = 'Error page: ' + pageUrl + ' \r\n\r\n' + 'Error type: 403' + ' \r\n\r\n' + 'Any further details (please type below):';
+    var mailBody = encodeURIComponent(rawBody);
+    jQuery('#cityam-error-notify').on('click', function() {
+        top.location.href = 'mailto:' + emailTo + '?subject=' + 'City A.M. - Website error report' + '&body=' + mailBody;
+        return false;
+    });
+
+//--><!]]>
+</script>      </div>
+      </div>
+
+</div>
+<span property="dc:title" content="403 - Access Denied" class="rdf-meta"></span>  </div>
+
+  
+  
+  </article>
+
+  </div><div id="block-cityamblocks-cam-newsletter-form" class="block block-cityamblocks no-title even last block-count-4 block-region-content block-cam-newsletter-form" >  
+  
+  
+<h2>Stay Informed</h2><p>If you would like to receive our morning update in your inbox, fill out your details below.</p>
+<form action="http://cl.exct.net/subscribe.aspx" name="subscribeForm" method="post" class="rtnewslettersignup rtnewslettersignup-content" id="subscribeForm" style="border:0;">
+    <input type="hidden" name="thx" value="http://www.cityam.com/newsletter/success" />
+    <input type="hidden" name="err" value="http://www.cityam.com/newsletter/error" />
+    <input type="hidden" name="SubAction" value="sub" />
+    <input type="hidden" name="MID" value="7200770" />
+    <input type="hidden" name="Sign Up Source" value="" />
+    <input type="hidden" name="Company" value="" />
+    <input name="Tracked Source" type="hidden" value="error-403">
+    <div class="newsletter-block">
+        <div class="newsletter-table">
+            <h2><span>1. Build your subscription</span></h2>
+            <input type="checkbox" name="lid" id="lid-main" value="530" checked />
+            <label for="lid-main" style="margin-left:30px;">Morning Update<br/>
+                <span>Your essential daily update - with a snapshot of the markets and the top articles from City A.M. 10.30am UK time weekdays.</span>
+            </label>
+            <input type="checkbox" name="lid" id="lid-early-riser" value="820"  />
+            <label for="lid-early-riser" style="margin-left:30px;">Early Riser<br/>
+                <span>Ideal for your commute, with the top articles from the paper each weekday. 6am UK time.</span>
+            </label>
+            <input type="checkbox" name="lid" id="lid-before-the-open" value="821"  />
+            <label for="lid-before-the-open" style="margin-left:30px;">Before the Open<br/>
+                <span>What you need to know before the markets open each weekday. 7.30am UK time.</span>
+            </label>
+        </div>
+    </div>
+    <div class="newsletter-block">
+        <div class="newsletter-table">
+            <h2><span>2. Fill in your details</span></h2>
+            <h6>Required</h6>
+            <div class="label-fields clearfix">
+                <div class="label">
+                    <label>Email:</label>
+                </div>
+                <div class="field">
+                    <input type="email" name="Email Address" placeholder="Enter your email address" id="newsletter-email" class="form-text newsletter-email" />
+                </div>
+            </div>
+            <h6>Optional</h6>
+            <div class="label-fields clearfix">
+                <div class="label">
+                    <label>First Name:</label>
+                </div>
+                <div class="field">
+                    <input type="text" placeholder="First Name" name="First Name" class="form-text newsletter-fullname" />
+                </div>
+            </div>
+            <div class="label-fields clearfix">
+                <div class="label">
+                    <label>Last Name:</label>
+                </div>
+                <div class="field">
+                    <input type="text" placeholder="Last Name" name="Last Name" class="form-text newsletter-fullname" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="clearfix">
+        <input type="submit" value="Sign Up" class="form-submit newsletter-submit" />
+    </div>
+</form>
+<p style="font-size:x-small;margin-top:30px;">Because these emails are completely free, we do have to fund them with advertising. Occasionally we will send you separate promotional emails, which will contain advertisements from other companies. By signing up to our free email, you are consenting to receive these promotions. However we will never give, sell or rent your email address to any other companies. And if you want to stop receiving our free emails at any time, you can immediately unsubscribe by clicking on the link at the bottom of each email.</p>
+
+  </div>            </div>
+          
+          <!-- Feed icons (RSS, Atom icons etc -->
+          
+          
+        </section><!-- /end #main-content -->
+
+        <!-- region: Content Aside -->
+        
+      </div><!-- /end .content-inner -->
+    </div><!-- /end #content-column -->
+
+    <!-- regions: Sidebar first and Sidebar second -->
+    <div class="region region-sidebar-second sidebar"><div class="region-inner clearfix"><section id="block-cityamblocks-rtnewslettersignup" class="block block-cityamblocks newsletter-signup border-bottom odd first block-count-5 block-region-sidebar-second block-rtnewslettersignup" ><div class="block-inner clearfix">  
+      <h2 class="block-title"><span><a href="/city-am-newsletter">Newsletter</a></span></h2>
+  
+  <div class="block-content content"><p>Get our <a href="/city-am-newsletter">morning update</a> in your inbox</p>
+<form action="http://cl.exct.net/subscribe.aspx?lid=530" method="post" name="subscribeForm" class="rtnewslettersignup rtnewslettersignup-right">
+    <div>
+        <input name="Email Address" type="email" placeholder="Enter your email address" class="form-text newsletter-email">
+    </div>
+    <div>
+        <input type="submit" value="Sign up" class="form-submit newsletter-submit">
+    </div>
+    <input name="MID" type="hidden" value="7200770" />
+    <input name="Tracked Source" type="hidden" value="sidebar">
+    <input type="hidden" name="Company" value="" />
+    <input name="thx" type="hidden" value="http://www.cityam.com/newsletter/success">
+    <input name="err" type="hidden" value="http://www.cityam.com/newsletter/error">
+    <input name="usub" type="hidden" value="http://www.cityam.com/newsletter/unsubscribed">
+</form>
+</div>
+  </div></section><div id="block-cityamblocks-double-mpu" class="block block-cityamblocks no-title even block-count-6 block-region-sidebar-second block-double-mpu" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id="double_mpu" class="dfp-ad "><script language="JavaScript">GA_googleFillSlot("double_mpu");</script></div></div>
+  </div></div><div id="block-cityamblocks-wwwcityamcom-mpu-right" class="block block-cityamblocks no-title odd block-count-7 block-region-sidebar-second block-wwwcityamcom-mpu-right" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id="wwwcityamcom_MPU_right" class="dfp-ad "><script language="JavaScript">GA_googleFillSlot("wwwcityamcom_MPU_right");</script></div></div>
+  </div></div><section id="block-views-data-in-focus-block" class="block block-views even block-count-8 block-region-sidebar-second block-data-in-focus-block" ><div class="block-inner clearfix">  
+      <h2 class="block-title">Data in Focus</h2>
+  
+  <div class="block-content content"><div class="view view-data-in-focus view-id-data_in_focus view-display-id-block view-dom-id-7177410931d86967f625e0ff3160fd3a">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1412688541/where-best-place-shop-uk-westfield-london-tops-new-retail-index"><img typeof="foaf:Image" class="image-style-main-homepage-stream-lead-story-scale-w310-resp-mobile" src="http://cdn1.cityam.net/sites/default/files/styles/main_homepage_stream_lead_story_scale_w310_resp_mobile/public/main/articles/Westfield%20London.jpg?itok=OKiGxL4n" width="320" height="200" alt="Westfield London" title="Westfield London" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1412688541/where-best-place-shop-uk-westfield-london-tops-new-retail-index">Where is the best place to shop in the UK? </a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+  </div></section><div id="block-cityamblocks-widget-most-read" class="block block-cityamblocks no-title odd block-count-9 block-region-sidebar-second block-widget-most-read" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div class="cam-widget-most-read">
+<h2 class="block-title">Most read</h2>
+<ul>
+<li><a href="http://www.cityam.com/1412672491/london-underground-staff-plan-48hr-tube-strike-october-14-16?ITO=sidebar-most-read">48hr Tube strike planned by London Underground staff </a></li><li><a href="http://www.cityam.com/1412729877/bankers-mutiny-over-jail-threat?ITO=sidebar-most-read">HSBC boss quits and bankers mutiny over jail threat</a></li><li><a href="http://www.cityam.com/1412611165/manchester-city-land-biggest-shirt-sponsorship-deal-premier-league-history-reports?ITO=sidebar-most-read">Manchester City could be about to land one of league's biggest sponsorship deals</a></li><li><a href="http://www.cityam.com/1412729353/tesco-suspends-fifth-executive-over-profit-miss?ITO=sidebar-most-read">Tesco suspends fifth executive over £250m profit miss</a></li><li><a href="http://www.cityam.com/1412753954/will-there-be-cure-ebola-crucial-part-virus-identified-drug-development?ITO=sidebar-most-read">Scientists edge closer to creating cheap Ebola cure</a></li></ul>
+</div>
+</div>
+  </div></div><div id="block-cityamblocks-cityam-wideskyscraper" class="block block-cityamblocks no-title even block-count-10 block-region-sidebar-second block-cityam-wideskyscraper" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id="Cityam_WideSkyscraper" class="dfp-ad "><script language="JavaScript">GA_googleFillSlot("Cityam_WideSkyscraper");</script></div></div>
+  </div></div><div id="block-cityamblocks-latestedition" class="block block-cityamblocks rightsb rightsb-blue latest-edition no-title odd block-count-11 block-region-sidebar-second block-latestedition" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div class="latest-edition-inner">
+  <div class="latest-edition-image">
+  <a href="/edition/cityam-2014-10-08">
+    <img src="http://cdn1.cityam.net/sites/all/modules/custom/cityamblocks/images/todaysPaper.png" />
+  </a>
+  </div>
+  <div class="view view-pdf-list view-id-pdf_list view-display-id-block_2 latest-edition view-dom-id-8bc837b4653b5e2755ed9496d4096466">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-front-cover">        <div class="field-content"><a href="http://cdn1.cityam.net/edition"><img typeof="foaf:Image" class="image-style-sidebar2-front-cover-block-scale-w300" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar2_front_cover_block_scale_w300/public/64048-0.png?itok=dfDyiaQ6" width="150" height="190" /></a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+</div>
+  </div></div><div id="block-views-homepage-picks-block-1" class="block block-views homepage-picks border-bottom no-title even block-count-12 block-region-sidebar-second block-homepage-picks-block-1" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div class="view view-homepage-picks view-id-homepage_picks view-display-id-block_1 view-dom-id-e3f893153e5b68b1f79f9a8eb7ff0721">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1412708027/forget-penal-mansion-tax-it-s-archaic-council-tax-needs-desperate-reform"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/London%20mansions.jpg?itok=J1ZmWPDa" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1412708027/forget-penal-mansion-tax-it-s-archaic-council-tax-needs-desperate-reform">Forget a penal mansion tax: It’s archaic council tax that needs desperate reform</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1412701095/can-pill-stop-you-drinking-why-short-term-nudges-won-t-change-behaviour"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/wine%20drinker.jpg?itok=tcMWGrkl" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1412701095/can-pill-stop-you-drinking-why-short-term-nudges-won-t-change-behaviour">Can a pill stop you drinking? Why short-term nudges won’t change behaviour</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1412620320/london-s-thriving-tech-sector-under-threat-bonkers-eu-vat-reforms"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/smartphone%20buying.jpg?itok=wjgNXlfX" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1412620320/london-s-thriving-tech-sector-under-threat-bonkers-eu-vat-reforms">London’s thriving tech sector is under threat – from bonkers EU VAT reforms</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1412618790/lib-dems-are-confused-economic-freedom-no-wonder-voters-aren-t-impressed"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/Nick%20Clegg%20%281%29.jpg?itok=r68NEf9b" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1412618790/lib-dems-are-confused-economic-freedom-no-wonder-voters-aren-t-impressed">Lib Dems are confused on economic freedom: No wonder voters aren’t impressed</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1412618177/mobilising-best-british-how-city-can-get-behind-new-look-armed-forces"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/Honorable_Artillery_Company.jpg?itok=kNhoN9oU" width="80" height="80" alt="Honourable Artillery Company" title="Honourable Artillery Company" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1412618177/mobilising-best-british-how-city-can-get-behind-new-look-armed-forces">Mobilising the best of British: How the City can get behind the new-look armed forces</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1412562944/one-country-two-cultures-there-ll-be-no-happy-ending-hong-kong-protests"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/hong-kong-protests-6th-oct.jpg?itok=H8AYFeiZ" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1412562944/one-country-two-cultures-there-ll-be-no-happy-ending-hong-kong-protests">One country, two cultures: There’ll be no happy ending to the Hong Kong protests</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1412562907/city-under-attack-brussels-being-symbol-capitalism"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/The%20City%20skyscrapers.jpg?itok=af9NY5Xj" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1412562907/city-under-attack-brussels-being-symbol-capitalism">The City is under attack from Brussels – for being a symbol of capitalism</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1412562886/london-s-philanthropists-recognise-long-term-value-they-can-generate"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/lord-mayors-dragon-awards.jpg?itok=RNJlBFdB" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1412562886/london-s-philanthropists-recognise-long-term-value-they-can-generate">London’s philanthropists recognise the long-term value they can generate</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1412267818/stop-bashing-super-rich-you-ll-make-us-all-poorer"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/Kensington.jpg?itok=XsaHdsnC" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1412267818/stop-bashing-super-rich-you-ll-make-us-all-poorer">Stop bashing the super rich: You&#039;ll make us all poorer</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-10 views-row-even">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1412191146/cameron-was-right-be-bold-his-radical-tax-cutting-promise"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/Cameron%20%282%29.jpg?itok=cPoLcZOW" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1412191146/cameron-was-right-be-bold-his-radical-tax-cutting-promise">Cameron was right to be bold with his radical tax cutting promise</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-11 views-row-odd">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1412190782/notting-hill-dave-embraced-blue-collar-aspiration-take-fight-labour"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/Hugh%20Grant.jpg?itok=udqFoFAy" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1412190782/notting-hill-dave-embraced-blue-collar-aspiration-take-fight-labour">Notting Hill Dave embraced blue-collar aspiration to take the fight to Labour</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-12 views-row-even">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1412188956/why-im-backing-maaxi-bring-ride-sharing-revolution-londons-black-cabs"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/taxi.jpg?itok=vkJQxtUt" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1412188956/why-im-backing-maaxi-bring-ride-sharing-revolution-londons-black-cabs">Why I&#039;m backing Maaxi – to launch a new black cab ride-sharing revolution</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-13 views-row-odd">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1412100309/economic-warfare-between-west-and-russia-only-punishes-guiltless"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/Kremlin.jpg?itok=YJJDbWId" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1412100309/economic-warfare-between-west-and-russia-only-punishes-guiltless">Economic warfare between the West and Russia only punishes the guiltless</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-14 views-row-even">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1412100741/unleash-potential-small-developers-help-resolve-housing-crisis"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/building%20site_0.jpg?itok=5ZTm9Nkh" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1412100741/unleash-potential-small-developers-help-resolve-housing-crisis">Unleash the potential of small developers to help resolve the housing crisis</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-15 views-row-odd">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1412016648/beware-unintended-consequences-hiking-national-minimum-wage"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/001%20ed%20miliband%20%20%283%29.jpg?itok=ni44-aOg" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1412016648/beware-unintended-consequences-hiking-national-minimum-wage">Beware the unintended consequences of hiking the minimum wage</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-16 views-row-even">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1412015939/gutsy-osborne-was-right-gamble-promise-further-spending-cuts"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/George%20Osborne%20%282%29.jpg?itok=BmfFJzSd" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1412015939/gutsy-osborne-was-right-gamble-promise-further-spending-cuts">Gutsy Osborne was right to gamble on a promise of further spending cuts</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-17 views-row-odd">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1412015413/why-abolition-pensions-death-tax-great-news-savers"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/piggy%20bank%20%281%29.jpg?itok=0ka3RpK7" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1412015413/why-abolition-pensions-death-tax-great-news-savers">Why the abolition of the pensions death tax is great news for savers</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-18 views-row-even">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1411958193/why-taking-islamic-state-syria-recipe-unmitigated-disaster"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/Isis.jpg?itok=JEuabcPg" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1411958193/why-taking-islamic-state-syria-recipe-unmitigated-disaster">Why taking on Islamic State in Syria is a recipe for unmitigated disaster</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-19 views-row-odd">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1411958166/city-matters-there-s-black-hole-heart-city-lack-superfast-broadband"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/London%20city_3.jpg?itok=G-wAjnDj" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1411958166/city-matters-there-s-black-hole-heart-city-lack-superfast-broadband">There’s a black hole at the heart of the City: Lack of superfast broadband</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-20 views-row-even">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1411958125/young-entrepreneurs-are-holding-their-nerve-while-their-parents-fear-failure"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/students.jpg?itok=9s5u78TJ" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1411958125/young-entrepreneurs-are-holding-their-nerve-while-their-parents-fear-failure">Young entrepreneurs are holding their nerve while their parents fear failure</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-21 views-row-odd">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1411580973/crisis-will-become-catastrophe-without-national-housing-crusade"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/new%20homes%20build_0.jpg?itok=AZLIgRhk" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1411580973/crisis-will-become-catastrophe-without-national-housing-crusade">Our housing crisis will become a catastrophe without a national crusade to fix it</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-22 views-row-even">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1411508376/labour-s-misdiagnosis-larger-state-isn-t-way-raise-living-standards"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/house%20in%20London_0.jpg?itok=UQi1MHfc" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1411508376/labour-s-misdiagnosis-larger-state-isn-t-way-raise-living-standards">Labour’s misdiagnosis: A larger state is not the way to raise living standards</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-23 views-row-odd">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1411483671/low-inflation-isn-t-abnormal-it-s-feature-competitive-market-economy"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/London%20city_4.jpg?itok=g0ce68rt" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1411483671/low-inflation-isn-t-abnormal-it-s-feature-competitive-market-economy">Low inflation isn’t abnormal: It’s a feature of a competitive market economy</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-24 views-row-even">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1411507952/name-dropping-won-t-cut-it-miliband-must-do-more-rouse-his-party"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/ed%20miliband%20speech.jpg?itok=KGGDoaN7" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1411507952/name-dropping-won-t-cut-it-miliband-must-do-more-rouse-his-party">Name-dropping won’t cut it: Miliband must do more to rouse his party</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-25 views-row-odd">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1411411211/how-labour-will-transform-politics-and-public-services-devolving-powers-london"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/London%20city_3.jpg?itok=G-wAjnDj" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1411411211/how-labour-will-transform-politics-and-public-services-devolving-powers-london">How Labour will transform politics – and public services – by devolving more powers to London</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-26 views-row-even">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1411410376/cost-living-myths-prevent-miliband-delivering-real-pro-poor-agenda"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/Ed%20miliband%20%282%29.jpg?itok=wPzjdBOp" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1411410376/cost-living-myths-prevent-miliband-delivering-real-pro-poor-agenda">Cost of living crisis myths: How Miliband could deliver a real pro-poor agenda</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-27 views-row-odd">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1411409288/tesco-can-win-back-shoppers-slashing-prices-investors-may-now-be-harder-convince"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/TESCOSTORE.jpg?itok=bZOknHC4" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1411409288/tesco-can-win-back-shoppers-slashing-prices-investors-may-now-be-harder-convince">Tesco can still win back shoppers by slashing prices: Investors may now be harder to convince</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-28 views-row-even">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1411353039/truly-radical-devolution-powers-could-banish-big-government-uk-forever"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/blogposts/Scotland%20vote.jpg?itok=xGaJg353" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1411353039/truly-radical-devolution-powers-could-banish-big-government-uk-forever">Truly radical devolution of powers could banish big government in the UK forever</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-29 views-row-odd">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1411353022/polling-scotland-s-referendum-why-it-all-eventually-came-down-turnout"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/independent-scotland-sign.jpg?itok=oAaclZuM" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1411353022/polling-scotland-s-referendum-why-it-all-eventually-came-down-turnout">Polling Scotland’s referendum results: Why it all eventually came down to turnout</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-30 views-row-even">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1411353003/city-matters-scots-will-continue-thrive-uk-s-stability-behind-them"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/Scottish%20flag%20next%20to%20English%20flag_0.jpg?itok=hAdskNbo" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1411353003/city-matters-scots-will-continue-thrive-uk-s-stability-behind-them">After the referendum results the Scots will continue to thrive – with the UK’s stability behind them - City Matters</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-31 views-row-odd">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1411354350/defence-easyproperty-sir-stelios-bites-back"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/010%20Jon%20Moulton.jpg?itok=7cMc_KvO" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1411354350/defence-easyproperty-sir-stelios-bites-back">In defence of easyProperty: Sir Stelios bites back</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-32 views-row-even">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1411059793/investors-should-pause-gambling-alibaba-flotation-frenzy"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/Jack%20Ma_3.jpg?itok=OWCpkXpy" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1411059793/investors-should-pause-gambling-alibaba-flotation-frenzy">Investors should pause before gambling on the Alibaba flotation frenzy</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-33 views-row-odd">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1410976309/little-britain-uk-will-never-punch-above-its-weight-again-if-scots-leave"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/Scots%20Guard.jpg?itok=Ovqm0H5Y" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1410976309/little-britain-uk-will-never-punch-above-its-weight-again-if-scots-leave">Little Britain: The UK will never punch above its weight again if the Scots vote to leave</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-34 views-row-even">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1410975369/montreal-effect-why-referendum-could-be-end-scottish-finance"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/Montreal%20skyine.jpg?itok=3zZb-sOJ" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1410975369/montreal-effect-why-referendum-could-be-end-scottish-finance">The Montreal effect: Why the referendum could mark the end of Scottish finance</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-35 views-row-odd">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1410974794/cameron-made-monumental-blunder-denying-scotland-choice-devo-super-max"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/david%20cameron_5.jpg?itok=q_ArGzN_" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1410974794/cameron-made-monumental-blunder-denying-scotland-choice-devo-super-max">Cameron made a monumental blunder by denying Scotland the choice of devo-super-max on the ballot</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-36 views-row-even">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1410892356/independence-would-put-scotland-s-entrepreneurs-jeopardy"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/Sir%20Tom%20Hunter.jpg?itok=DXatW4EV" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1410892356/independence-would-put-scotland-s-entrepreneurs-jeopardy">Independence would put Scotland’s entrepreneurial economy in jeopardy</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-37 views-row-odd">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1410891108/radical-uncertainty-why-scots-may-ignore-business-and-follow-crowd"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/North%20sea%20oil%20%281%29.jpg?itok=twewreQp" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1410891108/radical-uncertainty-why-scots-may-ignore-business-and-follow-crowd">Radical uncertainty: Why the Scots could ignore business and follow the crowd</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-38 views-row-even">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1410890372/three-compelling-reasons-why-business-should-get-behind-british-arts-and-culture"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/warhorse%20%281%29.jpg?itok=8HV5Xei9" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1410890372/three-compelling-reasons-why-business-should-get-behind-british-arts-and-culture">Three compelling reasons why business should get behind British arts and culture</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-39 views-row-odd">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1410805255/scotland-could-keep-pound-cost-its-monetary-independence"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/001%20alex%20salmond%20%283%29.jpg?itok=6vt7Xzq4" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1410805255/scotland-could-keep-pound-cost-its-monetary-independence">Scotland could keep the pound – but at the cost of any monetary independence</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-40 views-row-even">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1410805755/planning-liberalisation-closest-thing-there-economic-silver-bullet"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/002%20Busy%20high%20streets_0.jpg?itok=V1m9_cE3" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1410805755/planning-liberalisation-closest-thing-there-economic-silver-bullet">Planning liberalisation is the closest thing there is to an economic silver bullet</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-41 views-row-odd">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1410807318/contactless-tube-payment-just-latest-advance-uk-banking-revolution"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/Contactless%20payment.jpg?itok=r73atPGF" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1410807318/contactless-tube-payment-just-latest-advance-uk-banking-revolution">Contactless Tube payment: Just the latest advance in the UK banking revolution</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-42 views-row-even">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1410745925/why-spurious-financial-precision-may-be-killing-our-markets-and-our-fish"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/sardine-tin.jpg?itok=MNo1Pzcd" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1410745925/why-spurious-financial-precision-may-be-killing-our-markets-and-our-fish">Why spurious financial precision may be killing our markets – and our fish</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-43 views-row-odd">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1410745903/city-matters-staying-silent-about-real-price-scottish-independence-cop-out"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/scotland-sign.jpg?itok=EymlY1q8" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1410745903/city-matters-staying-silent-about-real-price-scottish-independence-cop-out">Staying silent about the real price of Scottish independence is a cop out - City Matters</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-44 views-row-even">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1410745874/crowdfunding-beware-celebrities-offering-investors-strange-deals"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/stelios-haji-iannou.jpg?itok=9cZTWTYO" width="80" height="80" alt="Sir Stelios Haji-Iannou" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1410745874/crowdfunding-beware-celebrities-offering-investors-strange-deals">Crowdfunding: Beware the celebrities offering investors strange deals</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-45 views-row-odd">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1410368981/forget-apple-watch-intelligent-virtual-assistants-are-next-tech-revolution"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/watch%20%281%29.jpg?itok=rqXFfwgP" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1410368981/forget-apple-watch-intelligent-virtual-assistants-are-next-tech-revolution">Forget Apple Watch: Intelligent virtual assistants are the next tech revolution</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-46 views-row-even">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1410368705/devo-max-cheap-last-gasp-offer-federal-uk-may-be-happy-result"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/022%20london%20skyline_5.jpg?itok=3v2Rj1xz" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1410368705/devo-max-cheap-last-gasp-offer-federal-uk-may-be-happy-result">Devo max is a cheap last-gasp offer – but a federal UK may be the happy result</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-47 views-row-odd">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1410369256/why-there-s-nothing-anti-green-about-airport-expansion"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/012%20Boeing%20plane_0.jpg?itok=gP1ZWVRw" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1410369256/why-there-s-nothing-anti-green-about-airport-expansion">Why there’s nothing anti green about airport expansion</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-48 views-row-even">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1410283236/forget-bonus-caps-why-real-executive-pay-reform-must-tackle-short-termism"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/man%20with%20briefcase%20%281%29.jpg?itok=BFaWRBn0" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1410283236/forget-bonus-caps-why-real-executive-pay-reform-must-tackle-short-termism">Forget bonus caps: Why real executive pay reform must tackle short-termism</a> 
+</span>  </div>  </div>
+  <div class="views-row views-row-49 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-field-op-main-image">        <div class="field-content"><a href="/1410284521/how-incompetent-policymakers-have-kept-eurozone-perpetual-crisis"><img typeof="foaf:Image" class="image-style-sidebar1-picks-photo-scale-crop-w80-h80" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar1_picks_photo_scale_crop_w80_h80/public/main/articles/EU%20flag%20%282%29.jpg?itok=osiK-cEH" width="80" height="80" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/1410284521/how-incompetent-policymakers-have-kept-eurozone-perpetual-crisis">How incompetent policymakers have kept the Eurozone in perpetual crisis</a> 
+</span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+  </div></div><section id="block-views-read-us-block" class="block block-views rightsb rightsb-blue read-us border-bottom odd block-count-13 block-region-sidebar-second block-read-us-block" ><div class="block-inner clearfix">  
+      <h2 class="block-title">Top comment</h2>
+  
+  <div class="block-content content"><div class="view view-read-us view-id-read_us view-display-id-block read-us view-dom-id-8cb69548f7ef5d8944d870f2938d63d0">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-profile-photo">        <div class="field-content"><a href="/profile/david-hellier"><img typeof="foaf:Image" class="image-style-sidebar2-top-comment-photo-scale-crop-w60-h60" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar2_top_comment_photo_scale_crop_w60_h60/public/profiles/photos/David%20Hellier.png?itok=dInx84ph" width="60" height="60" alt="David Hellier" title="David Hellier" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/profile/david-hellier">David Hellier</a></span>  </div>  
+  <div class="views-field views-field-nothing">        <div class="view view-authors-news view-id-authors_news view-display-id-block_3 listingview view-dom-id-85d9798c375cd5d2decb3091befd23d3">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          <a href="http://cdn1.cityam.net/1412729586/when-job-isn-t-worth-candle">When the job isn’t worth the candle - Editor&#039;s Letter</a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-profile-photo">        <div class="field-content"><a href="/profile/john-hulsman"><img typeof="foaf:Image" class="image-style-sidebar2-top-comment-photo-scale-crop-w60-h60" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar2_top_comment_photo_scale_crop_w60_h60/public/profiles/photos/john%20hulsman.png?itok=d9dIygPb" width="60" height="60" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/profile/john-hulsman">John Hulsman</a></span>  </div>  
+  <div class="views-field views-field-nothing">        <div class="view view-authors-news view-id-authors_news view-display-id-block_3 listingview view-dom-id-887d16d2f8b7f0e95650b9197f0fcec8">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          <a href="http://cdn1.cityam.net/1412562944/one-country-two-cultures-there-ll-be-no-happy-ending-hong-kong-protests">One country, two cultures: There’ll be no happy ending to the Hong Kong protests</a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-field-profile-photo">        <div class="field-content"><a href="/profile/stephan-shakespeare"><img typeof="foaf:Image" class="image-style-sidebar2-top-comment-photo-scale-crop-w60-h60" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar2_top_comment_photo_scale_crop_w60_h60/public/profiles/photos/Stephan%20Shakespeare.png?itok=uLO22iDw" width="60" height="60" alt="Stephan Shakespeare" title="Stephan Shakespeare" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/profile/stephan-shakespeare">Stephan Shakespeare</a></span>  </div>  
+  <div class="views-field views-field-nothing">        <div class="view view-authors-news view-id-authors_news view-display-id-block_3 listingview view-dom-id-e2f3da6e32e015a9ed3204fb54b6678f">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          <a href="http://cdn1.cityam.net/1412729312/sainsbury-s-50pchallenge-poster-boy-its-decline-brand-index">Sainsbury’s #50pChallenge is a poster boy for its decline - Brand Index</a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-field-profile-photo">        <div class="field-content"><a href="/profile/ryan-bourne"><img typeof="foaf:Image" class="image-style-sidebar2-top-comment-photo-scale-crop-w60-h60" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar2_top_comment_photo_scale_crop_w60_h60/public/profiles/photos/Ryan_Bourne_a.png?itok=cBKzKJJm" width="60" height="60" alt="Ryan Bourne" title="Ryan Bourne" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/profile/ryan-bourne">Ryan Bourne</a></span>  </div>  
+  <div class="views-field views-field-nothing">        <div class="view view-authors-news view-id-authors_news view-display-id-block_3 listingview view-dom-id-d36faa328470ba173225573223114905">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          <a href="http://cdn1.cityam.net/1412618790/lib-dems-are-confused-economic-freedom-no-wonder-voters-aren-t-impressed">Lib Dems are confused on economic freedom: No wonder voters aren’t impressed</a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-field-profile-photo">        <div class="field-content"><a href="/profile/marc-sidwell"><img typeof="foaf:Image" class="image-style-sidebar2-top-comment-photo-scale-crop-w60-h60" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar2_top_comment_photo_scale_crop_w60_h60/public/profiles/photos/Marc%20Sidwell.png?itok=NfBn5RW0" width="60" height="60" alt="Marc Sidwell" title="Marc Sidwell" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/profile/marc-sidwell">Marc Sidwell</a></span>  </div>  
+  <div class="views-field views-field-nothing">        <div class="view view-authors-news view-id-authors_news view-display-id-block_3 listingview view-dom-id-e1dc41219bb4daaaaa3b6df5bd132b2b">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          <a href="http://cdn1.cityam.net/1412277097/we-re-continuing-innovate-bring-you-business-news-personality">City A.M. is continuing to innovate to bring you business news with personality</a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-field-profile-photo">        <div class="field-content"><a href="/profile/paul-ormerod"><img typeof="foaf:Image" class="image-style-sidebar2-top-comment-photo-scale-crop-w60-h60" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar2_top_comment_photo_scale_crop_w60_h60/public/profiles/photos/paul%20ormerod.gif?itok=QuXX94oO" width="60" height="60" alt="Paul Ormerod" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/profile/paul-ormerod">Paul Ormerod</a></span>  </div>  
+  <div class="views-field views-field-nothing">        <div class="view view-authors-news view-id-authors_news view-display-id-block_3 listingview view-dom-id-20266a99c82bd2b41d655578fc97b0f9">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          <a href="http://cdn1.cityam.net/1412701095/can-pill-stop-you-drinking-why-short-term-nudges-won-t-change-behaviour">Can a pill stop you drinking? Why short-term nudges won’t change behaviour</a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-field-profile-photo">        <div class="field-content"><a href="/profile/mark-kleinman"><img typeof="foaf:Image" class="image-style-sidebar2-top-comment-photo-scale-crop-w60-h60" src="http://cdn1.cityam.net/sites/default/files/styles/sidebar2_top_comment_photo_scale_crop_w60_h60/public/profiles/photos/Mark%20Kleinman.png?itok=7JcPn_II" width="60" height="60" alt="Mark Kleinman" title="Mark Kleinman" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/profile/mark-kleinman">Mark Kleinman</a></span>  </div>  
+  <div class="views-field views-field-nothing">        <div class="view view-authors-news view-id-authors_news view-display-id-block_3 listingview view-dom-id-da09c69e1c77c7ff6a5796e12a7dbc56">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          <a href="http://cdn1.cityam.net/1411606168/why-broadbent-could-be-next-checkout-tesco">Why Sir Richard Broadbent could be next to checkout at Tesco after £250m profit overstatement debacle</a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+  </div></section><div id="block-cityamblocks-wwwcityamcom-mpu-secondright" class="block block-cityamblocks no-title even last block-count-14 block-region-sidebar-second block-wwwcityamcom-mpu-secondright" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id="wwwcityamcom_MPU_secondright" class="dfp-ad "><script language="JavaScript">GA_googleFillSlot("wwwcityamcom_MPU_secondright");</script></div></div>
+  </div></div></div></div>
+  </div><!-- /end #columns -->
+
+  <!-- region: post Content -->
+  
+  <!-- region: Tertiary Content -->
+  <div class="region region-tertiary-content"><div class="region-inner clearfix"><div id="block-cityamblocks-pageskin" class="block block-cityamblocks no-title odd first last block-count-15 block-region-tertiary-content block-pageskin" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div id="pageskin" class="dfp-ad "><script language="JavaScript">GA_googleFillSlot("pageskin");</script></div></div>
+  </div></div></div></div>
+  <!-- region: Footer -->
+      <footer id="footer" class="clearfix" role="contentinfo">
+      <div class="region region-footer"><div class="region-inner clearfix"><div id="block-cityamblocks-cam-site-footer" class="block block-cityamblocks no-title odd first last block-count-16 block-region-footer block-cam-site-footer" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content">
+<!-- HTML code for the footer -->
+
+<nav id="block-menu-block-2" class="social-footer" role="navigation">
+    <div class="block-inner clearfix">
+        <ul class="menu clearfix">
+            <li class="first"><a href="http://twitter.com/cityam" class="twitter-icon" target="_blank">Twitter</a></li>
+            <li><a href="http://facebook.com/cityam" class="facebook-icon" target="_blank">Facebook</a></li>
+            <li><a href="http://www.linkedin.com/company/cityam" class="linkedin-icon" target="_blank">linkedin</a></li>
+            <li><a href="https://plus.google.com/106508342285323254392" class="googleplus-icon" target="_blank">Google</a></li>
+        </ul>
+    </div>
+</nav>
+<section id="block-cityamblocks-cityamfootersignup" class="block-cityamblocks newsletter-signup block-cityamfootersignup">
+    <div class="block-inner clearfix">
+        <h2 class="block-title"><span>Newsletter</span></h2>
+        <form action="http://cl.exct.net/subscribe.aspx?lid=530" method="post" name="subscribeForm" class="rtnewslettersignup rtnewslettersignup-footer">
+            <div>
+                <label for="Email Address">Email address</label>
+                <input name="Email Address" type="email" placeholder="Enter your email address" class="form-text newsletter-email">
+            </div>
+            <div>
+                <input type="submit" value="Sign up" class="form-submit newsletter-submit">
+            </div>
+            <input name="MID" type="hidden" value="7200770" />
+            <input name="Tracked Source" type="hidden" value="footer">
+            <input type="hidden" name="Company" value="" />
+            <input name="thx" type="hidden" value="http://www.cityam.com/newsletter/success">
+            <input name="err" type="hidden" value="http://www.cityam.com/newsletter/error">
+            <input name="usub" type="hidden" value="http://www.cityam.com/newsletter/unsubscribed">
+        </form>
+    </div>
+</section>
+<section id="cam-footer-bar" class=clearfix">
+    <h2>City A.M. Main Links</h2>
+    <nav id="block-menu-block-3" class="footer-links clearfix" role="navigation">
+        <ul class="menu clearfix">
+            <li class="first"><a href="/about-city-am">About</a></li>
+            <li><a href="/city-am-newsletter">Newsletter</a></li>
+            <li><a href="/advertising">Advertising</a></li>
+            <li><a href="/awards">Awards</a></li>
+            <li><a href="/privacy-policy">Privacy</a></li>
+            <li class="last"><a href="/terms-conditions">Terms</a></li>
+        </ul>
+    </nav>
+    <p class="clearfix">Copyright &copy; 2014 City A.M. Limited</p>
+</section>
+
+
+</div>
+  </div></div></div></div>    </footer>
+  
+</div>
+
+</div>
+<!-- /PAGESKIN  --> 
+  <script src="http://cdn1.cityam.net/sites/default/files/js/js_S0XZGnqZZLmKjomSdyqksUcNhqp3Bw2gmE5jQGRlods.js"></script>
+
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});
+</script>
+<script type="text/javascript">
+    jQuery('#responsive-menu-button').sidr({
+        name: 'sidr-main',
+        source: '#cam-navigation',
+        speed: 200,
+        side: "left",
+        displace: true
+    });
+    // open/close for mobile
+    jQuery(".mobile-cse .mobile-google-cse").click(function(){
+        jQuery('.cam-search').stop().slideToggle(500);
+        return false;
+    });
+</script>
+</body>
+</html>

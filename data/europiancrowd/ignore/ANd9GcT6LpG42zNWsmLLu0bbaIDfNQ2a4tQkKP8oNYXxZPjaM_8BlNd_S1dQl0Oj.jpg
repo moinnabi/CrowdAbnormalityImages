@@ -1,0 +1,182 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head><title>404 - No match! | VÁRFOK GALLERY</title><meta http-equiv="X-UA-Compatible" content="IE=10" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Content-Language" content="en" /><meta http-equiv="Content-Script-Type" content="text/javascript" /><meta name="description" content="" /><meta name="keywords" content="" /><link rel="shortcut icon" href="/images/front/favicon.png" /><link rel="icon" href="/images/front/favicon.png" /><link href="/css/reset.css" rel="stylesheet" type="text/css" /><link href="/css/default/default.css" rel="stylesheet" type="text/css" /><link rel="stylesheet" href="/css/default/cont/static.css" type="text/css" /><link href="/js/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" /><link href="/js/fancybox/helpers/jquery.fancybox-buttons.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="/js/jquery-1.9.1.min.js"></script><script type="text/javascript" src="http://connect.facebook.net/hu_HU/all.js"></script><script type="text/javascript" src="/js/fancybox/jquery.fancybox.pack.js"></script><script type="text/javascript" src="/js/fancybox/helpers/jquery.fancybox-buttons.js"></script><script type="text/javascript" src="/js/default/default.js"></script><script type="text/javascript" src="/js/default/cont/static.js"></script><script type="text/javascript" src="/js/facebook_init.js"></script>
+<script type="text/javascript">
+
+ var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-3102001-1']);
+ _gaq.push(['_trackPageview']);
+
+ (function() {
+   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+
+</script>
+</head><body><div id="fb-root"></div><div id="container"><div id="container2" align="center"><div class="wrapper980"><table cellpadding="0" cellspacing="0" border="0" class="mainContentTable"><tr><td valign="top" height="136"><a class="logo" href="/"><img alt="VÁRFOK GALLERY" title="VÁRFOK GALLERY" src="/images/front/varfok-galeria-logo.png" /></a></td><td valign="top"><div class="menu_container">
+	<div class="menu_wrapper">
+		<div id="menu">
+					<div class="menuitem" id="mnu1">
+				<div style="position:relative">
+				<a href="/en" class="foMenuLink" >         Home         </a>
+								</div>
+			</div>
+							<div class="menu_separator"></div>
+								<div class="menuitem" id="mnu2">
+				<div style="position:relative">
+				<a href="/exhibitions/current-exhibition" class="foMenuLink" >Exhibitions</a>
+								<div class="submenu_box sm2">
+					<div class="top"></div>
+					<div class="middle">
+											<a href="/exhibitions/current-exhibition">Várfok Gallery</a>
+											<a href="/exhibitions/project-room">Várfok Project Room</a>
+											<a href="/exhibitions/gallery-19/strolling-through-the-inner-land-379">Gallery 19</a>
+											<a href="/upcoming-exhibition">Upcoming Exhibitions</a>
+											<a href="/exhibitions/varfok-galeria">Várfok Gallery Archives</a>
+											<a href="/exhibitions/varfok-hall-archives">Várfok Hall Archives</a>
+											<a href="/exhibitions/xo-hall-archives">XO Hall Archives</a>
+											<a href="/exhibitions/virtual-tour">Virtual tours</a>
+											<a href="/exhibitions/videos-of-the-openings">Videos of the openings</a>
+											<a href="/exhibitions/portal-gallery">Portal Gallery</a>
+										</div>
+					<div class="bottom"></div>
+				</div>
+								</div>
+			</div>
+							<div class="menu_separator"></div>
+								<div class="menuitem" id="mnu3">
+				<div style="position:relative">
+				<a href="/artists" class="foMenuLink" >Artists</a>
+								<div class="submenu_box sm3">
+					<div class="top"></div>
+					<div class="middle">
+											<a href="/artists">All artists</a>
+											<a href="/artists/aatoth-franyo">aatoth franyo</a>
+											<a href="/artists/czigany-akos">CZIGÁNY Ákos</a>
+											<a href="/artists/felugossy-laszlo">feLUGOSSY, László</a>
+											<a href="artists/francoise-gilot">Françoise GILOT</a>
+											<a href="/artists/gyorffy-laszlo">GYŐRFFY, László</a>
+											<a href="/artists/martin-c-herbst">Martin C. HERBST</a>
+											<a href="/artists/herman-levente">HERMAN, Levente</a>
+											<a href="/muveszek/jovanovics-tamas">JOVANOVICS Tamás</a>
+											<a href="/artists/el-kazovszkij">El KAZOVSZKIJ</a>
+											<a href="/muveszek/keseru-karoly">KESERÜ Károly</a>
+											<a href="/artists/korniss-peter">KORNISS, Péter</a>
+											<a href="/artists/misetics-matyas">MISETICS, Mátyás</a>
+											<a href="/artists/mulasics-laszlo">MULASICS, László</a>
+											<a href="/artists/nadler-istvan">NÁDLER, István</a>
+											<a href="/artists/racmolnar-sandor">RÁCMOLNÁR, Sándor</a>
+											<a href="/artists/ray-monde">Ray Monde</a>
+											<a href="/artists/rozsda-endre">ROZSDA, Endre</a>
+											<a href="/artists/szirtes-janos">SZIRTES, János</a>
+											<a href="/artists/szotyory-laszlo">SZOTYORY, László</a>
+											<a href="/artists/ujhazi-peter">UJHÁZI, Péter</a>
+											<a href="/artists/varady-robert">VÁRADY, Róbert</a>
+											<a href="/artists/sebastian-weissenbacher">Sebastian WEISSENBACHER</a>
+											<a href="/artists?spiritusz=1">SPIRITUSZ SECTION<br> HOLLÓS Ádám, TÓTH Szilvi</a>
+										</div>
+					<div class="bottom"></div>
+				</div>
+								</div>
+			</div>
+							<div class="menu_separator"></div>
+								<div class="menuitem" id="mnu4">
+				<div style="position:relative">
+				<a href="/delicatessen/indoor" class="foMenuLink" >Delicatessen</a>
+								<div class="submenu_box sm4">
+					<div class="top"></div>
+					<div class="middle">
+											<a href="/delicatessen/indoor">Indoor</a>
+											<a href="/delicatessen/outdoor">Outdoor</a>
+										</div>
+					<div class="bottom"></div>
+				</div>
+								</div>
+			</div>
+							<div class="menu_separator"></div>
+								<div class="menuitem" id="mnu5">
+				<div style="position:relative">
+				<a href="/art-fairs" class="foMenuLink" >Art Fairs</a>
+								</div>
+			</div>
+							<div class="menu_separator"></div>
+								<div class="menuitem" id="mnu6">
+				<div style="position:relative">
+				<a href="about-us" class="foMenuLink" >About</a>
+								<div class="submenu_box sm6">
+					<div class="top"></div>
+					<div class="middle">
+											<a href="varfok-gallery">Várfok Gallery</a>
+											<a href="/beginnings">The beginning</a>
+											<a href="/changes-in-2011">Changes in 2011</a>
+											<a href="/changes-in-2002">Changes in 2002</a>
+											<a href="/portal-gallery-2002-2006">Portál Gallery</a>
+											<a href="/cafe-alkoholos-filc-2002-2009">Café Alkoholos Filc (2002-2009)</a>
+											<a href="/spiritusz-gallery-on-pest-side-2007-2010">Spiritusz Gallery on Pest side</a>
+											<a href="/gallery-19-an-open-air-gallery">Gallery 19 open-air gallery</a>
+										</div>
+					<div class="bottom"></div>
+				</div>
+								</div>
+			</div>
+							<div class="menu_separator"></div>
+								<div class="menuitem" id="mnu7">
+				<div style="position:relative">
+				<a href="/contact" class="foMenuLink" >Contact Us</a>
+								</div>
+			</div>
+							</div>
+	</div>
+</div></td></tr><tr><td valign="top" colspan="2"><div class="rightContainerBox"><div id="content"><div class="static_page">
+<div class="static_text">
+  <p><strong>The page is not found</strong></p>
+<p><img src="/upload/image/404.jpg" alt="404" width="620" height="479" /></p>
+<p>Please, check if the link is correct!<br /><span style="font-size: 14px;">Please, use the menu for navigation!<br /></span></p>
+  </div>
+</div></div></div><div class="leftContainerBox2"><a class="langChange" href="http://www.varfok-galeria.hu">magyar »</a><div class="staticLeft">
+		<div class="bc">
+			<a href="/404">404 - No match!</a><span class="nyil">»</span>
+		</div>
+		<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+		<span class="fTitle narancssargaAlsoCsik leftTitle">Várfok Gallery</span>
+		<div class="infoBoxData varfokGal">
+		<p class="textLine"><label>Address:</label><span>H-1012 Budapest, Várfok St. 11.</span></p>
+		<p class="textLine"><label>Phone:</label><span>+36 1 213 5155,<br/>+36 1 489 3920</span></p>
+		<p class="textLine"><label></label><span></span></p>
+		<p class="textLine"><label>Cell:</label><span>+36 30 562 2772</span></p>
+		<p class="textLine"><label>Email:</label><span><a href="mailto:galeria@varfok-galeria.hu">galeria@varfok-galeria.hu</a></span></p>
+		<p class="textLine"><label>Open:</label><span>from Tuesday to Saturday,<br/>between 11 a.m. and 6 p.m. <br/>Closed: Sundays, Mondays</span></p>
+		</div>
+		<p class="szinesvonal"></p>
+		<span class="fTitle bordoAlsoCsik leftTitle">Project Room</span>
+		<div class="infoBoxData projectRoom">
+		<p class="textLine"><label>Address:</label><span>Budapest, Várfok St. 14.</span></p>
+		<p class="textLine"><label>Phone:</label><span></span></p>
+		<p class="textLine"><label></label><span></span></p>
+		<p class="textLine"><label>Cell:</label><span>(+36) 30 846 2998</span></p>
+		<p class="textLine"><label>Email:</label><span><a href="mailto:galeria@varfok-galeria.hu">galeria@varfok-galeria.hu</a></span></p>
+		<p class="textLine"><label>Open:</label><span>from Tuesday to Saturday,<br/>betw</span></p>
+		</div>
+		<p class="szinesvonal"></p>
+		<div class="map">
+		<div id="map_canvas"></div>
+			
+		</div>
+</div></div></td></tr><tr><td valign="top"><div class="spirituszBox"><span class="spTitle">SPIRITUSZ SECTION</span><p class="spPreli">Emerging talents, fresh tendencies</p><a href="/artists?spiritusz=1" class="spButton">Artists</a></div><div class="facebookBox"><div class="fbBox"><fb:like-box href="https://www.facebook.com/varfok" width="292" show_faces="false" stream="false" header="false" css="http://varfok-galeria.hu/css/FBlikeBox.css?5" data-colorscheme="dark"></fb:like-box></div></div></td><td valign="top"><div class="rightFooterBox"><div class="box1"><a id="emailForm"></a><form method="post" action="http://www.varfok-galeria.hu/hirlevel/subscriber.php?g=2"><span class="newsletterTitle">Newsletter</span><p class="newsletterText">Subscribe to our newsletter to get the latest news!</p><input name="f_24" class="input yourName" value="your name" class="yourName" onfocus="if(this.value=='your name')this.value=''" onblur="if(this.value=='')this.value='your name'" data-default="your name" /><input name="subscr" class="input yourEmail" value="your email address" class="yourEmail" onfocus="if(this.value=='your email address')this.value=''" onblur="if(this.value=='')this.value='your email address'" data-default="your email address"/><input name="sub" class="submit newsletterSubscribe" value="ok" type="submit" /></form></div><div class="box2"><span class="partnereinkTitle">Partners</span><table style="width: 100%; height: 160px;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td><a href="http://www.bortarsasag.hu/" target="_blank"><img src="/upload/image/bortarsasag_logo.png" alt="Bor T&aacute;rsas&aacute;g" width="100" height="40" /></a></td>
+<td><a href="http://www.kolostudio.hu/" target="_blank"><img src="/upload/image/kolo_logo.png" alt="Kolo St&uacute;di&oacute;" width="100" height="40" /></a></td>
+</tr>
+<tr>
+<td><a href="http://www.stocek.hu/" target="_blank"><img src="/upload/image/stocek_logo.png" alt="Stocek" width="100" height="40" /></a></td>
+<td><a href="http://www.zieglerostya.hu/" target="_blank"><img src="/upload/image/ziegler_logo.png" alt="Ziegler" width="100" height="40" /></a></td>
+</tr>
+<tr>
+<td><a href="http://www.castlegarden.hu/" target="_blank"><img src="/upload/image/castle_logo.png" alt="Hotel Castle Garden" width="100" height="40" /></a></td>
+<td><a href="http://www.any.hu/" target="_blank"><img src="/upload/image/any_nyrt.png" alt="ANY Biztons&aacute;gi Nyomda" width="100" height="40" /></a></td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="2"><span style="font-size: xx-small; color: #c0c0c0;">Kiemelt informatikai partner&uuml;nk</span><br /><a href="http://piarsoft.hu/" target="_blank"><img src="/upload/image/piarsoft_logo.png" alt="PiarSoft" width="170" height="44" /></a></td>
+</tr>
+</tbody>
+</table></div><div class="box3"><span class="alapitvanyTitle">Foundation</span><p class="alapitvanyText">Read more about the activity of Várfok 14 Studio Gallery Foundation</p><a class="alapitvanyUrl" href="/varfok-14-muhelygaleria-alapitvany">read more</a></div></div></td></tr></table><div class="bottomFooter"><span class="bottomFooterText">© Várfok Galéria | since 1990 | Previous webpages: 2000-2004:&nbsp;</span><a href=http://v1.varfok-galeria.hu/ target=_blank>Várfok 1.0</a><span class="bottomFooterText">&nbsp;| 2004-2009:&nbsp;</span> <a href=http://v2.varfok-galeria.hu/ target=_blank>Várfok 2.0</a> <span class="bottomFooterText">&nbsp;| H-1012 Budapest, Várfok St. 11. | Tel: + 36.1.2135155; + 36.30.562 2772 |&nbsp;</span><a href="mailto:galeria@varfok-galeria.hu">galeria@varfok-galeria.hu</a></div></div></div></div><script  async="true" type="text/javascript">var lang = {"siteTitle":"V\u00c1RFOK GALLERY","siteEmail":"galeria@varfok-galeria.hu","siteMasterEmail":"galeria@varfok-galeria.hu","siteUrl":"http:\/\/varfok-galeria.hu","hirek_url":"news","galeria_url":"gallery","kapcsolat_url":"contact","regisztracio":"Registration","belepes":"Login","kilepes":"Logout","bovebben":"Read More","vendegkonyv":"Guestbook","galeria":"Gallery","hirek":"Latest News","virtualis_seta_title":"Virtual Tour","muveszek_url":"artists","virtualisTura":"Virtual Tour","kiallitasok_url":"exhibitions","spTitle":"SPIRITUSZ SECTION","spPreli":"Emerging talents, fresh tendencies","spAlkotok":"Artists","vasarok_url":"art-fairs","delikatesz_url":"delicatessen","bottomFooterText1":"\u00a9 V\u00e1rfok Gal\u00e9ria | since 1990 | Previous webpages: 2000-2004:","bottomFooterLink1":"<a href=http:\/\/v1.varfok-galeria.hu\/ target=_blank>V\u00e1rfok 1.0<\/a>","bottomFooterText2":"| 2004-2009:","bottomFooterLink2":" <a href=http:\/\/v2.varfok-galeria.hu\/ target=_blank>V\u00e1rfok 2.0<\/a> ","bottomFooterText3":"| H-1012 Budapest, V\u00e1rfok St. 11. | Tel: + 36.1.2135155; + 36.30.562 2772 |","newsletter":"Newsletter","newsletterText":"Subscribe to our newsletter to get the latest news!","yourName":"your name","yourEmail":"your email address","newsletterOk":"ok","partnereinkTitle":"Partners","alapitvanyTitle":"Foundation","alapitvanyText":"Read more about the activity of V\u00e1rfok 14 Studio Gallery Foundation","alapitvanyUrlText":"read more","alapitvanyUrl":"varfok-14-muhelygaleria-alapitvany","toEnglish":"english \u00bb","toHungarian":"magyar \u00bb","paintInVarfok":"In V\u00e1rfok Gallery","PaintNotInVarfok":"Private Collection","feliratkozas_msg":"Dear Subscriber!<br\/><br\/>You have successfully suscribed to our newsletter!<br><br>","siteSignature":"<br><br>Cordially,<br>V\u00e1rfok Gallery","cimlap_url":"en","en_url":"www.varfok-gallery.eu","magantulajdonban":"Mag\u00e1ntulajdonban","hu_url":"www.varfok-galeria.hu","bottomFooterText4":"| 2009-2013:","bottomFooterLink4":"<a href=http:\/\/v3.varfok-galeria.hu\/ target=_blank>V\u00e1rfok3<\/a>","kapcsolatTitle":"V\u00e1rfok Gallery","addressLabel":"Address:","addressText":"H-1012 Budapest, V\u00e1rfok St. 11.","telLabel":"Phone:","telText":"+36 1 213 5155,<br\/>+36 1 489 3920","faxLabel":"","faxText":"","mobilLabel":"Cell:","mobilText":"+36 30 562 2772","emailLabel":"Email:","emailText":"galeria@varfok-galeria.hu","openLabel":"Open:","openText":"from Tuesday to Saturday,<br\/>between 11 a.m. and 6 p.m. <br\/>Closed: Sundays, Mondays","rolunk":"About","PRkapcsolatTitle":"Project Room","PRaddressText":"Budapest, V\u00e1rfok St. 14.","PRtelText":"","PRfaxText":"","PRmobilText":"(+36) 30 846 2998","PRemailText":"galeria@varfok-galeria.hu","PRopenText":"from Tuesday to Saturday,<br\/>betw"};lang['siteMasterEmail'] = lang['siteEmail'] = "";</script></body></html>
