@@ -1,0 +1,178 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title></title>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+
+	<link rel="stylesheet" type="text/css" href="/ccss/reset.screen.css" />
+	<link rel="stylesheet" type="text/css" href="/ccss/pittsburghclo-superfish.css" />
+	<link rel="stylesheet" type="text/css" href="/ccss/thickbox.css" />
+	<link rel="stylesheet" type="text/css" href="/ccss/pittsburghclo-datePicker.css" />
+	<link rel="stylesheet" type="text/css" href="/ccss/pittsburghclo-screen.css" />
+
+	<script type="text/javascript" src="/js/jquery.pngfix.pack.js"></script>
+	<script type="text/javascript" src="/js/jquery.cycle.all.pack.js"></script>
+	<script type="text/javascript" src="/js/swfobject.js"></script>
+	<script type="text/javascript" src="/js/date.js"></script>
+	<script type="text/javascript" src="/js/jquery.datePicker.js"></script>
+	<script type="text/javascript" src="/js/superfish.js"></script>
+	<script type="text/javascript" src="/js/thickbox-compressed.js"></script>
+	<script type="text/javascript" src="/js/config-clo.js"></script>
+	<script type="text/javascript" src="/js/pittsburghclo.js"></script>
+<!--[if lt IE 7.]>
+<link rel="stylesheet" type="text/css" href="/css/pittsburghclo-ie6.css" />
+<![endif]-->
+<style type="text/css">
+<!--
+body {
+	background-image: url(/images/clo/bg-body-level.jpg);
+}
+-->
+</style>
+<script type="text/javascript" src="/js/fancybox/jquery.easing-1.3.pack.js"></script>
+<script type="text/javascript" src="/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/fancybox/jquery.fancybox-1.3.4.css" media="screen" />
+<script type="text/javascript">
+<!--
+$(document).ready(function(){
+	$("a.lightbox").fancybox({
+		'transitionIn'	: 'fade',
+		'transitionOut'	: 'fade',
+		'titleShow' : true,
+		'overlayOpacity' : 0.9,
+		'width' : 400,
+		'height' : 308,
+		'padding' : 0,
+		'margin' : 0,
+		'scrolling' : 'no',
+		'onComplete': function() { 
+			$("#fancybox-title").css({'top':'-20px', 'bottom':'auto'}); 
+		} 
+	});
+});
+-->
+</script>
+</head>
+<body>
+<iframe src="https://network.mogointeractive.com/0/21908/universal.html?page_name=rt_hp&rt=1&mpuid=" HEIGHT=1 WIDTH=1 FRAMEBORDER=0></iframe>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-80361-6");
+pageTracker._setDomainName("none");
+pageTracker._setAllowLinker(true);
+pageTracker._trackPageview();
+</script><div class="page">
+	<div class="masthead masthead-level">
+		<form class="search-form" action="/search.php" method="get">
+	<input type="hidden" name="search" value="1">
+	<input type="text" class="textfield" value="Search Our Site" id="q" name="query" maxlength="20" />
+	<input type="image" class="image-button" src="/images/clo/btn-go.gif" alt="Go" id="btnGo" name="btnGo" />
+</form>		<div class="masthead-banner" style="background-image: url();">
+			<a class="logo" href="/"><img src="/images/clo/logo-clo.png" alt="Pittsburgh CLO" class="logo" /></a>
+			<div class="navigation-tabs-container">
+	<ul class="navigation-tabs">
+		<li><a id="clo" href="/">Pittsburgh CLO</a></li>
+		<li><a id="education" href="/education">Education</a></li>
+		<li><a id="cabaret" href="/cabaret">CLO Cabaret</a></li>
+	</ul>
+</div>		</div>
+	</div>
+
+	<ul class="navigation-primary"></ul>	
+	<div class="content">
+		
+		<div class="column-navigation">
+			
+						
+			
+<script type="text/javascript">
+<!--
+var markedEvents = new Array();
+
+function markEvents($td, thisDate, month, year)
+{
+	if (markedEvents[thisDate.getFullYear().toString() + thisDate.getMonth().toString() + thisDate.getDate().toString()]) {
+		$td.addClass('marked-event');
+	}
+}
+
+var gete = 0;
+function getEvents() {
+	$.getJSON('/events/get_upcoming_events', function(data) {
+		$.each(data, function(i,item){
+			if (!markedEvents[item.yr.toString() + parseInt((item.mo-1)).toString() + parseInt(item.dy).toString()]) {
+				markedEvents[item.yr.toString() + parseInt((item.mo-1)).toString() + parseInt(item.dy).toString()] = 1;
+			}
+		});
+		buildCal();
+     }); 
+}
+
+function buildCal() {
+	$('.mini-calendar').datePicker({
+		month: 9,
+		year: 2014,
+		inline: true,
+		selectMultiple: false,
+		renderCallback: markEvents,
+		showYearNavigation:false
+	}).bind('dateSelected',function(e, selectedDate, $td, state) {
+		window.location = '/events/search/d:'+selectedDate.asString()+'/section:'+section;			
+	});
+}
+
+$(document).ready(function(){
+	getEvents();
+});
+
+-->
+</script>
+
+<div class="mini-calendar mini-calendar-level">
+&nbsp;
+</div>	
+			<a href="http://visitor.constantcontact.com/d.jsp?m=1101641411915&p=oi" target="_blank"><img src="/images/clo/btn-email-alerts-level.gif" alt="CLO E-mail Alerts" /></a>
+		
+		</div>
+
+		<div class="column-content">
+			
+					
+		</div>
+		
+	</div>
+	
+</div>
+<div class="footer">
+	
+	<p>
+Copyright 2008 Pittsburgh CLO   
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="pipe">|</span>&nbsp;&nbsp;&nbsp;&nbsp;
+719 Liberty Avenue   
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="pipe">|</span>&nbsp;&nbsp;&nbsp;&nbsp;   
+Pittsburgh, PA 15222    
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="pipe">|</span>&nbsp;&nbsp;&nbsp;&nbsp;   
+Phone (412) 281-3973    
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="pipe">|</span>&nbsp;&nbsp;&nbsp;&nbsp;    
+Fax (412) 281-5339
+<span class="footer-buttons">
+	<a href="/pages/contact-us">Contact Us</a>
+	<a href="/pages/site-map">Site Map</a>
+	<a href="/pages/press-room">Press Room</a>
+	<a href="/pages/privacy-and-security">Privacy &amp; Security</a>
+	<a href="/forms/onlinedonation">Donate Now</a>
+</span>
+</p>
+	
+</div>
+<script type="text/javascript">
+adroll_adv_id = "DT7RWA5QQZBJDMYUP5CYKT"; adroll_pix_id = "5C3O2Y2FEBC3LLSGYJH3IA"; (function () { var oldonload = window.onload; window.onload = function(){ __adroll_loaded=true; var scr = document.createElement("script"); var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com"); scr.setAttribute('async', 'true'); scr.type = "text/javascript"; scr.src = host + "/j/roundtrip.js";
+((document.getElementsByTagName('head') || [null])[0] || document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+if(oldonload){oldonload()}};
+}());
+</script></body>
+</html>

@@ -4,14 +4,16 @@
 addpath('downloadImages/')
 
 % Data Collection
-%querynames = {'Crowd','Crowd Peace','Crowd Normal','Crowd Humanity','Crowd Abnormal','Crowd Fight','Crowd Protest','Crowd Danger', 'Crowd Struggle'};
-%querynames = {'Crowd Club','Crowd Party','Crowd People','Crowd Stage','Crowd Concert','Crowd HD','Crowd City'};
-querynames = {'Crowd China','Crowd Army','Crowd Stadium','crowd Attack','crowd Gathering','concert crowd fight metallica','Crowd Rome','Crowd Egypt' ...
-    'Stadium Brazil Fight','Protest Iran','Crowd Hong Kong','Protest Hong Kong','Marathon Crowd','Time Square Crowd','Manhatan Crowd','Florida Crowd' ...
-    'Crowd India','Metro Crowd','Crowd Fest','Crowd Metro Attack','Israeli Crowd','Mecca Crowd','Mina Mecca Crowd','Carnival Crowd','Dehli crowd' ...
+querynames = {'Crowd','Crowd Peace','Crowd Normal','Crowd Humanity','Crowd Abnormal','Crowd Fight','Crowd Protest','Crowd Danger', 'Crowd Struggle', 'Crowd Club','Crowd Party', ...
+    'Crowd People','Crowd Stage','Crowd Concert','Crowd HD','Crowd City','Crowd China','Crowd Army','Crowd Stadium','crowd Attack','crowd Gathering', ... 
+    'concert crowd fight metallica','Crowd Rome','Crowd Egypt','Stadium Brazil Fight','Protest Iran','Crowd Hong Kong','Protest Hong Kong','Marathon Crowd','Time Square Crowd', ... 
+    'Manhatan Crowd','Florida Crowd' ,'Crowd India','Metro Crowd','Crowd Fest','Crowd Metro Attack','Israeli Crowd','Mecca Crowd','Mina Mecca Crowd','Carnival Crowd','Dehli crowd' ...
     'Terror Crowd','Metro Bomb Crowd','Metro Terror Crowd','London Crowd','Paris Crowd','Brazil Crowd','Spain Crowd','Munich Crowd','Oktoberfest Crowd' ...
     'Cow Spain Crowd','Gay Crowd','Celebration Crowd','Guard Protest'};
 
+querynames = {'High Interaction Crowd','Violence Crowd','Crowd beijing', 'crowd pedestrian', 'crowd exit fest', 'crowd dimension fest', 'crowd unknown fest', 'crowd concert beyonce', ...
+    'crowd concert u2', 'crowd movie war', 'crowd movie', 'crowd street performance', 'crowd street', 'crowd top view', 'crowd malaya', ...
+    'crowd speech', 'crowd pray', 'crowd vatican', 'crowd smoking', 'crowd running away, crowd scared, crowd running toward, crowd running and screaming, crowd running scared, crowd laughing
 
 datadir = '../data';
 weirdAspectThresh = 0.4;
@@ -19,7 +21,7 @@ maxImgReSize = 1000;
 
 
 
-for f = 1:size(phrasenames,2)
+for f = 1:size(querynames,2)
     phrasenames = querynames{f}(find(~isspace(querynames{f})))
     thisdowndir = [datadir '/' phrasenames '/']; 
     filenameWithPath=which('googleimages_dsk.py');      %code/downloadImages/googleimages_dsk.py
@@ -60,6 +62,8 @@ ids_temp = dir([thisdowndir '*.*']);       % doing *.* to handle different types
     disp([' total of ' num2str(length(dir([thisdowndir '/*.jpg']))) ' valid images']); 
 
     disp(' writing done file');
-    %mkdir([thisdowndir '/done.done']);
-%end
+
 end
+
+
+% Feature Extraction

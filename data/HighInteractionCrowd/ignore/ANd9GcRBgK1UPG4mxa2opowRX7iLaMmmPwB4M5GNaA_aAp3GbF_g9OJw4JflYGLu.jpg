@@ -1,0 +1,183 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.winterfees.co.za/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Access denied | Vodacom Winterfestival</title>
+  <style type="text/css" media="all">@import url("http://www.winterfees.co.za/modules/system/system.base.css?mzpd3o");
+@import url("http://www.winterfees.co.za/modules/system/system.menus.css?mzpd3o");
+@import url("http://www.winterfees.co.za/modules/system/system.messages.css?mzpd3o");
+@import url("http://www.winterfees.co.za/modules/system/system.theme.css?mzpd3o");</style>
+<style type="text/css" media="all">@import url("http://www.winterfees.co.za/sites/all/modules/calendar/css/calendar_multiday.css?mzpd3o");
+@import url("http://www.winterfees.co.za/sites/all/modules/date/date_api/date.css?mzpd3o");
+@import url("http://www.winterfees.co.za/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?mzpd3o");
+@import url("http://www.winterfees.co.za/sites/all/modules/date/date_repeat_field/date_repeat_field.css?mzpd3o");
+@import url("http://www.winterfees.co.za/modules/field/theme/field.css?mzpd3o");
+@import url("http://www.winterfees.co.za/sites/all/modules/mollom/mollom.css?mzpd3o");
+@import url("http://www.winterfees.co.za/modules/node/node.css?mzpd3o");
+@import url("http://www.winterfees.co.za/modules/user/user.css?mzpd3o");
+@import url("http://www.winterfees.co.za/sites/all/modules/views/css/views.css?mzpd3o");</style>
+<style type="text/css" media="all">@import url("http://www.winterfees.co.za/sites/all/modules/ckeditor/ckeditor.css?mzpd3o");
+@import url("http://www.winterfees.co.za/sites/all/modules/ctools/css/ctools.css?mzpd3o");</style>
+<style type="text/css" media="all">@import url("http://www.winterfees.co.za/themes/bartik/css/layout.css?mzpd3o");
+@import url("http://www.winterfees.co.za/themes/bartik/css/style.css?mzpd3o");
+@import url("http://www.winterfees.co.za/sites/default/files/color/bartik-4f96d025/colors.css?mzpd3o");</style>
+<style type="text/css" media="print">@import url("http://www.winterfees.co.za/themes/bartik/css/print.css?mzpd3o");</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://www.winterfees.co.za/themes/bartik/css/ie.css?mzpd3o" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="http://www.winterfees.co.za/themes/bartik/css/ie6.css?mzpd3o" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://www.winterfees.co.za/sites/all/modules/jquery_update/replace/jquery/1.5/jquery.min.js?v=1.5.2"></script>
+<script type="text/javascript" src="http://www.winterfees.co.za/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.winterfees.co.za/misc/drupal.js?mzpd3o"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"KGQat6RUlIMc6T__LTkz_56zIWk3L9z83v2NLm1Bsi8","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.5\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"themes\/bartik\/css\/colors.css":1,"themes\/bartik\/css\/print.css":1,"themes\/bartik\/css\/ie.css":1,"themes\/bartik\/css\/ie6.css":1}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-sites page-sites-default page-sites-default-files page-sites-default-files-styles page-sites-default-files-styles-page page-sites-default-files-styles-page-public page-sites-default-files-styles-page-public-883688-10151492375963260-869673824-ojpgitokhc6d-wek" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+          <a href="/" title="Home" rel="home" id="logo">
+        <img src="http://www.winterfees.co.za/sites/default/files/color/bartik-4f96d025/logo.png" alt="Home" />
+      </a>
+    
+          <div id="name-and-slogan" class="element-invisible">
+
+                              <div id="site-name" class="element-invisible">
+              <strong>
+                <a href="/" title="Home" rel="home"><span>Vodacom Winterfestival</span></a>
+              </strong>
+            </div>
+                  
+        
+      </div> <!-- /#name-and-slogan -->
+    
+    
+          <div id="main-menu" class="navigation">
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-218 first"><a href="/">Home</a></li>
+<li class="menu-478"><a href="/artists">Artists</a></li>
+<li class="menu-507"><a href="/program">Program</a></li>
+<li class="menu-476"><a href="/downloads">Downloads</a></li>
+<li class="menu-460 last"><a href="/node/12">Contact Us</a></li>
+</ul>      </div> <!-- /#main-menu -->
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+          <div id="breadcrumb"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a></div></div>
+    
+          <div id="sidebar-first" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-first">
+    <div id="block-menu-menu-gallery" class="block block-menu">
+
+    <h2>Gallery</h2>
+  
+  <div class="content">
+    <ul class="menu clearfix"><li class="first leaf"><a href="/node/14">2012 - FunFair</a></li>
+<li class="last collapsed"><a href="/node/23">2014 Commitee</a></li>
+</ul>  </div>
+</div>
+<div id="block-block-1" class="block block-block">
+
+    <h2>Contact Us</h2>
+  
+  <div class="content">
+    <p>Tel : 034 312 2959</p>
+<p>Fax : 034 326 4901</p>
+  </div>
+</div>
+<div id="block-user-login" class="block block-user">
+
+    <h2>User login</h2>
+  
+  <div class="content">
+    <form action="/sites/default/files/styles/page/public/883688_10151492375963260_869673824_o.jpg%3Fitok%3DHc6D-Wek?destination=sites/default/files/styles/page/public/883688_10151492375963260_869673824_o.jpg%3Fitok%3DHc6D-Wek" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-c0SmezX3bl2U_AU8IASHGyOGGGsupNn9c0dI0SK65mY" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#sidebar-first -->
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                    <h1 class="title" id="page-title">
+          Access denied        </h1>
+                          <div class="tabs">
+                  </div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    You are not authorized to access this page.  </div>
+</div>
+  </div>
+      
+    </div></div> <!-- /.section, /#content -->
+
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+    
+          <div id="footer" class="clearfix">
+          <div class="region region-footer">
+    <div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="http://www.jenny.co.za/" target="_blank"><img src="http://www.jenny.co.za/banners/jenny_voip_newcastle_airsho.png" /></a></p>
+  </div>
+</div>
+<div id="block-block-3" class="block block-block">
+
+    
+  <div class="content">
+    <div align="center" class="clear"><a href="http://www.stucky-solutions.net" target="_blank" class="ext">Setup and maintained by Stucky-Solutions.net </a></div>  </div>
+</div>
+  </div>
+      </div> <!-- /#footer -->
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+  </body>
+</html>

@@ -1,0 +1,523 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+
+<head profile="http://gmpg.org/xfn/11">
+	
+	<meta name="apple-itunes-app" content="app-id=916831657">
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<!--Meta-->
+			<title>Page not found  |  A3C Hip Hop Festival</title>
+		 
+			<meta property="og:title" content="Page not found  |  A3C Hip Hop Festival" />
+						<meta property="og:image" content="http://www.a3cfestival.com/wp-content/uploads/AD-400x250.jpg" />
+				<meta property="og:image" content="http://www.a3cfestival.com/wp-content/uploads/ATL-HOME_A3C-400x250.jpg" />
+				<meta property="og:image" content="http://www.a3cfestival.com/wp-content/uploads/stop-400x250.jpg" />
+				<meta property="og:image" content="http://www.a3cfestival.com/wp-content/uploads/fran-400x250.jpg" />
+				<meta property="og:image" content="http://www.a3cfestival.com/wp-content/uploads/sy-400x250.jpg" />
+				<meta property="og:image" content="http://www.a3cfestival.com/wp-content/uploads/problem-400x250.jpg" />
+				<meta property="og:image" content="http://www.a3cfestival.com/wp-content/uploads/t-400x250.png" />
+				<meta property="og:image" content="" />
+				<meta property="og:image" content="http://www.a3cfestival.com/wp-content/uploads/NetQast640x184-400x184.png" />
+				<meta property="og:image" content="http://www.a3cfestival.com/wp-content/uploads/PlanetPotency640x184-400x184.jpg" />
+		 
+			
+	
+	<meta property="fb:admins" content="9024761" />
+
+	
+	<!--Style Sheets-->
+	<link rel="stylesheet" type="text/css" media="all" href="/wp-content/themes/a3c2010/style.css" />
+	<link rel="stylesheet" type="text/css" media="screen and (min-width: 800px) and (max-width: 1599px)" href="/wp-content/themes/a3c2010/2013-css/full.css" />
+	<link rel="stylesheet" media="screen and (max-device-width: 500px)" href="/wp-content/themes/a3c2010/2013-css/full.css" />
+	<link rel="stylesheet" media="screen and (min-width: 200px) and (max-width: 799px)" href="/wp-content/themes/a3c2010/2013-css/full.css" />
+	<link rel="stylesheet" media="screen and (min-width: 1600px)" href="/wp-content/themes/a3c2010/2013-css/full.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="/wp-content/themes/a3c2010/style-2014.css" />
+	<!--<link rel="stylesheet" href="http://www.a3cfestival.com/wp-content/themes/a3c2010/style.css" type="text/css" media="screen" />-->
+	
+	<!-- Fonts -->
+	<link href='http://fonts.googleapis.com/css?family=Gentium+Book+Basic|Open+Sans:400,700' rel='stylesheet' type='text/css'>
+
+	<!--RSS-->
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.a3cfestival.com/feed" />
+	<link rel="alternate" type="text/xml" title="RSS .92" href="http://www.a3cfestival.com/feed/rss" />
+	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.a3cfestival.com/feed/atom" />
+	<link rel="pingback" href="http://www.a3cfestival.com/xmlrpc.php" />
+
+	<!--Favicon-->
+	<!--<link rel="icon" type="image/png" href="/wp-content/themes/a3c2010/images/2013favicon.ico" />-->
+	<!--<link rel="shortcut icon" href="/wp-content/themes/a3c2010/images/2013favicon.ico" />-->
+  <link rel="icon" type="image/png" href="http://go.a3cfestival.com/hs-fs/hub/73154/file-464934058-png/A3C2014_favicon.png" />
+	<link rel="shortcut icon" href="http://go.a3cfestival.com/hs-fs/hub/73154/file-464934058-png/A3C2014_favicon.png" />
+
+	<!--JQuery-->
+		
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript"></script>
+		
+	<script type="text/javascript" src="http://www.a3cfestival.com/wp-content/themes/a3c2010/scripts/jquery.cycle.min.js"></script>
+	<script type="text/javascript" src="http://www.a3cfestival.com/wp-content/themes/a3c2010/js/jquery.mixitup.min.js"></script>
+	
+	<!--easySlider1.7-->
+	<script type="text/javascript" src="http://a3cfestival.com/wp-content/themes/a3c2010/js/easySlider1.7.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){	
+			$("#slider").easySlider({
+				auto: true, 
+				continuous: true,
+				numeric: true,
+				orientation: 'fade',
+				speed: 		500,
+				pause:	  10000
+			});
+			
+			//since we can't directly detect missing images from marcato api, we'll just remove them if there's errors
+			$("img").error(function () {
+			  $(this).unbind("error").hide();
+			});
+			   
+			//setup schedule filters
+			
+			// INSTANTIATE MIXITUP
+				
+			$('#schedule-grid').mixitup({
+				//effects: ['fade','blur'], // List of effects
+				effects: ['fade'], // List of effects 
+			});
+			
+			// HANDLE LAYOUT CHANGES
+			
+			/*
+			
+			// Bind layout buttons to toList and toGrid methods:
+			
+			$('#ToList').on('click',function(){
+				$('.button').removeClass('active');
+				$(this).addClass('active');
+				$('#Parks').mixitup('toList');
+			});
+
+			$('#ToGrid').on('click',function(){
+				$('.button').removeClass('active');
+				$(this).addClass('active');
+				$('#Parks').mixitup('toGrid');
+			});
+			
+			*/
+			
+			// HANDLE MULTI-DIMENSIONAL CHECKBOX FILTERING
+			
+			/* 	
+			*	The desired behaviour of multi-dimensional filtering can differ greatly 
+			*	from project to project. MixItUp's built in filter button handlers are best
+			*	suited to simple filter operations, so we will need to build our own handlers
+			*	for this demo to achieve the precise behaviour we need.
+			*/
+			
+			var $filters = $('#schedule-filters').find("li:not('.disabled')"),
+				dimensions = {
+					experience: 'all', // Create string for first dimension
+					day: 'all', // Create string for second dimension
+					campus: 'all' // Create string for second dimension
+				};
+				
+			// Bind checkbox click handlers:
+			
+			$filters.on('click',function(){
+				var $t = $(this),
+					dimension = $t.attr('data-dimension'),
+					filter = $t.attr('data-filter'),
+					filterString = dimensions[dimension];
+					
+				if(filter == 'all'){
+					// If "all"
+					if(!$t.hasClass('active')){
+						// if unchecked, check "all" and uncheck all other active filters
+						$t.addClass('active').siblings().removeClass('active');
+						// Replace entire string with "all"
+						filterString = 'all';	
+					} else {
+						//update: don't let people un-check All
+						// Uncheck
+						//$t.removeClass('active');
+						// Emtpy string
+						//filterString = '';
+					}
+				} else {
+					// Else, uncheck "all"
+					$t.siblings('[data-filter="all"]').removeClass('active');
+					// Remove "all" from string
+					filterString = filterString.replace('all','');
+					if(!$t.hasClass('active')){
+						// Check checkbox
+						$t.addClass('active');
+						// Append filter to string
+						filterString = filterString == '' ? filter : filterString+' '+filter;
+					} else {
+						// Uncheck
+						$t.removeClass('active');
+						// Remove filter and preceeding space from string with RegEx
+						var re = new RegExp('(\\s|^)'+filter);
+						filterString = filterString.replace(re,'');
+					};
+				};
+				
+				// Set demension with filterString
+				dimensions[dimension] = filterString;
+				
+				// We now have two strings containing the filter arguments for each dimension:	
+				//console.info('dimension 1: '+dimensions.experience);
+				//console.info('dimension 2: '+dimensions.day);
+				//console.info('dimension 3: '+dimensions.campus);
+				
+				/*
+				*	We then send these strings to MixItUp using the filter method. We can send as
+				*	many dimensions to MixitUp as we need using an array as the second argument
+				*	of the "filter" method. Each dimension must be a space seperated string.
+				*
+				*	In this case, MixItUp will show elements using OR logic within each dimension and
+				*	AND logic between dimensions. At least one dimension must pass for the element to show.
+				*/
+				
+				$('#schedule-grid').mixitup('filter',[dimensions.experience, dimensions.day, dimensions.campus])			
+			});
+			
+			var $window = $(window),
+		       $stickyEl = $('.side-filters'),
+		       elTop = $stickyEl.offset().top;
+		
+		   $window.scroll(function() {
+		        $stickyEl.toggleClass('sticky', $window.scrollTop() > (elTop-100));
+		    });
+			
+						
+			
+		});	
+	</script>
+
+	<!--Thumbnail Script-->
+	<link rel="image_src" href="http://www.a3cfestival.com/wp-content/themes/a3c2010/scripts/timthumb.php?src=/wp-content/uploads/" / >
+	
+	<!--Fancybox-->
+	<script type="text/javascript" src="http://www.a3cfestival.com/wp-content/themes/a3c2010/fancybox/jquery.fancybox-1.3.1.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://www.a3cfestival.com/wp-content/themes/a3c2010/fancybox/jquery.fancybox-1.3.1.css" media="screen" />
+
+	<!-- Smooth Scroll -->
+	<script type="text/javascript" src="http://www.hubspot.com/Portals/53/js/smooth.js"></script>
+	
+	<!--For WP-->
+	<link rel='stylesheet' id='ecf_styles-css'  href='http://www.a3cfestival.com/wp-content/themes/a3c2010/lib/enhanced-custom-fields/tpls/style.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='colorbox-theme1-css'  href='http://www.a3cfestival.com/wp-content/plugins/jquery-lightbox-for-native-galleries/colorbox/theme1/colorbox.css?ver=1.3.14' type='text/css' media='screen' />
+<link rel='stylesheet' id='flickr-gallery-css'  href='http://www.a3cfestival.com/wp-content/plugins/flickr-gallery/flickr-gallery.css?ver=1.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fg-jquery-ui-css'  href='http://www.a3cfestival.com/wp-content/plugins/flickr-gallery/tab-theme/jquery-ui-1.7.3.css?ver=1.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-flightbox-css'  href='http://www.a3cfestival.com/wp-content/plugins/flickr-gallery/flightbox/jquery.flightbox.css?ver=1.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='simplyInstagram-css'  href='http://www.a3cfestival.com/wp-content/plugins/simply-instagram/css/simply-instagram.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto-css'  href='http://www.a3cfestival.com/wp-content/plugins/simply-instagram/css/simply-instagram-prettyPhoto.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='hubspot-css'  href='http://www.a3cfestival.com/wp-content/plugins/wp-hubspot-plugin-master-april2014/css/hubspot.css?ver=3.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.a3cfestival.com/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.a3cfestival.com/wp-content/plugins/jquery-lightbox-for-native-galleries/colorbox/jquery.colorbox-min.js?ver=1.3.14'></script>
+<script type='text/javascript' src='http://www.a3cfestival.com/wp-content/plugins/flickr-gallery/flightbox/jquery.flightbox.js?ver=1.5.2'></script>
+<script type='text/javascript' src='http://www.a3cfestival.com/wp-content/plugins/simply-instagram/js/simply-instagram-jquery.prettyPhoto.js?ver=3.1.4'></script>
+<script type='text/javascript' src='http://maps.google.com/maps/api/js?sensor=false&#038;ver=3.5.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.a3cfestival.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.a3cfestival.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.5.1" />
+<script type="text/javascript" src="http://www.a3cfestival.com/wp-content/plugins/audio-player/assets/audio-player.js?ver=2.0.4.6"></script>
+<script type="text/javascript">AudioPlayer.setup("http://www.a3cfestival.com/wp-content/plugins/audio-player/assets/player.swf?ver=2.0.4.6", {width:"290",animation:"yes",encode:"yes",initialvolume:"60",remaining:"no",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"f8f8f8",text:"666666",leftbg:"eeeeee",lefticon:"666666",volslider:"666666",voltrack:"FFFFFF",rightbg:"cccccc",rightbghover:"999999",righticon:"666666",righticonhover:"ffffff",track:"FFFFFF",loader:"9FFFB8",border:"666666",tracker:"DDDDDD",skip:"666666",pagebg:"FFFFFF",transparentpagebg:"yes"});</script>
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<!-- BEGIN SimplyInstagram IE -->
+<!-- [if IE 9]>
+<style type="text/css">
+
+.comment-profile{
+	margin: 2px;
+	width: 45px;
+	float: left;
+}
+.comment-profile img{
+	vertical-align: top;
+}
+.comment-holder{
+	top: 0px;
+	width: 200px;
+	float: left !important;	
+}
+
+.comments-holder{
+	width: 210px;
+	float: left;
+}
+</style>
+<![endif]-->
+<!-- END SimplyInstagram IE -->
+
+<!-- jQuery Lightbox For Native Galleries v3.2.2 | http://www.viper007bond.com/wordpress-plugins/jquery-lightbox-for-native-galleries/ -->
+<script type="text/javascript">
+// <![CDATA[
+	jQuery(document).ready(function($){
+		$(".gallery").each(function(index, obj){
+			var galleryid = Math.floor(Math.random()*10000);
+			$(obj).find("a").colorbox({rel:galleryid, maxWidth:"95%", maxHeight:"95%"});
+		});
+		$("a.lightbox").colorbox({maxWidth:"95%", maxHeight:"95%"});
+	});
+// ]]>
+</script>
+	
+	<!--Social Buttons-->
+	<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+	<!-- GA -->
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-11270859-1']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	
+	</script>
+
+</head>	
+
+<body>
+	<!-- Social Code -->
+	<!-- Facebook -->
+	<div id="fb-root"></div> 
+	<script type="text/javascript">(function(d, s, id) {
+  	var js, fjs = d.getElementsByTagName(s)[0];
+  	if (d.getElementById(id)) return;
+  	js = d.createElement(s); js.id = id;
+  	js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=245977795449136";
+  	fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+	<!-- Google + -->
+	<script type="text/javascript"> 
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+	</script>
+	
+	<!-- <div id="header">
+			<div class="wrap">
+				<div class="head-logo">
+					<a href="/"><img src="/wp-content/themes/a3c2010/images/2013/2013-logo-header.png" height="55px"></a>
+						
+						<a href="http://www.heineken.com/us/‎" rel="bookmark" title="Heineken"><img class='vendor-image' src="http://www.a3cfestival.com/wp-content/themes/a3c2010/scripts/timthumb2.php?src=https://s3-us-west-2.amazonaws.com/marcato.west/vendors_files/web_photos/22996/original.jpg&w=60&h=60&zc=2&q=100"/></a><a href="http://www.revolt.tv/" rel="bookmark" title="Revolt TV"><img class='vendor-image' src="http://www.a3cfestival.com/wp-content/themes/a3c2010/scripts/timthumb2.php?src=https://s3-us-west-2.amazonaws.com/marcato.west/vendors_files/web_photos/23239/original.jpg&w=60&h=60&zc=2&q=100"/></a>					
+				</div>
+				
+				<div id="top-nav">
+					<ul>
+						<li class=""><a href="/history/">About</a></li>
+						<li><a href="/artists/">Artists</a></li>						
+						<li><a href="/attend/">Attend</a></li>
+						<li><a href="/sponsorship/">Partners</a></li>
+						<li><a href="/schedule/">Schedule</a></li>
+						<li><a href="http://www.indiemerch.com/a3c" target="_blank">Shop</a></li>						
+						<li><a href="/blog/">Blog</a></li>
+					</ul>
+				</div>
+			</div>
+	</div>	-->
+	
+	<section id="top" style="height:75px;">
+		<div class="inner-wrapper">
+			<div id="logo">
+				<a href="/"><img src="http://go.a3cfestival.com/hs-fs/hub/73154/file-462418849-png/images/A3C2014_Logo_top180px.png" height="46px" width="90px"></a>
+				<div class="font-size: 12px;">ATLANTA || OCT 8-12</div>
+			</div>
+			<div class="social-share" style="display:none;">
+				<div class="fb-like" data-href="http://www.a3cfestival.com" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+				<br>
+				<a href="https://twitter.com/a3c" class="twitter-follow-button" data-show-count="false">Follow @a3c</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			</div>
+			<div id="nav">
+				<ul style="margin-top: 17px;">
+					<li><span style="font-weight: bold;color:rgb(223, 107, 54)">EXPERIENCES</span></li>
+					<li><a style="font-weight: bold;" href="/attend/">ATTEND</a></li>
+					<li><a style="font-weight: bold;" href="/partners/">PARTNER</a></li>
+					<li><a style="font-weight: bold;" href="/blog/">NEWS</a></li>
+					<!--<li><a style="font-weight: bold;" href="/history/">ABOUT</a></li>-->
+				</ul>
+				<br>
+				<ul>
+					<li><a style="font-size: 14px;color:rgb(223, 107, 54)" href="/music/">MUSIC</a></li>
+					<li><a style="font-size: 14px;color:rgb(223, 107, 54)" href="/education/">EDUCATION</a></li>
+					<li><a style="font-size: 14px;color:rgb(223, 107, 54)" href="/pro-audio/">PRO-AUDIO</a></li>
+					<li><a style="font-size: 14px;color:rgb(223, 107, 54)" href="/film/">FILM</a></li>
+					<li><a style="font-size: 14px;color:rgb(223, 107, 54)" href="/style/">STYLE</a></li>
+					<li><a style="font-size: 14px;color:rgb(223, 107, 54)" href="/art/">ART</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>	
+<section class="">
+	<div class="inner-wrapper">
+			<div class="left">
+				<h2><strong>404: Page Not Found</strong></h2>
+				<p>Sorry, we can't find the page that you're looking for.</p>
+				<p>Feel free to search for something else, or check out some recent blog posts below.</p>
+			</div>
+			<div class="right">
+				<div class="search-top">
+					<form role="search" method="get" id="searchform" action="http://www.a3cfestival.com/">
+				    <div>
+				        <input type="text" value="" name="s" id="s" / style="margin-bottom:10px;margin-top:40px;background-color:#fff;color:#444;">
+				        <input type="submit" id="searchsubmit" value="Search for something else" class="search-button"/>
+				    </div>
+					</form>
+				</div>
+			</div>	
+	</div>
+</section>
+<section id="experiences" class="bg-orange">
+	<div class="inner-wrapper">
+		<div class="span12">
+			<h1>The A3C Experience</h1>
+			</div>
+			  <div class="span2"><a class="head-exp scroll" href="#music">Music</a></div>
+				<div class="span2"><a class="head-exp scroll" href="#film">Film</a></div>
+				<div class="span2"><a class="head-exp scroll" href="#edu">Education</a></div>
+				<div class="span2"><a class="head-exp scroll" href="#style">Style</a></div>
+				<div class="span2"><a class="head-exp scroll" href="#pro-audio">Pro-Audio</a></div>
+				<div class="span2"><a class="head-exp scroll" href="#art">Art</a></div>	
+		</div>
+</section>	
+		<section id="footer">
+			<div class="inner-wrapper">
+				<div class="span4">
+					<ul>
+						<li class="bold">A3C Festival</li>
+						<li><a href="/history">History</a></li>
+						<li><a href="/faq">FAQ</a></li>
+						<li><a href="/blog">Blog</a></li>
+						<li><a href="/2013-a3c-ambassadors">Ambassadors</a></li>
+						<li><a href="http://go.a3cfestival.com/join-the-a3c-team">Staff</a></li>
+						<li><a href="/attend">Travel & Lodging</a></li>
+						<li><a href="http://partners.a3cfestival.com/branding">Promo</a></li>
+					</ul>
+				</div>
+				<div class="span4">
+					<ul>
+						<li class="bold">Connect</li>
+						<li><a href="http://twitter.com/a3c">Twitter</a></li>
+						<li><a href="http://www.facebook.com/a3cfestival">Facebook</a></li>
+						<li><a href="http://www.youtube.com/user/A3CFest">YouTube</a></li>
+						<li><a href="http://instagram.com/a3cfestival">Instagram</a></li>
+						<li><a href="http://www.flickr.com/photos/a3c/">Flickr</a></li>
+						<li><a href="/#subscribe">Join Email List</a></li>
+					</ul>
+				</div>
+				<div class="span4">
+					<ul>
+						<li class="bold"></li>
+						<li><a href="http://www.sonicbids.com/find-gigs/a3c-2014/">Artist Submissions</a></li>
+						<li><a href="http://partners.a3cfestival.com/">Partnership Opportunities</a></li>
+						<li><a href="http://go.a3cfestival.com/join-the-a3c-team">Join The Team</a></li>
+						<li><a href="/attend">A3C Passes</a></li>
+						<li><a href="/privacy-policy">Privacy Policy</a></li>
+					</ul>
+				</div>
+			</div>
+		</section>
+		<!-- AddThis Smart Layers BEGIN -->
+		<!-- Go to http://www.addthis.com/get/smart-layers to customize -->
+		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=a3cfestival"></script>
+		<script type="text/javascript">
+		  addthis.layers({
+		    'theme' : 'transparent',
+		    'share' : {
+		      'position' : 'left',
+		      'numPreferredServices' : 6
+		    }, 
+		    'follow' : {
+		      'services' : [
+		        {'service': 'facebook', 'id': 'a3cfestival'},
+		        {'service': 'twitter', 'id': 'a3c'},
+		        {'service': 'youtube', 'id': 'A3CFest'},
+		        {'service': 'flickr', 'id': 'a3c'},
+		        {'service': 'instagram', 'id': 'a3cfestival'}
+		      ]
+		    }
+		  });
+		</script>
+		<!-- AddThis Smart Layers END -->
+		<!-- Fancybox -->
+		<script type="text/javascript">
+		$(document).ready(function() {
+
+			/* This is basic - uses default settings */
+			
+			$("a.single_image").fancybox();
+			
+			/* Using custom settings */
+			
+			$("a#inline").fancybox({
+				'hideOnContentClick': true
+			});
+
+			/* Apply fancybox to multiple items */
+			
+			$("a.group").fancybox({
+				'transitionIn'	:	'elastic',
+				'transitionOut'	:	'elastic',
+				'speedIn'		:	600, 
+				'speedOut'		:	200, 
+				'overlayShow'	:	false
+			});
+			
+			$("a.fancyvid").fancybox({
+				'type' : 'iframe',
+				'width' : 853,
+				'height' : 480
+				});
+		});
+		</script>
+		
+		<script type="text/javascript">
+			adroll_adv_id = "OKQ7IAQEGREZPEJCK5XVNR";
+			adroll_pix_id = "PDU52YVYQVB35NYCCAIHM6";
+			(function () {
+			var oldonload = window.onload;
+			window.onload = function(){
+			   __adroll_loaded=true;
+			   var scr = document.createElement("script");
+			   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+			   scr.setAttribute('async', 'true');
+			   scr.type = "text/javascript";
+			   scr.src = host + "/j/roundtrip.js";
+			   ((document.getElementsByTagName('head') || [null])[0] ||
+			    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+			   if(oldonload){oldonload()}};
+			}());
+			</script>
+			
+		
+<!-- Start of Async HubSpot Analytics Code for WordPress v1.9.0 -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "standard-page"]);
+(function(d,s,i,r) {
+  if (d.getElementById(i)){return;}
+  var n = d.createElement(s),e = document.getElementsByTagName(s)[0];
+  n.id=i;n.src = '//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/73154.js';
+  e.parentNode.insertBefore(n, e);
+})(document, "script", "hs-analytics", 300000);
+</script>
+<!-- End of Async HubSpot Analytics Code -->
+<script type='text/javascript' src='http://www.a3cfestival.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.a3cfestival.com/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.9.2'></script>
+<script type='text/javascript' src='http://www.a3cfestival.com/wp-includes/js/jquery/ui/jquery.ui.tabs.min.js?ver=1.9.2'></script>
+	</body>
+</html>	
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: www.a3cfestival.com @ 2014-10-07 13:34:30 by W3 Total Cache -->
