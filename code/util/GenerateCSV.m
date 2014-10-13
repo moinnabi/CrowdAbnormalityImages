@@ -4,8 +4,8 @@ function GenerateCSV(x,fname)
 
 fid=fopen(fname,'wt');
 [rows,cols]=size(x);
-for i=1:rows
-      fprintf(fid,'%s,',x{i,1:end-1});
-      fprintf(fid,'%s\n',x{i,end});
+for i=1:cols
+      fprintf(fid,'%s,',x{1:end-1,i});
+      fprintf(fid,'%s\n',x{end,i});
 end
 fclose(fid);
