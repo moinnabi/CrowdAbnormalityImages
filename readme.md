@@ -14,6 +14,8 @@ Code Description : <br />
 
 - startup.m : initialization (i.e : include folders, tools, libraries)
 
-How To Use : <br />
+TO annotate Images : <br />
 
-- First run 'startup.m'
+- First run 'startup.m'.
+
+- Then 'annotation'.
