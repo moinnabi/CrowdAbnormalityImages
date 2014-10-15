@@ -54,21 +54,28 @@ function annotation_OpeningFcn(hObject, eventdata, handles, varargin)
 % Create the data to plot.
 dataroot= 'data/';
 [ img ] = generate_image_list( dataroot );
-annotated = zeros(size(img,1),1);
-lables=zeros(size(img,1),10);
-an_table= table(img,annotated,lables);
+%annotated = zeros(size(img,1),1);
+%lables=zeros(size(img,1),10);
+%an_table= table(img,annotated,lables);
+
+lables=cell(size(img,1),11);
+an_table = cat(2,img,lables);
+
 handles.an_table=an_table;
 guidata(hObject,handles);
-%load('an_table');
 
-curent_index= find(an_table.annotated,1,'last')+1;
+%load('an_table');
+C= an_table(:,2);
+curent_index = find([C{:}], 1,'last')+1;
+%curent_index= find(an_table.annotated,1,'last')+1;
+
 if size(curent_index,1)<1
     curent_index = 1;
 end
 handles.curent_index=curent_index;
 an_table = handles.an_table;
 guidata(hObject,handles);
-g = imread(char(an_table.img(curent_index)));
+g = imread(char(an_table(curent_index,1)));
 axes(handles.axes1)
 imshow(g);
 
@@ -98,11 +105,11 @@ function btn_confirm_Callback(hObject, eventdata, handles)
 % hObject    handle to btn_confirm (see GCBO)
 % Set current data to the selected data set.
 an_table = handles.an_table;
-an_table.annotated(handles.curent_index)=1;
+an_table(handles.curent_index,2)={1};
 handles.an_table=an_table;
 curent_index = handles.curent_index+1;
 handles.curent_index = curent_index;
-g = imread(char(an_table.img(curent_index)));
+g = imread(char(an_table(curent_index,1)));
 axes(handles.axes1)
 imshow(g);
 set(handles.check_noisy,'Value',0);
@@ -139,7 +146,7 @@ str = get(hObject, 'String');
 val = get(hObject,'Value');
 an_table = handles.an_table;
 curent_index = handles.curent_index;
-an_table.lables(curent_index,1)=val;
+an_table(curent_index,3)={val};
 handles.an_table=an_table;
 % Hint: get(hObject,'Value') returns toggle state of check_noisy
 guidata(hObject,handles)
@@ -153,7 +160,7 @@ function check_abnormal_Callback(hObject, eventdata, handles)
 val = get(hObject,'Value');
 an_table = handles.an_table;
 curent_index = handles.curent_index;
-an_table.lables(curent_index,2)=val;
+an_table(curent_index,4)={val};
 handles.an_table=an_table;
 % Hint: get(hObject,'Value') returns toggle state of check_noisy
 guidata(hObject,handles)
@@ -168,7 +175,7 @@ function check_congestion_Callback(hObject, eventdata, handles)
 val = get(hObject,'Value');
 an_table = handles.an_table;
 curent_index = handles.curent_index;
-an_table.lables(curent_index,3)=val;
+an_table(curent_index,5)={val};
 handles.an_table=an_table;
 % Hint: get(hObject,'Value') returns toggle state of check_noisy
 guidata(hObject,handles)
@@ -183,7 +190,7 @@ function check_violence_Callback(hObject, eventdata, handles)
 val = get(hObject,'Value');
 an_table = handles.an_table;
 curent_index = handles.curent_index;
-an_table.lables(curent_index,4)=val;
+an_table(curent_index,6)={val};
 handles.an_table=an_table;
 % Hint: get(hObject,'Value') returns toggle state of check_noisy
 guidata(hObject,handles)
@@ -198,7 +205,7 @@ function check_Panic_Callback(hObject, eventdata, handles)
 val = get(hObject,'Value');
 an_table = handles.an_table;
 curent_index = handles.curent_index;
-an_table.lables(curent_index,5)=val;
+an_table(curent_index,7)={val};
 handles.an_table=an_table;
 % Hint: get(hObject,'Value') returns toggle state of check_noisy
 guidata(hObject,handles)
@@ -213,7 +220,7 @@ function check_Joy_Callback(hObject, eventdata, handles)
 val = get(hObject,'Value');
 an_table = handles.an_table;
 curent_index = handles.curent_index;
-an_table.lables(curent_index,6)=val;
+an_table(curent_index,8)={val};
 handles.an_table=an_table;
 % Hint: get(hObject,'Value') returns toggle state of check_noisy
 guidata(hObject,handles)
@@ -228,7 +235,7 @@ function check_Irregularity_Callback(hObject, eventdata, handles)
 val = get(hObject,'Value');
 an_table = handles.an_table;
 curent_index = handles.curent_index;
-an_table.lables(curent_index,7)=val;
+an_table(curent_index,9)={val};
 handles.an_table=an_table;
 % Hint: get(hObject,'Value') returns toggle state of check_noisy
 guidata(hObject,handles)
@@ -243,7 +250,7 @@ function check_object_Callback(hObject, eventdata, handles)
 val = get(hObject,'Value');
 an_table = handles.an_table;
 curent_index = handles.curent_index;
-an_table.lables(curent_index,8)=val;
+an_table(curent_index,10)={val};
 handles.an_table=an_table;
 % Hint: get(hObject,'Value') returns toggle state of check_noisy
 guidata(hObject,handles)
@@ -258,7 +265,7 @@ function check_Social_Callback(hObject, eventdata, handles)
 val = get(hObject,'Value');
 an_table = handles.an_table;
 curent_index = handles.curent_index;
-an_table.lables(curent_index,9)=val;
+an_table(curent_index,11)={val};
 handles.an_table=an_table;
 % Hint: get(hObject,'Value') returns toggle state of check_noisy
 guidata(hObject,handles)
@@ -273,7 +280,7 @@ function check_Indoor_Callback(hObject, eventdata, handles)
 val = get(hObject,'Value');
 an_table = handles.an_table;
 curent_index = handles.curent_index;
-an_table.lables(curent_index,10)=val;
+an_table(curent_index,12)={val};
 handles.an_table=an_table;
 % Hint: get(hObject,'Value') returns toggle state of check_noisy
 guidata(hObject,handles)
@@ -288,14 +295,14 @@ function btn_load_Callback(hObject, eventdata, handles)
 % handles    structure with handles and user data (see GUIDATA)
 
 load('an_table');
-
-curent_index= find(an_table.annotated,1,'last')+1;
+C= an_table(:,2);
+curent_index = find([C{:}], 1,'last')+1;
 if size(curent_index,1)<1
     curent_index = 1;
 end
 handles.curent_index=curent_index;
-an_table = handles.an_table;
-g = imread(char(an_table.img(curent_index)));
+handles.an_table = an_table;
+g = imread(char(an_table(curent_index,1)));
 axes(handles.axes1)
 imshow(g);
 guidata(hObject,handles);
