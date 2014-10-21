@@ -1,0 +1,378 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="The definitive resource for jambands (jam bands) and their fans, established in 1998. Daily news, features, set lists, reviews, charts, columns, audio, video, merchandise and more. Affiliated with the Relix Media Group LLC." />
+<meta name="keywords" content="jambands, live music shows, phish, grateful dead, widespread panic, moe., furthur, ratdog, phil lesh, dave matthews band, disco biscuits, umphrey's mcgee, jerry garcia, trey anastasio, yonder mountain string band, improvisation" />
+<title>Jambands.com - Need We Say More?</title>
+<link href="/favicon.ico" rel="icon" type="image/vnd.microsoft.icon" />
+<link href="/site/css/main.css?2" rel="stylesheet" type="text/css" media="all"/>
+
+<!--[if IE 7]><link href="/site/css/ie7.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+<!--<script type="text/javascript" src="/site/js/jquery-1.2.6.min.js"></script>-->
+<!--<script type="text/javascript" src="/site/js/jqModal.js"></script>-->
+<script type="text/javascript" src="/site/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		// these two sections (reviews, most) can be refactored into one later
+		var reviews = ['cds','dvds','shows','books'];
+		$('a.reviews-link').click( function(){
+			for( i in reviews ){
+				s=reviews[i];
+				$('#'+s).hide();		
+				$('#'+s+'-tab').removeClass('selected');
+			}
+			$('#'+this.id.replace('-link', '')).show();
+			$('#'+this.id.replace('-link', '-tab')).addClass('selected');
+		});
+		var most = ['views','comments'];
+		$('a.most-link').click( function(){
+			for( i in most ){
+				s=most[i];
+				$('#'+s).hide();
+				$('#'+s+'-tab').removeClass('selected');
+			}
+			$('#'+this.id.replace('-link', '')).show();
+			$('#'+this.id.replace('-link', '-tab')).addClass('selected');
+		});
+		//player pop out
+		$('a#jbplayer').click(function (e) {
+				e.preventDefault();
+				var newwindow=window.open($(this).attr('href'),'name','height=450,width=550, location=0');
+				if (window.focus) {newwindow.focus()}
+		});
+		// modal window stuff
+		//$('#relixModal').jqm({ajax: '/site/modal/relix-issue.html', modal: true});
+	});
+
+	// functions to show a modal window
+
+		//function showTellModal() {
+		//	$('#tellModal').jqmShow();
+		//}
+		//function showLoginModal() {
+		//	$('#loginModal').jqmShow();
+		//}
+
+</script>
+<!--[if IE]>
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+
+<!-- PUT THIS TAG IN THE head SECTION -->
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-0540116164650117");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+    GA_googleAddSlot("ca-pub-0540116164650117", "Jambands_120x600");
+    GA_googleAddSlot("ca-pub-0540116164650117", "Jambands_468x60");
+    GA_googleAddSlot("ca-pub-0540116164650117", "Jambands_728x90");
+    GA_googleAddSlot("ca-pub-0540116164650117", "Jambands_125x125");
+    GA_googleAddSlot("ca-pub-0540116164650117", "Jambands_125x125_slottwo");
+    GA_googleAddSlot("ca-pub-0540116164650117", "Jambands_125x125_ROS_three");
+	GA_googleAddSlot("ca-pub-0540116164650117", "Jambands_300x250");
+	GA_googleAddSlot("ca-pub-0540116164650117", "Jambands_120x240_ROS");
+	GA_googleAddSlot("ca-pub-0540116164650117", "Jambands_120x240_two");
+</script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
+<!-- END OF TAG FOR head SECTION -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-30295622-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- END GA -->
+
+</head>
+
+<body>
+
+<div id="site-container">
+
+    <div id="header">
+    
+        <div class="topnav-container">
+           <div style="background-color: #4A4A4A;"><a href="/site/player" id="jbplayer"><img src="/site/images/nav/player.png" alt="Open Jambands Jukebox" /></a></div>
+            <div id="topnav">
+        
+                <div id="left">
+        
+                    <ul class="extra-nav">
+                        <li class="highlight"><a href="http://www.relix.com" title="Relix">Relix</a></li>
+                        <li><a href="http://magimpulse.com/relix_back_issues" title="Merchandise">Merch</a></li>
+                        <li><a href="http://www.relix.com/contests" title="Contests">Contests</a></li>
+                        <li><a href="http://www.relix.com/index.php?option=com_content&task=blogcategory&id=30&Itemid=80" title="Podcasts">Podcasts</a></li>
+                        <li><a href="https://relix.magcs.com/subscribe" title="Subscribe to Relix">Subscribe to Relix</a></li> 
+                    </ul>                   
+                </div>
+                
+                <!-- Newsletter, Login, Sign-up buttons -->	    
+                <div id="right">       
+                      <ul>
+                          <!--<li><a title="Open the player" href="/site/player" id="jbplayer">Player</a></li>-->
+                          <li><a href="/newsletter/" title="sign-up for our newsletter">Newsletter</a></li>
+                          <li><a href="http://twitter.com/relixmag" target="_blank" title="Follow us on Twitter">Twitter</a></li>
+                          <li><a href="http://www.facebook.com/RelixMagazine" target="_blank" title="Find Us on Facebook">Facebook</a></li>
+                      </ul>  	    
+                </div>    
+            </div>    
+        </div>                    
+        
+        <!-- Logo -->	
+        <div class="logo-ad-container">
+            <h1><a href="/" title="Jambands.com Home">Jambands.com - Need We Say More?</a></h1>
+            <div id="advertising">
+                <script type="text/javascript">
+                  GA_googleFillSlot("Jambands_728x90");
+                </script>
+            </div>
+        </div>  
+        
+        <div id="nav-search">
+            
+            <ul class="nav">		
+                <li><a href="/" title="Home">Home</a></li>
+                <li><a href="/news/" title="News">News</a></li>
+                <li><a href="/features/" title="Features">Features</a></li>
+                <li><a href="/reviews/" title="Reviews">Reviews</a></li>
+                <li><a href="/columns/" title="Columns">Columns</a></li>
+                <li><a href="/polls/" title="Polls">Polls</a></li>
+                <li><a href="/box-scores/" title="Box Scores">Box Scores</a></li>
+                <li><a href="/radio-charts/" title="Radio Charts">Radio Charts</a></li>
+				<li><a href="/the-loop/" class="feeds" title="The Loop">Blog</a></li>
+                <li><a href="/rss/" class="feeds" title="RSS">RSS</a></li>
+            </ul> 
+            
+            <div class="search">
+    
+                <form action="/search/" method="post">
+					<input type="hidden" name="action" value="search" />                
+                    <div class="text">                    	
+	                    <input type="text" name="text" value="" id="inputsearch" onfocus="document.getElementById('inputsearch').value = '';" />
+                    </div>
+                    <div class="btn"><input type="image" src="/site/images/buttons/submit29x23.gif" name="submit" /></div>
+                </form>
+                    
+            </div>
+        </div>                  
+        
+    </div>
+
+	<!-- Start content wrapper -->
+    
+    <div id="content-container">
+    
+			<div class="ad-column-125">
+				<img src="/images/2014/10/14/52818/Relix_Oct_Nov_2014_Ryan_Adams_B-125x157-crop.jpg" width="125" height="157" alt="" />                <p class="yellow"><a href="/relix/issues/2014/10/14/october-november" title="Relix Issue Details">Current Issue Details</a></p>
+				<p class="buycurrent"><a href="http://magimpulse.com/relix" title="Buy Current Issue">Buy Current Issue</a></p>
+                <!-- NOTE: We're going to need several separate 125x125 ads here -->
+                <div class="ad125">
+                        <script type="text/javascript">
+                          GA_googleFillSlot("Jambands_125x125");
+                        </script>
+                </div>
+                <div class="ad125">
+                        <script type="text/javascript">
+                          GA_googleFillSlot("Jambands_125x125_slottwo");
+                        </script>
+                </div>
+                <div class="ad125">
+                        <script type="text/javascript">
+                          GA_googleFillSlot("Jambands_125x125_ROS_three");
+                        </script>
+                </div>
+                <div class="ad125">
+					<script type="text/javascript">
+						GA_googleFillSlot("Jambands_120x240_ROS");
+					</script>
+				</div>
+                <div class="ad125">
+					<script type="text/javascript">
+						GA_googleFillSlot("Jambands_120x240_two");
+					</script>
+				</div>
+            </div>   
+            
+            <!-- Start main content column -->        
+            
+           	<div id="main-column-715"> 
+		                <div id="sub" class="content">
+
+        
+        <div class="inner-left">  
+        
+            <div class="heading">
+				                <h2 class="not-found">404 - Page Not Found</h2>
+												
+
+            </div>   
+            
+            <div class="post">                                             
+
+			           		<p>Oops. The page you're looking for likely still exists, just not here. Why not use the search form above and you'll be back on track.</p>
+						
+						<!--
+			  			
+			  <h1>An error occurred</h1>
+			  <h2></h2>
+			
+			  <h3>Exception information:</h3>
+			  <p>
+				  <b>Message:</b> This page dont exist			  </p>
+			
+			  <h3>Stack trace:</h3>
+			  <pre>#0 /var/sites/production.jambands.com/application/controllers/ContentController.php(24): ContentController->checkForLegacyContent()
+#1 /etc/zf/library/Zend/Controller/Action.php(512): ContentController->showAction()
+#2 /etc/zf/library/Zend/Controller/Dispatcher/Standard.php(288): Zend_Controller_Action->dispatch('showAction')
+#3 /etc/zf/library/Zend/Controller/Front.php(945): Zend_Controller_Dispatcher_Standard->dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#4 /etc/zf/library/Zend/Application/Bootstrap/Bootstrap.php(77): Zend_Controller_Front->dispatch()
+#5 /etc/zf/library/Zend/Application.php(328): Zend_Application_Bootstrap_Bootstrap->run()
+#6 /var/sites/production.jambands.com/public/index.php(102): Zend_Application->run()
+#7 {main}			  </pre>
+			
+			  <h3>Request Parameters:</h3>
+			  <pre>array(8) {
+  ["section"]=>
+  string(6) "images"
+  ["subsection"]=>
+  string(4) "2011"
+  ["year"]=>
+  string(2) "07"
+  ["month"]=>
+  string(2) "25"
+  ["day"]=>
+  string(5) "29717"
+  ["slug"]=>
+  string(40) "IMG_6517-harmony%202011%20small-353x.jpg"
+  ["controller"]=>
+  string(7) "content"
+  ["action"]=>
+  string(4) "show"
+}
+			  </pre>
+			  				                                                                                                   
+			     -->
+        	</div>
+        
+        </div>         
+        
+        <div class="inner-right">
+
+            <!-- 300x250 advert -->
+
+            <div class="advert300">
+
+                                <script type="text/javascript">
+                 GA_googleFillSlot("Jambands_300x250");
+                </script>
+
+            </div>        
+
+            <!-- Start news module -->
+            <div class="module">
+			                <div class="heading">
+                    <h2 class="news">Latest News</h2>
+                    <span class="archive"><a href="/news/">Archive</a></span> 
+                </div>
+                                        
+                <ul class="headlines">
+						<li><a href="/news/2014/10/20/st-paul-and-the-broken-bones-set-2015-tour-dates">St. Paul and the Broken Bones Set 2015 Tour Dates</a></li>
+						<li><a href="/news/2014/10/20/pond-announce-new-album-details">Pond Announce New Album Details</a></li>
+						<li><a href="/news/2014/10/20/grateful-dead-wilco-leftover-salmon-and-hozier-added-to-record-store-day">Grateful Dead, Wilco, Leftover Salmon and Hozier Added to Record Store Day</a></li>
+						<li><a href="/news/2014/10/20/primus-offering-up-free-tickets-for-life-through-golden-ticket-contest">Primus Offering Up Free Tickets for Life Through Golden Ticket Contest</a></li>
+						<li><a href="/news/2014/10/20/guster-confirm-2015-tour-dates">Guster Confirm 2015 Tour Dates</a></li>
+						<li><a href="/news/2014/10/20/umphrey-s-mcgee-to-stream-twelve-shows-on-upcoming-tour">Umphrey&#8217;s McGee to Stream Twelve Shows on Upcoming Tour</a></li>
+						<li><a href="/news/2014/10/20/electron-honor-the-beatles-radiohead-on-fall-tour">Electron Honor The Beatles, Radiohead on Fall Tour</a></li>
+						<li><a href="/news/2014/10/20/basslights-2014-pretty-lights-bassnectar-chromeo-beats-antique-and-more">Basslights 2014: Pretty Lights, Bassnectar, Chromeo, Beats Antique and More</a></li>
+				                </ul>                                                                                             
+            </div>               
+        
+            <!-- Start Most Popular module -->
+            <div class="module">
+							<div class="heading">
+					<h2 class="most-popular">Most Popular</h2>
+				</div>
+				
+				<ul class="tabnav">
+					<li class="selected" id="views-tab"><a class="most-link" id="views-link">Most Read</a></li>
+					<li id="comments-tab"><a class="most-link" id="comments-link">Most Commented</a></li>
+				</ul>                             
+				
+				<ol class="headlines" id="views">
+								<li><a href="/the-loop/2014/10/15/revisiting-the-jambands-com-charts-october-2004-keller-williams-stockholm-syndrome-leftover-salmon">Revisiting The Jambands.com Charts (October 2004: Keller Williams, Stockholm Syndrome, Leftover Salmon&#8230;)</a></li>
+								<li><a href="/news/2014/10/12/david-crosby-neil-young-is-very-angry-with-me">David Crosby: Neil Young is &quot;very angry with me&quot;</a></li>
+								<li><a href="/news/2014/10/09/pink-floyd-premiere-new-song-louder-than-words">Pink Floyd Premiere New Song &quot;Louder Than Words&quot;</a></li>
+								<li><a href="/news/2014/10/10/ben-harper-and-the-innocent-criminals-set-to-reunite">Ben Harper and the Innocent Criminals Set to Reunite</a></li>
+								<li><a href="/news/2014/10/14/bob-weir-phil-lesh-to-sing-national-anthem-at-san-francisco-giants-playoff-game">Bob Weir, Phil Lesh to Sing National Anthem at San Francisco Giants Playoff Game</a></li>
+								<li><a href="/news/2014/10/10/the-who-hits-50-tour-comes-to-north-america-in-2015">The Who Hits 50! Tour Comes to North America in 2015</a></li>
+								<li><a href="/news/2014/10/10/john-bell-says-widespread-panic-plucking-away-at-new-studio-material">John Bell Says Widespread Panic &quot;Plucking Away&quot; At New Studio Material</a></li>
+								<li><a href="/news/2014/10/14/stream-primus-and-the-chocolate-factory-now">Stream Primus and the Chocolate Factory Now</a></li>
+								</ol>                             
+	
+				<ol class="headlines" id="comments" style="display: none;">
+								<li><a href="/news/2010/09/29/another-widespread-panic-hiatus">Another Widespread Panic Hiatus?</a></li>
+								<li><a href="/news/2014/08/10/bob-weir-ratdog-cancel-remaining-tour-dates">Bob Weir &amp; RatDog Cancel Remaining Tour Dates</a></li>
+								<li><a href="/news/2010/12/02/kreutzmann-takes-a-stab-at-furthur">Kreutzmann Takes a Stab at Furthur</a></li>
+								<li><a href="/news/2012/03/31/gregg-allman-talks-dickey-betts-feud-duane-allman-s-death-and-drug-addictions-in-new-memoir">Gregg Allman Talks Dickey Betts Feud, Duane Allman&#8217;s Death and Drug Addictions in New Memoir</a></li>
+								<li><a href="/news/2013/03/05/bob-weir-walks-off-stage-at-sweetwater">Bob Weir Walks Off Stage at Sweetwater</a></li>
+								<li><a href="/news/2012/09/13/warrant-issued-for-mickey-hart-s-arrest">Warrant Issued for Mickey Hart&#8217;s Arrest</a></li>
+								<li><a href="/news/2014/01/30/bob-weir-wants-to-bury-the-hatchet-for-the-grateful-dead-s-50th-anniversary-reveals-details-on-other-projects">Bob Weir Wants to Bury the Hatchet for The Grateful Dead&#8217;s 50th Anniversary, Reveals Details on Other Projects</a></li>
+								<li><a href="/news/2014/09/15/yusuf-cat-stevens-announces-tour-dates-new-album">Yusuf/Cat Stevens Announces Tour Dates, New Album</a></li>
+								</ol>            <!-- End Most Polular module -->  
+            </div>                                                     
+        <!-- End column -->     
+        </div>                                                                 
+    
+
+</div>                                          
+
+<!-- End content column -->			
+            </div>           
+            
+            <!-- End main content column -->
+            
+            <div class="ad-column-120">                
+                <div class="ad-container">
+					<script type="text/javascript">
+                      GA_googleFillSlot("Jambands_120x600");
+                    </script>
+                </div>
+        
+            </div>       
+        
+    <!-- End content wrapper -->
+    </div>
+
+    <div id="footer">
+
+        <ul>
+            <li class="copyright">&copy;2014 - Relix Media Group, LLC</li>
+            <li><a href="/about-us/" title="About Us">About Us</a></li>
+            <li><a href="/contact-us/" title="Contact Us">Contact Us</a></li>
+            <li><a href="/advertise/" title="Advertise">Advertise</a></li>
+            <li><a href="/monthly-contributors/" title="Monthly Contributors">Monthly Contributors</a></li>
+            <li class="relix"><a href="http://www.relix.com" title="Visit Relix.com">Relix.com</a></li>
+        </ul>
+
+    </div> 
+
+</div>
+
+</body>
+
+</html>

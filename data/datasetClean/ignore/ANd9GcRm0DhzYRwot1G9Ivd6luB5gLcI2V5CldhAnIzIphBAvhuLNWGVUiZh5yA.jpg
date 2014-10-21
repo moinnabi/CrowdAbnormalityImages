@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html version="-//W3C//DTD XHTML 1.1//EN" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Page not found</title>
+<style type="text/css">
+<!--
+body {
+	font-family:Arial, Verdana, sans-serif;
+	font-size:1em;
+	line-height:1.25;
+	color: #101010;
+	padding:25px 40px;
+	word-spacing: 0.1em;
+	border-top:4px solid #101010;
+	margin:0;
+}
+#container{
+	width:550px;
+}
+
+h1{
+	font-family:Akkurat-Bold, "Helvetica Neue", Arial;
+	font-size:2.1875em;
+	line-height:1;
+	word-spacing: 0;
+}
+
+p{
+	margin-bottom:2em;
+}
+
+a{
+	color: #6e6e6e;
+}
+a:hover{
+	color: #101010;
+}
+
+hr{
+	background: #6e6e6e;
+	color: #6e6e6e;
+	height:1px;
+	border:none;
+	padding:0;
+	margin:3em 0;
+	clear:both;
+}
+
+p.infotext{
+	color: #6e6e6e;
+}
+
+strong{
+	color: #101010;
+}
+-->
+</style>
+</head>
+<body>
+	<div id="container">
+		<h1>Page not found</h1>
+		<p><strong>Unfortunately, this page cannot be found.</strong></p>
+		<hr/>
+		<p>Alternately it may have been removed, renamed, or be temporarily unavailable.</p>
+
+		<p class="infotext">Please try again and check that you have the correct address. </p>
+
+		<p><strong>Sorry for the inconvenience.</strong></p>
+		<hr/>
+    <p id="footer" class="infotext">
+      If you are certain you have the correct address
+      then please email it to <a href="mailto:help@withassociates.com?subject=Error on with-003.vm.bytemark.co.uk">help@withassociates.com</a>
+      mentioning the server name <strong>with-003.vm.bytemark.co.uk</strong>, and we will investigate the problem.
+    </p>
+  </div>
+	</body>
+</html>

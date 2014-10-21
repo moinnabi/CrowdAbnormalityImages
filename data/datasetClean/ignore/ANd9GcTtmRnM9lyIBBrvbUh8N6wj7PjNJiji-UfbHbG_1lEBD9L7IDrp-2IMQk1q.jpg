@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:i18n="http://apache.org/cocoon/i18n/2.1" xmlns:ex="http://apache.org/cocoon/exception/1.0">
+<head>
+<title>Resource not found</title>
+<style>
+          h1 { font-size: 200%; color: #336699; text-align: left; margin: 0px 0px 10px 0px; padding: 0px 0px 0px 60px; border-width: 0px 0px 1px 0px; border-style: solid; border-color: #336699;}
+          p.home { padding: 10px 30px 10px 15px; margin-left: 15px; font-size: 100%;}
+          p.message { padding: 10px 30px 10px 15px; margin-left: 15px; font-weight: bold; font-size: 100%;  border-left: 1px #336699 dashed;}
+          p.description { padding: 10px 30px 20px 30px; border-width: 0px 0px 1px 0px; border-style: solid; border-color: #336699;}
+          p.topped { padding-top: 10px; border-width: 1px 0px 0px 0px; border-style: solid; border-color: #336699; }
+          span.switch { cursor: pointer; margin-left: 5px; text-decoration: underline; }
+          span.description { color: #336699; font-weight: bold; }
+          
+          .row-1 { background-color: #F0F0F0;}
+          table { border-collapse: collapse; margin-top: 0.3em; }
+          td { padding: 0.1em; }
+        </style>
+<script type="text/javascript">
+          function toggle(id) {
+            var element = document.getElementById(id);
+            with (element.style) {
+              if ( display == "none" ) {
+                display = ""
+              } else {
+                display = "none"
+              }
+            }
+          
+            var text = document.getElementById(id + "-switch").firstChild;
+            if (text.nodeValue == "[show]") {
+              text.nodeValue = "[hide]";
+            } else {
+              text.nodeValue = "[show]";
+            }
+          }
+        </script>
+</head>
+<body onload="toggle('locations');toggle('stacktrace');">
+<h1>Resource not found</h1>
+<p class="home">
+<a href="">Go to UCIspace home</a>
+</p>
+<p class="message">org.apache.cocoon.ResourceNotFoundException:
+          Unable to locate bitstream<br />
+<span style="font-weight: normal">
+<em>&lt;map:read type="BitstreamReader"&gt;</em> - context:/jndi:/localhost/sitemap.xmap - 270:70</span>
+</p>
+<p>
+<span class="description">Cocoon stacktrace</span>
+<span onclick="toggle('locations')" id="locations-switch" class="switch">[hide]</span>
+</p>
+<div id="locations">
+<strong>Unable to locate bitstream</strong>
+<table>
+<tr class="row-1">
+<td>context:/jndi:/localhost/sitemap.xmap - 270:70</td>
+<td>
+<em>&lt;map:read type="BitstreamReader"&gt;</em>
+</td>
+</tr>
+<tr class="row-0">
+<td>context:/jndi:/localhost/sitemap.xmap - 261:60</td>
+<td>
+<em>&lt;map:select type="browser"&gt;</em>
+</td>
+</tr>
+<tr class="row-1">
+<td>context:/jndi:/localhost/sitemap.xmap - 240:70</td>
+<td>
+<em>&lt;map:match&gt;</em>
+</td>
+</tr>
+</table>
+<br />
+</div>
+<p class="stacktrace">
+<span class="description">Java stacktrace</span>
+<span onclick="toggle('stacktrace')" id="stacktrace-switch" class="switch">[hide]</span>
+<pre id="stacktrace">org.apache.cocoon.ResourceNotFoundException: Unable to locate bitstream
+	at &lt;map:read type="BitstreamReader"&gt; - jndi:/localhost/sitemap.xmap:270:70
+	at &lt;map:select type="browser"&gt; - jndi:/localhost/sitemap.xmap:261:60
+	at &lt;map:match&gt; - jndi:/localhost/sitemap.xmap:240:70
+	at org.dspace.app.xmlui.cocoon.BitstreamReader.setup(BitstreamReader.java:264)
+	at sun.reflect.GeneratedMethodAccessor68.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:622)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy48.setup(Unknown Source)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.setupReader(AbstractProcessingPipeline.java:560)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.preparePipeline(AbstractProcessingPipeline.java:464)
+	at org.apache.cocoon.components.pipeline.AbstractProcessingPipeline.process(AbstractProcessingPipeline.java:411)
+	at sun.reflect.GeneratedMethodAccessor128.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:622)
+	at org.apache.cocoon.core.container.spring.avalon.PoolableProxyHandler.invoke(PoolableProxyHandler.java:71)
+	at com.sun.proxy.$Proxy47.process(Unknown Source)
+	at org.apache.cocoon.components.treeprocessor.sitemap.ReadNode.invoke(ReadNode.java:94)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.SelectNode.invoke(SelectNode.java:87)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:55)
+	at org.apache.cocoon.components.treeprocessor.sitemap.MatchNode.invoke(MatchNode.java:87)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.PipelineNode.invoke(PipelineNode.java:143)
+	at org.apache.cocoon.components.treeprocessor.AbstractParentProcessingNode.invokeNodes(AbstractParentProcessingNode.java:78)
+	at org.apache.cocoon.components.treeprocessor.sitemap.PipelinesNode.invoke(PipelinesNode.java:81)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.process(ConcreteTreeProcessor.java:239)
+	at org.apache.cocoon.components.treeprocessor.ConcreteTreeProcessor.process(ConcreteTreeProcessor.java:171)
+	at org.apache.cocoon.components.treeprocessor.TreeProcessor.process(TreeProcessor.java:247)
+	at org.apache.cocoon.servlet.RequestProcessor.process(RequestProcessor.java:351)
+	at org.apache.cocoon.servlet.RequestProcessor.service(RequestProcessor.java:169)
+	at org.apache.cocoon.sitemap.SitemapServlet.service(SitemapServlet.java:84)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.cocoon.servletservice.ServletServiceContext$PathDispatcher.forward(ServletServiceContext.java:468)
+	at org.apache.cocoon.servletservice.ServletServiceContext$PathDispatcher.forward(ServletServiceContext.java:443)
+	at org.apache.cocoon.servletservice.spring.ServletFactoryBean$ServiceInterceptor.invoke(ServletFactoryBean.java:264)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202)
+	at com.sun.proxy.$Proxy22.service(Unknown Source)
+	at org.apache.cocoon.servletservice.DispatcherServlet.service(DispatcherServlet.java:106)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.app.xmlui.cocoon.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.app.xmlui.cocoon.DSpaceCocoonServletFilter.doFilter(DSpaceCocoonServletFilter.java:269)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.cocoon.servlet.multipart.MultipartFilter.doFilter(MultipartFilter.java:131)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.dspace.utils.servlet.DSpaceWebappServletFilter.doFilter(DSpaceWebappServletFilter.java:78)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at com.zlatkovic.servlet.RedirectFilter.doFilter(RedirectFilter.java:199)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:298)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:857)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:588)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:489)
+	at java.lang.Thread.run(Thread.java:701)
+</pre>
+</p>
+<p class="topped">
+          The <a href="http://di.tamu.edu/projects/xmlui/">Manakin</a> / <a href="http://dspace.org/">DSpace</a> digital repository software.
+        </p>
+</body>
+</html>

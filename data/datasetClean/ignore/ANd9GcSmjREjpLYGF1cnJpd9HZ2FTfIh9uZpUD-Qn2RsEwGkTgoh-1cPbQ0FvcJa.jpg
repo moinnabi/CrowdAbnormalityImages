@@ -1,0 +1,425 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:schema="http://schema.org/"   xmlns:fb="http://www.facebook.com/2008/fbml">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta about="/access-denied" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<link rel="shortcut icon" href="http://www.mei.edu/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+<meta content="Access Denied" about="/access-denied" property="dc:title" />
+<meta property="og:image" content="http://www.mei.edu/sites/default/themes/mei/logo.png" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/access-denied" />
+<link rel="shortlink" href="/node/13710" />
+<meta property="og:type" content="website" />
+  <title>Access Denied | Middle East Institute</title>
+  <style type="text/css" media="all">@import url("http://www.mei.edu/modules/system/system.base.css?ndr00e");
+@import url("http://www.mei.edu/modules/system/system.menus.css?ndr00e");
+@import url("http://www.mei.edu/modules/system/system.messages.css?ndr00e");
+@import url("http://www.mei.edu/modules/system/system.theme.css?ndr00e");</style>
+<style type="text/css" media="screen">@import url("http://www.mei.edu/sites/all/libraries/shadowbox/shadowbox.css?ndr00e");</style>
+<style type="text/css" media="print">
+<!--/*--><![CDATA[/*><!--*/
+#sb-container{position:relative;}#sb-overlay{display:none;}#sb-wrapper{position:relative;top:0;left:0;}#sb-loading{display:none;}
+
+/*]]>*/-->
+</style>
+<style type="text/css" media="all">@import url("http://www.mei.edu/modules/comment/comment.css?ndr00e");
+@import url("http://www.mei.edu/sites/all/modules/contrib/date/date_api/date.css?ndr00e");
+@import url("http://www.mei.edu/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?ndr00e");
+@import url("http://www.mei.edu/modules/field/theme/field.css?ndr00e");
+@import url("http://www.mei.edu/modules/node/node.css?ndr00e");
+@import url("http://www.mei.edu/modules/search/search.css?ndr00e");
+@import url("http://www.mei.edu/modules/user/user.css?ndr00e");
+@import url("http://www.mei.edu/sites/all/modules/contrib/views/css/views.css?ndr00e");</style>
+<style type="text/css" media="all">@import url("http://www.mei.edu/sites/all/modules/contrib/ctools/css/ctools.css?ndr00e");
+@import url("http://www.mei.edu/sites/all/libraries/superfish/css/superfish.css?ndr00e");
+@import url("http://www.mei.edu/sites/all/libraries/superfish/css/superfish-vertical.css?ndr00e");
+@import url("http://www.mei.edu/sites/all/libraries/superfish/css/superfish-navbar.css?ndr00e");
+@import url("http://www.mei.edu/sites/all/modules/contrib/views_slideshow/views_slideshow.css?ndr00e");
+@import url("http://www.mei.edu/sites/default/modules/mei_common/mei_common_shadowbox.css?ndr00e");
+@import url("http://www.mei.edu/sites/default/modules/mei_common/mei_common_block_more.css?ndr00e");</style>
+<style type="text/css" media="all">@import url("http://www.mei.edu/sites/all/themes/contrib/omega/alpha/css/alpha-reset.css?ndr00e");
+@import url("http://www.mei.edu/sites/all/themes/contrib/omega/alpha/css/alpha-mobile.css?ndr00e");
+@import url("http://www.mei.edu/sites/all/themes/contrib/omega/alpha/css/alpha-alpha.css?ndr00e");
+@import url("http://www.mei.edu/sites/all/themes/contrib/omega/omega/css/formalize.css?ndr00e");
+@import url("http://www.mei.edu/sites/all/themes/contrib/omega/omega/css/omega-text.css?ndr00e");
+@import url("http://www.mei.edu/sites/all/themes/contrib/omega/omega/css/omega-branding.css?ndr00e");
+@import url("http://www.mei.edu/sites/all/themes/contrib/omega/omega/css/omega-menu.css?ndr00e");
+@import url("http://www.mei.edu/sites/all/themes/contrib/omega/omega/css/omega-forms.css?ndr00e");
+@import url("http://www.mei.edu/sites/all/themes/contrib/omega/omega/css/omega-visuals.css?ndr00e");
+@import url("http://www.mei.edu/sites/default/themes/mei/css/global.css?ndr00e");</style>
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<style type="text/css" media="all">@import url("http://www.mei.edu/sites/default/themes/mei/css/mei-alpha-default.css?ndr00e");
+@import url("http://www.mei.edu/sites/default/themes/mei/css/mei-alpha-default-normal.css?ndr00e");
+@import url("http://www.mei.edu/sites/all/themes/contrib/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-12.css?ndr00e");</style>
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<style type="text/css" media="all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)">@import url("http://www.mei.edu/sites/default/themes/mei/css/mei-alpha-default.css?ndr00e");
+@import url("http://www.mei.edu/sites/default/themes/mei/css/mei-alpha-default-narrow.css?ndr00e");
+@import url("http://www.mei.edu/sites/all/themes/contrib/omega/alpha/css/grid/alpha_default/narrow/alpha-default-narrow-12.css?ndr00e");</style>
+<!--<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<style type="text/css" media="all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)">@import url("http://www.mei.edu/sites/default/themes/mei/css/mei-alpha-default.css?ndr00e");
+@import url("http://www.mei.edu/sites/default/themes/mei/css/mei-alpha-default-normal.css?ndr00e");
+@import url("http://www.mei.edu/sites/all/themes/contrib/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-12.css?ndr00e");</style>
+<!--<![endif]-->
+  <script type="text/javascript" src="http://www.mei.edu/sites/all/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.1"></script>
+<script type="text/javascript" src="http://www.mei.edu/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.mei.edu/misc/drupal.js?ndr00e"></script>
+<script type="text/javascript" src="http://www.mei.edu/sites/all/libraries/shadowbox/shadowbox.js?v=3.0.3"></script>
+<script type="text/javascript" src="http://www.mei.edu/sites/all/modules/contrib/shadowbox/shadowbox_auto.js?v=3.0.3"></script>
+<script type="text/javascript" src="http://www.mei.edu/sites/all/libraries/superfish/jquery.hoverIntent.minified.js?ndr00e"></script>
+<script type="text/javascript" src="http://www.mei.edu/sites/all/libraries/superfish/jquery.bgiframe.min.js?ndr00e"></script>
+<script type="text/javascript" src="http://www.mei.edu/sites/all/libraries/superfish/superfish.js?ndr00e"></script>
+<script type="text/javascript" src="http://www.mei.edu/sites/all/libraries/superfish/supersubs.js?ndr00e"></script>
+<script type="text/javascript" src="http://www.mei.edu/sites/all/libraries/superfish/supposition.js?ndr00e"></script>
+<script type="text/javascript" src="http://www.mei.edu/sites/all/libraries/superfish/sftouchscreen.js?ndr00e"></script>
+<script type="text/javascript" src="http://www.mei.edu/sites/all/modules/contrib/views_slideshow/js/views_slideshow.js?ndr00e"></script>
+<script type="text/javascript" src="http://www.mei.edu/sites/all/modules/contrib/google_analytics/googleanalytics.js?ndr00e"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-17829433-1"]);_gaq.push(["_setDomainName", ".mei.edu"]);_gaq.push(['_setDomainName', '.mei.edu']);_gaq.push(["_trackPageview", "/403.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = "http://www.mei.edu/sites/default/files/googleanalytics/ga.js?ndr00e";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(function(){
+jQuery('#superfish-2').supersubs({minWidth: 12, maxWidth: 27, extraWidth: 1}).superfish({
+animation: {opacity:'show',height:'show'},
+speed: 'fast',
+autoArrows: false,
+dropShadows: true}) .sftouchscreen();
+});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(function(){
+jQuery('#superfish-3').supersubs({minWidth: 12, maxWidth: 27, extraWidth: 1}).superfish({
+pathClass: 'active-trail',
+animation: {opacity:'show'},
+speed: 'fast',
+autoArrows: false,
+dropShadows: true}) .sftouchscreen();
+});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(function(){
+jQuery('#superfish-1').supersubs({minWidth: 20, maxWidth: 40, extraWidth: 1}).superfish({
+animation: {opacity:'show'},
+speed: 'fast',
+autoArrows: false,
+dropShadows: true});
+});
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.mei.edu/sites/all/themes/contrib/omega/omega/js/jquery.formalize.js?ndr00e"></script>
+<script type="text/javascript" src="http://www.mei.edu/sites/all/themes/contrib/omega/omega/js/omega-mediaqueries.js?ndr00e"></script>
+<script type="text/javascript" src="http://www.mei.edu/sites/all/themes/contrib/omega/omega/js/omega-equalheights.js?ndr00e"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+          Shadowbox.path = "/sites/all/libraries/shadowbox/";
+        
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"mei","theme_token":"7E7B2Xae9YZf9S-kx7sUS0UBlaOBbrjgjfmEeO_ak6k","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/shadowbox\/shadowbox.js":1,"sites\/all\/modules\/contrib\/shadowbox\/shadowbox_auto.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/jquery.bgiframe.min.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/modules\/contrib\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"1":1,"2":1,"3":1,"4":1,"5":1,"6":1,"7":1,"8":1,"sites\/all\/themes\/contrib\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/contrib\/omega\/omega\/js\/omega-mediaqueries.js":1,"sites\/all\/themes\/contrib\/omega\/omega\/js\/omega-equalheights.js":1,"9":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/shadowbox\/shadowbox.css":1,"0":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-vertical.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-navbar.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/views_slideshow.css":1,"sites\/default\/modules\/mei_common\/mei_common_shadowbox.css":1,"sites\/default\/modules\/mei_common\/mei_common_block_more.css":1,"sites\/all\/themes\/contrib\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/contrib\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/contrib\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/omega-visuals.css":1,"sites\/default\/themes\/mei\/css\/global.css":1,"ie::normal::sites\/default\/themes\/mei\/css\/mei-alpha-default.css":1,"ie::normal::sites\/default\/themes\/mei\/css\/mei-alpha-default-normal.css":1,"ie::normal::sites\/all\/themes\/contrib\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"narrow::sites\/default\/themes\/mei\/css\/mei-alpha-default.css":1,"narrow::sites\/default\/themes\/mei\/css\/mei-alpha-default-narrow.css":1,"sites\/all\/themes\/contrib\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-12.css":1,"normal::sites\/default\/themes\/mei\/css\/mei-alpha-default.css":1,"normal::sites\/default\/themes\/mei\/css\/mei-alpha-default-normal.css":1,"sites\/all\/themes\/contrib\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1}},"shadowbox":{"animate":true,"animateFade":true,"animSequence":"wh","auto_enable_all_images":0,"auto_gallery":0,"autoplayMovies":true,"continuous":false,"counterLimit":10,"counterType":"default","displayCounter":true,"displayNav":true,"enableKeys":true,"fadeDuration":0.35,"handleOversize":"resize","handleUnsupported":"link","initialHeight":160,"initialWidth":320,"language":"en","modal":false,"overlayColor":"#000","overlayOpacity":0.8,"resizeDuration":0.55,"showMovieControls":true,"slideshowDelay":0,"viewportPadding":20,"useSizzle":false},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"avi|csv|doc|flv|gif|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|pdf|png|ppt|txt|wav|wma|wmv|xls|xml","trackOutboundAsPageview":1,"trackDomainMode":"1"},"omega":{"layouts":{"primary":"normal","order":["narrow","normal"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)"}}}});
+//--><!]]>
+</script>
+  <script>
+    jQuery(document).ready(function () {
+     jQuery('.view-feed-imports a').each(function () {
+        var linkText = jQuery(this).text();
+        jQuery(this).text(linkText.replace('<div>', '').replace('</div>',''));
+     });
+    });
+  </script>
+  <!--[if lt IE 9]>
+    <link type="text/css" rel="stylesheet" href="/sites/default/themes/mei/css/ie.css" media="all" />
+  <![endif]-->
+  <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link rel="alternate" type="application/rss+xml" title="MEI Analysis & Opinion" href="http://mei.edu/feeds/analysis" />
+  <link rel="alternate" type=”application/rss+xml" title="MEI Newsfeed" href="http://mei.edu/feeds/news" />
+
+
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-13710 node-type-site-page context-access-denied">
+      <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=100857120047943";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+  
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  <div class="region region-page-top" id="region-page-top">
+  <div class="region-inner region-page-top-inner">
+      </div>
+</div>
+
+  <div class="page clearfix" id="page">
+      <header  id="section-header" class="section section-header">
+  <div id="zone-user-wrapper" class="zone-wrapper zone-user-wrapper clearfix"> 
+  <div id="zone-user" class="zone zone-user clearfix container-12">
+    <div class="grid-2 region region-user-first" id="region-user-first">
+  <div class="region-inner region-user-first-inner">
+      </div>
+</div>
+
+<div class="grid-10 region region-user-second" id="region-user-second">
+  <div class="region-inner region-user-second-inner">
+      </div>
+</div>
+
+  </div>
+</div><div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix"> 
+  <div id="zone-branding" class="zone zone-branding clearfix container-12">
+    <div class="grid-8 region region-branding" id="region-branding">
+  <div class="region-inner region-branding-inner">
+        <div class="branding-data clearfix">
+      <div class="mobile-logo"><a href="/"></a></div>
+     
+            <div class="logo-img">
+        <a href="/" rel="home" title=""><img src="http://www.mei.edu/sites/default/files/mei-logo.gif" alt="" id="logo" /></a>      </div>
+                </div>
+          </div>
+</div><div class="grid-4 region region-branding-second" id="region-branding-second">
+  <div class="region-inner region-branding-second-inner">
+    <div class="block block-superfish block-3 block-superfish-3 odd block-without-title" id="block-superfish-3">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul id="superfish-3" class="sf-menu menu-mobile sf-navbar sf-style-none sf-total-items-2 sf-parent-items-2 sf-single-items-0"><li id="menu-918-3" class="first odd sf-item-1 sf-depth-1 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/" title="" class="sf-depth-1  menuparent">Menu</a><ul><li id="menu-924-3" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/events" title="" class="sf-depth-2 ">Events</a></li><li id="menu-931-3" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/middle-east-journal" title="" class="sf-depth-2 ">Middle East Journal</a></li><li id="menu-4740-3" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/department-languages-regional-studies" title="" class="sf-depth-2 ">Classes</a></li><li id="menu-922-3" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/issue" title="" class="sf-depth-2 ">Issues</a></li><li id="menu-932-3" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="/membership" title="" class="sf-depth-2 ">Join MEI</a></li></ul></li><li id="menu-926-3" class="last even sf-item-2 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/" title="" class="sf-depth-1  menuparent">Programs</a><ul><li id="menu-1730-3" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="http://www.mei.edu/mei-arab-transitions-project" title="" class="sf-depth-2 ">Arab Transitions</a></li><li id="menu-928-3" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/center-pakistan-studies" title="" class="sf-depth-2 ">Center for Pakistan Studies</a></li><li id="menu-927-3" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/center-turkish-studies" title="" class="sf-depth-2 ">Center for Turkish Studies</a></li><li id="menu-929-3" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/map-project" title="" class="sf-depth-2 ">Middle East - Asia</a></li></ul></li></ul>    </div>
+  </div>
+</div>
+<div class="block block-superfish block-2 block-superfish-2 even block-without-title" id="block-superfish-2">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul id="superfish-2" class="sf-menu menu-upper-menu sf-horizontal sf-style-none sf-total-items-1 sf-parent-items-0 sf-single-items-1"><li id="menu-600-2" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="https://www.mei.edu/civicrm/contribute/transact?reset=1&amp;id=2" title="" class="sf-depth-1 ">Make a Donation</a></li></ul>    </div>
+  </div>
+</div>
+<div class="block block-search block-form block-search-form odd block-without-title" id="block-search-form">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <form action="/sites/default/files/styles/photostream_large/public/photostream/Protest%25201.jpeg%3Fitok%3DjBERYWqC" method="post" id="search-block-form" accept-charset="UTF-8"><div><div id="top-search" class="grid-4 alpha omega">
+  <div class="search-inner">
+          <h2 class="element-invisible">Search form</h2>
+        <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-mgHmFx0oBeiXXS2uQwNaAHcGSLaKQCpo0yNp4zQ1ddM" />
+<input type="hidden" name="form_id" value="search_block_form" />
+  </div>
+</div></div></form>    </div>
+  </div>
+</div>
+  </div>
+</div>
+
+  </div>
+</div><div id="zone-menu-wrapper" class="zone-wrapper zone-menu-wrapper clearfix"> 
+  <div id="zone-menu" class="zone zone-menu clearfix container-12">
+    <div class="grid-9 region region-menu" id="region-menu">
+  <div class="region-inner region-menu-inner">
+        <div class="block block-superfish block-1 block-superfish-1 odd block-without-title" id="block-superfish-1">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul id="superfish-1" class="sf-menu main-menu sf-horizontal sf-style-none sf-total-items-7 sf-parent-items-1 sf-single-items-6"><li id="menu-1819-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/" title="" class="sf-depth-1 ">Home</a></li><li id="menu-1326-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/" title="Programs" class="sf-depth-1  menuparent">Programs</a><ul><li id="menu-5516-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/mei-arab-transitions-project" title="" class="sf-depth-2 ">Arab Transitions</a></li><li id="menu-5517-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/center-pakistan-studies" title="" class="sf-depth-2 ">Center for Pakistan Studies</a></li><li id="menu-5518-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/center-turkish-studies" title="" class="sf-depth-2 ">Center for Turkish Studies</a></li><li id="menu-5519-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/map-project" title="" class="sf-depth-2 ">Middle East - Asia Project</a></li></ul></li><li id="menu-328-1" class="middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="/issue" class="sf-depth-1 ">Issues</a></li><li id="menu-2739-1" class="middle even sf-item-4 sf-depth-1 sf-no-children"><a href="/experts" class="sf-depth-1 ">Experts</a></li><li id="menu-597-1" class="middle odd sf-item-5 sf-depth-1 sf-no-children"><a href="/events" class="sf-depth-1 ">Events</a></li><li id="menu-949-1" class="middle even sf-item-6 sf-depth-1 sf-no-children"><a href="/department-languages-regional-studies" class="sf-depth-1 ">Classes</a></li><li id="menu-5515-1" class="last odd sf-item-7 sf-depth-1 sf-no-children"><a href="/membership" title="" class="sf-depth-1 ">Support</a></li></ul>    </div>
+  </div>
+</div>
+  </div>
+</div>
+<div class="grid-3 region region-menu-sm" id="region-menu-sm">
+  <div class="region-inner region-menu-sm-inner">
+    <div class="block block-mei-core block-mei-core-social-media-follow block-mei-core-mei-core-social-media-follow odd block-without-title" id="block-mei-core-mei-core-social-media-follow">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <section id='social-media'>
+  <ul id="social-media-links" class="cf">
+    <li class="connect">connect</li>
+	  <li class="fb"><a href="http://www.facebook.com/middleeastinstitute" target='_blank'>facebook</a></li>
+	  <li class="twitter"><a href="http://www.twitter.com/middleeastinst" target='_blank'>twitter</a></li>
+    <li class="plus-1"><a href="http://visitor.constantcontact.com/d.jsp?m=1102919617474&amp;p=oi" target='_blank'>newsletter</a></li>
+    <li class="rss last"><a href="http://www.facebook.com/middleeastinstitute" target='_blank'>RSS</a></li>
+  </ul>
+</section>
+    </div>
+  </div>
+</div>
+  </div>
+</div>
+
+  </div>
+</div></header>    
+      <section id="section-content" class="section section-content">
+  <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  <div id="zone-content" class="zone zone-content clearfix container-12">    
+        
+        <div class="grid-8 region region-content" id="region-content">
+  <div class="region-inner region-content-inner">
+  	<a id="main-content"></a>
+    <div class="tabs clearfix"></div>        
+        
+    
+    <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <article about="/access-denied" typeof="schema:WebPage sioc:Item foaf:Document" class="node node-site-page node-published node-not-promoted node-not-sticky author-admin odd clearfix" id="node-site-page-13710">
+  
+    <header>
+    <div class="page-title-wrapper">
+        <h2 property="dc:title" datatype="" class="node-title"><a href="/access-denied" title="Access Denied">Access Denied</a></h2>
+        </div>
+  </header>
+  
+  <div class="content clearfix">
+    <div class="white-panel article">    <div class="dateposted">Mon, Mar 3rd 2014, 12:24PM</div>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>You are not authorized to access this page.</p>
+</div></div></div><span property="dc:title" content="Access Denied" class="rdf-meta"></span>    </div>  </div>
+
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>
+<div class="white-panel" style="margin-top: -60px;"><a href="/user?destination=sites/default/files/styles/photostream_large/public/photostream/Protest%2525201.jpeg%253Fitok%253DjBERYWqC">Log in</a></div>    </div>
+  </div>
+</div>
+      
+   
+  </div>
+</div>
+<aside>
+  <div class="grid-4 region region-sidebar" id="region-sidebar">
+    <div class="region-inner region-sidebar-inner">
+      <div class="block block-mei-core block-mei-core-subscribe block-mei-core-mei-core-subscribe odd block-without-title" id="block-mei-core-mei-core-subscribe">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="ad block-25">
+  <a href="/membership"><img src="http://www.mei.edu/sites/default/themes/mei/assets/membership-callout.png"></a></div>
+    </div>
+  </div>
+</div>
+    </div>
+  </div>
+</aside>
+  </div>
+</div></section>    
+  
+      <footer id="section-footer" class="section section-footer">
+  <div id="sub-footer"></div>
+
+
+<div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  <div id="zone-footer" class="zone zone-footer clearfix container-12">    
+    <div class="grid-12 region region-footer-first" id="region-footer-first">
+  <div class="region-inner region-footer-first-inner">
+    <div id="footer-nav" class="block block-menu" class="block block-menu block-menu-footer-menu block-menu-menu-footer-menu odd" id="block-menu-menu-footer-menu">
+  <ul class="menu"><li class="category grid-3"><h3><a href="http://www.mei.edu/mission" title="">The Institute</a></h3><ul class="menu"><li class="first leaf"><a href="http://www.mei.edu/mission" title="">Our Mission</a></li>
+<li class="leaf"><a href="/brief-history-middle-east-institute" title="">History</a></li>
+<li class="leaf"><a href="/board" title="">Board of Governors</a></li>
+<li class="leaf"><a href="http://www.mei.edu/staff" title="">Staff </a></li>
+<li class="leaf"><a href="/library" title="">Oman Library at the Middle East Institute</a></li>
+<li class="leaf"><a href="http://www.mei.edu/jobs-and-internships" title="">Employment</a></li>
+<li class="leaf"><a href="/internships-0" title="">Internships</a></li>
+<li class="leaf"><a href="/contact" title="">Contact</a></li>
+<li class="leaf"><a href="/annual-reports">Annual Reports</a></li>
+<li class="last leaf"><a href="/privacy-statement">Privacy Statement</a></li>
+</ul></li>
+<li class="category grid-3"><h3><a href="/">Centers</a></h3><ul class="menu"><li class="first leaf"><a href="http://www.mei.edu/mei-arab-transitions-project" title="">Arab Transitions</a></li>
+<li class="leaf"><a href="/center-turkish-studies" title="">Turkish Studies</a></li>
+<li class="leaf"><a href="/center-pakistan-studies" title="">Pakistan Studies</a></li>
+<li class="last collapsed"><a href="/map-project">Middle East - Asia Project</a></li>
+</ul></li>
+<li class="category grid-3"><h3><a href="http://www.mei.edu/middle-east-journal" title="">Middle East Journal</a></h3><ul class="menu"><li class="first leaf"><a href="http://mideasti.blogspot.com/" title="">Editor&#039;s Blog</a></li>
+<li class="leaf"><a href="/mej/advertising" title="">Advertising</a></li>
+<li class="leaf"><a href="/mej/submissions" title="">Submissions</a></li>
+<li class="leaf"><a href="/mej/publishers" title="">Books for Review</a></li>
+<li class="last leaf"><a href="/mej/readers" title="">Subscribers</a></li>
+</ul></li>
+<li class="category grid-3"><h3><a href="http://www.mei.edu/membership" title="">Support MEI</a></h3><ul class="menu"><li class="first leaf"><a href="/membership">Membership</a></li>
+<li class="last leaf"><a href="/corporate-sponsorship">Corporate Sponsorship</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+
+  </div>
+</div><div id="zone-footer-lower-wrapper" class="zone-wrapper zone-footer-lower-wrapper clearfix"> 
+  <div id="zone-footer-lower" class="zone zone-footer-lower clearfix container-12">
+    <div class="grid-9 region region-footer-second" id="region-footer-second">
+  <div class="region-inner region-footer-second-inner">
+    <div class="block block-mei-core block-mei-core-contact block-mei-core-mei-core-contact odd block-without-title" id="block-mei-core-mei-core-contact">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="footer-logo-address">
+  <div class="org-info"><a href="/"><img src="http://www.mei.edu/sites/default/themes/mei/img/logo-sm-text.png"></a></div>
+  <div class="address">1761 N Street NW, Washington, DC 20036 | (202)785-1141 | <a href="mailto:information@mei.edu">information@mei.edu</a></div>
+</div>
+    </div>
+  </div>
+</div>
+  </div>
+</div>
+
+<div class="grid-3 region region-footer-third" id="region-footer-third">
+  <div class="region-inner region-footer-third-inner">
+    <div class="block block-mei-core block-mei-core-social-media-follow block-mei-core-mei-core-social-media-follow--2 odd block-without-title" id="block-mei-core-mei-core-social-media-follow--2">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <section id='social-media'>
+  <ul id="social-media-links" class="cf">
+    <li class="connect">connect</li>
+	  <li class="fb"><a href="http://www.facebook.com/middleeastinstitute" target='_blank'>facebook</a></li>
+	  <li class="twitter"><a href="http://www.twitter.com/middleeastinst" target='_blank'>twitter</a></li>
+    <li class="plus-1"><a href="http://visitor.constantcontact.com/d.jsp?m=1102919617474&amp;p=oi" target='_blank'>newsletter</a></li>
+    <li class="rss last"><a href="http://www.facebook.com/middleeastinstitute" target='_blank'>RSS</a></li>
+  </ul>
+</section>
+    </div>
+  </div>
+</div>
+  </div>
+</div>
+
+  </div>
+</div></footer>  </div>
+  
+  <script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+ </script>
+
+ </body>
+</html>

@@ -1,0 +1,92 @@
+<!doctype html>
+
+<!--[if lt IE 7]> <html lang="en-gb" class="lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>    <html lang="en-gb" class="lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>    <html lang="en-gb" class="lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-gb"> <!--<![endif]-->
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  
+  <title>404 Not Found - The Let's Play Archive</title> 
+  
+  <meta name="keywords" content="let's play,videogame,game,playthrough" /> 
+  <meta name="description" content="The Let's Play Archive is a collection of entertaining video game playthroughs of all genres and styles" /> 
+  <meta name="author" content="The Let's Play Archive" /> 
+  
+  <meta name="viewport" content="width=960" />
+  
+  <link rel="stylesheet" href="/style/2012/archive-2.0.4.css" media="screen" /> 
+  
+  <script type="text/javascript">
+    (function(html){html.className = "live";})(document.documentElement||document.body);
+  </script>
+
+  <script src="/script/jquery-1.7.1.min.js"></script>
+  <script src="/script/2012/readinghistory-1.0.1.js"></script>
+
+  <script type="text/javascript">
+  /* <![CDATA[ */
+  
+    $(document).ready(displayCurrentHistory);
+
+  /* ]]> */
+  </script>
+
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+  	_gaq.push(['_setAccount', 'UA-17419258-1']);
+  	_gaq.push(['_trackPageview']);
+  
+  	(function() {
+  		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  		ga.src = ('https:' == document.location.protocol ? 'https://ssl.google-analytics.com/ga.js' : 'http://www.google-analytics.com/ga.js');
+  		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  	})();
+  
+  </script>
+</head>
+
+<body>  <div class="header">
+    <a class="index-link" href="/">
+      &nbsp;<span class="logo"><i title="The Let's Play Archive">&nbsp;</i></span>
+    </a>
+  </div>
+  
+  <h1 class="indexhead">The Let's Play Archive</h1>  <ul id="menu">
+    <li><a href="/history">About</a></li>
+    <li><a href="/faq">FAQ</a></li>
+    <li><a href="/contact">Contact</a></li>
+  </ul>
+  
+  <div class="error">
+    <div class="cblock letter official-letter" id="excuses">
+			<h3><span class="date">Five whole seconds ago, created manually by a real person</span>Dearest archival hobbyist,</h3>
+      <p>
+        We're terribly sorry that you weren't able to find the page or LP that you were looking for! Here at the LP Archive, we're obviously extremely
+        concerned whenever Page #404 of the latest and hottest LP accidentally gets thrown away and forgotten about. We're not entirely sure what might
+        have happened, so it's probably one of the following things:
+      </p>
+      <ul>
+        <li>That page was never there in the first place, and you've made it all up in your head!</li>
+        <li>The link that you clicked had deliberately been sabotaged?</li>
+        <li>You didn't want to see that page anyway! I've hidden it for your own good.</li>
+        <li>Alright, in honesty this is probably our fault...</li>
+      </ul>
+      <p>
+        If you think this missing page is something we ought to look at &mdash; if it's a missing update from an LP, for example &mdash; please don't hesitate to
+        <a href="/contact">contact us!</a> We'll try to get it sorted out as soon as we can.
+      </p>
+      <h4>- The Archive</h4>
+    </div>
+  
+    <h1>Sorry, but we can't seem to find that page!</h1>
+    <h2>It may have moved or been deleted, or the original link could have been incorrect.</h2>
+    
+    <a class="direction" href="javascript:history.go(-1);">Go back</a>
+    <a class="direction" href="/contact">Tell us about this error</a>
+    <a class="direction" href="/">Return to the archive index</a>
+  </div>
+</body>
+</html>

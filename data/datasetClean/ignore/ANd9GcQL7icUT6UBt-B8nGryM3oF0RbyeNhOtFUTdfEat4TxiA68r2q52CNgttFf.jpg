@@ -1,0 +1,520 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0"
+      dir="ltr"
+  
+  xmlns:fb="http://www.facebook.com/2008/fbml"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <link rel="image_src" href="/sites/all/themes/genesis/genesis_disability_now/FB-share.jpg" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="http://www.disabilitynow.org.uk/sites/all/themes/genesis/genesis_disability_now/favicon.ico" type="image/vnd.microsoft.icon" />
+<script type="text/javascript">  var OA_zones = {
+    'Frontpage' : 1,
+    'Now' : 2,
+    'Regular' : 3,
+    'Lifestyle' : 4,
+    'Features' : 5,
+    'Blogs' : 6,
+    'Questions and Answers' : 7,
+    'Listings frontpage' : 8,
+    'Events' : 9,
+    'Jobs' : 10,
+    'Classifieds' : 11,
+    'Podcasts' : 12,
+    'Videos' : 13,
+    'Edit/Create Events' : 14,
+    'Edit/Create Jobs' : 15,
+    'Edit/Create Classifieds' : 16,
+    'Others pages' : 17,
+    'Holidays' : 18,
+    'Edit/Create Holidays' : 19
+  }</script>
+<script type="text/javascript" src="http://www.disabilitynow.org.uk/openx/www/delivery/spcjs.php"></script>
+  <title>Access denied | Disability Now</title>
+  <!-- <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900' rel='stylesheet' type='text/css'>-->
+  <link type="text/css" rel="stylesheet" href="http://www.disabilitynow.org.uk/sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.disabilitynow.org.uk/sites/default/files/css/css_yPeqNvaiIz7SdJUlua5lZmYHDqFwkxCCZr7YsBQOMdE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.disabilitynow.org.uk/sites/default/files/css/css_fEdEL8D_PIxfwHcvlMzwESWLMLReu6y5Xe_xhz5DKg8.css" media="all" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://www.disabilitynow.org.uk/sites/all/themes/genesis/genesis_disability_now/css/ie/ie-lte-7.css?ndqurh" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="http://www.disabilitynow.org.uk/sites/default/files/css/css_MXdQQs6qMBwP6rvvWA4WP0XoOxDXArPNrxJ-6-tMH64.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.disabilitynow.org.uk/sites/default/files/css/css_C_Rc4-coYsv9M9IK9lV9WLMgJeY19lsr4yvIfnwwBcw.css" media="all" />
+
+  <script type="text/javascript" src="http://www.disabilitynow.org.uk/sites/default/files/js/js_r7Nx4jHmBf2IMcxgnTxJDOqrAZUpb6U5CkPza3_lOb8.js"></script>
+<script type="text/javascript" src="http://www.disabilitynow.org.uk/sites/default/files/js/js_cAmVn4EwTDrCFDY20mPcAIIeloxOoXCsCWaEYkaU4-4.js"></script>
+<script type="text/javascript" src="http://www.disabilitynow.org.uk/sites/default/files/js/js_XZhU67G9JovHlN79sPHqmpppUOp5WVE3AFu7Asxs_yk.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-35173559-1"]);_gaq.push(["_trackPageview", "/403.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.disabilitynow.org.uk/sites/default/files/js/js_R2jdvUvnESZTkXkrGU4uKiyW9uxM-8KF6JRxWchoBIw.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"genesis_disability_now","theme_token":"YvLAz0gfsH1godfef0UFph0NdqqmpXsjsSKP7AYLaVk","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/custom\/accessibility_bar\/js\/accessibility_bar.js":1,"sites\/all\/modules\/custom\/fbconnect\/fbconnect.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/genesis\/genesis_disability_now\/js\/script.js":1,"sites\/all\/themes\/genesis\/genesis_disability_now\/js\/modernizr.custom.04734.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/custom\/workflow\/workflow_admin_ui\/workflow_admin_ui.css":1,"sites\/all\/modules\/custom\/views\/css\/views.css":1,"sites\/all\/modules\/custom\/accessibility_bar\/css\/style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/fbconnect\/fbconnect.css":1,"public:\/\/spamicide\/feed_me_catch_dn_users_newsletter_block_form.css":1,"sites\/all\/themes\/genesis\/genesis_disability_now\/css\/ie\/ie-lte-7.css":1,"sites\/all\/themes\/genesis\/genesis_disability_now\/css\/layout.css":1,"sites\/all\/themes\/genesis\/genesis\/css\/admin-styles.css":1,"sites\/all\/themes\/genesis\/genesis_disability_now\/css\/html-elements.css":1,"sites\/all\/themes\/genesis\/genesis_disability_now\/css\/page.css":1,"sites\/all\/themes\/genesis\/genesis_disability_now\/css\/fields.css":1,"sites\/all\/themes\/genesis\/genesis_disability_now\/css\/nodes.css":1,"sites\/all\/themes\/genesis\/genesis_disability_now\/css\/blocks.css":1,"sites\/all\/themes\/genesis\/genesis_disability_now\/css\/comments.css":1,"sites\/all\/themes\/genesis\/genesis_disability_now\/css\/navigation.css":1,"sites\/all\/themes\/genesis\/genesis_disability_now\/css\/views-styles.css":1,"sites\/all\/themes\/genesis\/genesis_disability_now\/css\/custom.css":1,"1":1,"0":1}},"accessibility_bar":{"use_cookies":false},"fbconnect":{"user_pictures":"disallow","language_code":"en_GB","app_id":"308886632552579","debug":0,"connect_js":"document.location.protocol + \u0027\/\/connect.facebook.net\/en_GB\/all.js\u0027","loginout_mode":"auto","invite_name":"Disability Now","fast_reg_mode":0,"fast_reg_autoname":0,"fbuid":0,"user":{"uid":0,"fbuid":null}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]>
+  <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+  <![endif]-->
+  
+  <!--[if IE 7]>
+  <style type="text/css">
+    .block-login-share, .social-media-links {
+      visibility: hidden;
+      display: none;
+    }
+    </style>
+  <![endif]-->
+
+  <!--[if IE]>
+  <style type="text/css">
+    button[type="reset"],
+    button[type="button"],
+    button[type="submit"],
+    input[type="reset"],
+    input[type="button"],
+    input[type="submit"]{
+      filter:chroma(color=#000000);
+    }
+    </style>
+  <![endif]-->
+</head>
+<body id="genesis-1c"  class="html not-front not-logged-in one-sidebar sidebar-first page-sites page-sites-default page-sites-default-files page-sites-default-files-styles page-sites-default-files-styles-content-top page-sites-default-files-styles-content-top-public page-sites-default-files-styles-content-top-public-field page-sites-default-files-styles-content-top-public-field-image page-sites-default-files-styles-content-top-public-field-image-crowdjpgitokzcybpjcf  size-small theme-default section-sites error-403">
+
+
+
+<div id="header-accessibility-bar">
+
+      <div id="accessibility_bar-blocks">  <div class="region region-accessibility-bar">
+    <div id="scope-accessibility-wrapper" class="">
+  <div id="scope-accessibility-bar">
+		<div id="scope-accessibility-inner" class="clearfix">
+        <div class="col left">
+          <a href="#container" id="access-bar-skip-nav" accesskey="s">Skip nav<span>igation</span> </a>        </div>
+        <div class="col right show-hide-col">
+          <div class="col" id="scope-accessibility-open-close-area">
+            
+            <div id="scope-accessibility-bar-themes" class="scope-accessibility-bar-right-divider">
+              <ul class="links"><li class="default-theme first active"><a href="/sites/default/files/styles/content-top/public/field/image/crowd.jpg%3Fitok%3DzCYbPJcf?style=default-theme" id="access-bar-color-default-theme" class="access-bar-size-select access-link active" title="Style: Default theme">Default theme</a></li>
+<li class="blue-theme active"><a href="/sites/default/files/styles/content-top/public/field/image/crowd.jpg%3Fitok%3DzCYbPJcf?style=blue-theme" id="access-bar-color-blue-theme" class="access-bar-size-select access-link active" title="Style: Blue theme">Blue theme</a></li>
+<li class="high-visibility-theme active"><a href="/sites/default/files/styles/content-top/public/field/image/crowd.jpg%3Fitok%3DzCYbPJcf?style=high-visibility-theme" id="access-bar-color-high-visibility-theme" class="access-bar-size-select access-link active" title="Style: High Visibility theme">High Visibility theme</a></li>
+<li class="soft-theme last active"><a href="/sites/default/files/styles/content-top/public/field/image/crowd.jpg%3Fitok%3DzCYbPJcf?style=soft-theme" id="access-bar-color-soft-theme" class="access-bar-size-select access-link active" title="Style: Soft theme">Soft theme</a></li>
+</ul>            </div>
+            <div id="scope-accessibility-bar-sizes" class="scope-accessibility-bar-right-divider">
+              <ul class="links"><li class="small first active"><a href="/sites/default/files/styles/content-top/public/field/image/crowd.jpg%3Fitok%3DzCYbPJcf?style=small" id="access-bar-size-small" class="access-bar-size-select access-link active"><span>A</span><span class="hide">Small</span></a></li>
+<li class="medium active"><a href="/sites/default/files/styles/content-top/public/field/image/crowd.jpg%3Fitok%3DzCYbPJcf?style=medium" id="access-bar-size-medium" class="access-bar-size-select access-link active"><span>A</span><span class="hide">Medium</span></a></li>
+<li class="large last active"><a href="/sites/default/files/styles/content-top/public/field/image/crowd.jpg%3Fitok%3DzCYbPJcf?style=large" id="access-bar-size-large" class="access-bar-size-select access-link active"><span>A</span><span class="hide">Large</span></a></li>
+</ul>            </div>
+            <div class="scope-accessibility-bar-right-divider">
+              <a href="/sites/default/files/styles/content-top/public/field/image/crowd.jpg%3Fitok%3DzCYbPJcf?style=text" id="text-only-link" class="active">Text only</a>            </div>
+          </div>
+          <div class="col">
+            <div id="scope-accessibility-bar-open-close-links" class="scope-accessibility-bar-right-divider">
+              <ul class="links"><li class="show_bar first active"><a href="/sites/default/files/styles/content-top/public/field/image/crowd.jpg%3Fitok%3DzCYbPJcf?style=show" class="show-hide show-link access-link active">Show access options</a></li>
+<li class="hide_bar last active"><a href="/sites/default/files/styles/content-top/public/field/image/crowd.jpg%3Fitok%3DzCYbPJcf?style=hide" class="show-hide hide-link access-link active">Hide access options</a></li>
+</ul>            </div>
+            <div class="scope-accessibility-bar-right-divider">
+              <a href="/accessibility" accesskey="0" id="access-bar-statement">Accessibility statement</a>            </div>
+            <div class="scope-accessibility-bar-right-divider">
+              <a href="/privacy" id="access-bar-privacy">Privacy</a>            </div>
+            <div class="scope-accessibility-bar-right-divider">
+              <a href="/cookies" id="access-bar-cookies">Cookies</a>            </div>
+            <div id="scope-accessibility-bar-login">
+              <div id="scope-accessibility-bar-user-nav" aria-label="User options"><a href="/user" class="scope-accessibility-bar-right-divider"><span>Login</span></a></div>            </div>  
+          </div>
+          
+        </div>
+		</div>
+	</div>
+</div>  </div>
+</div>
+  
+</div>
+
+<div id="header" class="clearfix">
+  <div id="header-dropshadow">
+    <div id="header-wrapper">
+              <div id="branding">
+
+                                    <div class="logo-site-name"><strong>
+                  <span id="logo"><a href="/" title="Home page" rel="home"><img src="http://www.disabilitynow.org.uk/sites/all/themes/genesis/genesis_disability_now/logo.png" alt="Disability Now logo" /></a></span>                  <span id="site-name"><a href="/" title="Home page" rel="home">Disability Now</a></span>                </strong></div>
+                      
+        </div> <!-- /branding -->
+                    <div id="header-blocks">  <div class="region region-header">
+    <div id="block-menu-menu-head-menu" class="block block-menu block-odd block-header block-count-2">
+			<div class="block-inner">
+		<div class="content">
+			<ul class="menu"><li class="first leaf"><a href="/newsletter-subscription" title="">Newsletter</a></li>
+<li class="leaf"><a href="/contact-us" title="">Contact us</a></li>
+<li class="last leaf"><a href="/advertise" title="">Advertise</a></li>
+</ul>		</div>
+	</div>
+</div>
+  </div>
+                      <div id="site-slogan">our <strong>voice</strong>, our <strong>lives</strong></div>
+                  </div>
+          </div>
+    <!-- /header-wrapper -->
+  </div>
+</div> <!-- /header -->
+
+  <div id="main-menu-wrapper" class="clearfix">
+    <div class="main-menu-inner">
+      <ul class="menu"><li class="first leaf"><a href="/">Home</a></li>
+<li class="leaf"><a href="/now">Now</a></li>
+<li class="leaf"><a href="/regulars">Regulars</a></li>
+<li class="leaf"><a href="/lifestyle">Lifestyle</a></li>
+<li class="leaf"><a href="/features">Features</a></li>
+<li class="leaf"><a href="/blogs">Blogs</a></li>
+<li class="leaf"><a href="/questions-and-answers">Q&amp;A</a></li>
+<li class="expanded"><a href="/adverts" title="Adverts frontpage">Adverts</a><ul class="menu"><li class="first leaf"><a href="/adverts/holidays" class="holiday-menu">Holidays</a></li>
+<li class="leaf"><a href="/adverts/events" class="event-menu">Events</a></li>
+<li class="leaf"><a href="/adverts/jobs" class="job-menu">Jobs</a></li>
+<li class="last leaf"><a href="/adverts/classifieds" class="classified-menu">Classifieds</a></li>
+</ul></li>
+<li class="last leaf"><a href="/podcasts">Podcasts</a></li>
+</ul>      <div id="block-catch_dn_search-form" class="block block-catch-dn-search block-odd block--1 block-count-3">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      <form action="/sites/default/files/styles/content-top/public/field/image/crowd.jpg?itok=zCYbPJcf" method="post" id="catch-dn-search-block-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-catch-dn-search-block-form">
+  <label class="element-invisible" for="edit-catch-dn-search-block-form--2" id="edit-catch-dn-search-block-form--2-label">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-catch-dn-search-block-form--2" name="catch_dn_search_block_form" value="" size="15" maxlength="128" class="form-text" aria-labelledby="edit-catch-dn-search-block-form--2-label" />
+</div>
+<input type="hidden" name="form_build_id" value="form-j_jXbeGFtI_kTbB4HgfSqmDCHW7enTIf16nSoaKmBt0" />
+<input type="hidden" name="form_id" value="catch_dn_search_block_form" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit--2" name="op" value="Search" class="form-submit" /></div></div></form>    </div>
+
+  </div>
+</div>
+    </div>
+
+  </div>
+<div id="container-wrapper">
+  <div id="container" class="page">
+    <span class="element-invisible">You are here</span><div class="breadcrumb"><a href="/">Home</a> » Access denied</div>        
+
+    <div id="columns" class="clear clearfix">
+      <div id="content-column">
+        <div class="content-inner">
+
+          <div id="main-content">
+
+                                                        <h1 id="page-title">Access denied</h1>
+                                        
+                          <div class="local-tasks"></div>
+            
+            
+            
+            <div id="content">
+                <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-odd block-content block-count-4">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      You are not authorized to access this page.    </div>
+
+  </div>
+</div>
+  </div>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+
+              <div id="sidebar-first" class="sidebar">  <div class="region region-sidebar-first">
+    <div id="block-block-1" class="block block-block block-login-share block-odd block-sidebar-first block-count-5">
+      <!--<div class="block-inner login-register">
+
+	    	      	        <h2 class="block-title">Have your say</h2>
+	      	    
+	    <div class="content">
+	      <div class="icon"> </div>
+<p>Get involved in the debate – Login to read the latest articles and leave comments.  </p>
+<p><span class="button button-red"><a href="/user/register">Register now</a></span> or <a class="red-bold-link" href="/user/login">Login</a></p>
+<div class="separator"> </div>
+<p>Sign up to our monthly <a href="/newsletter-subscription"><strong>Newsletter</strong></a></p>
+	    </div>
+
+	  </div>-->
+  
+  <div class="block-inner social-links">
+    <div class="content">
+      <div class="social-media-links clear-block">
+	<span class="label">Share:</span>
+			<div class="social-media-facebook-link">
+  			<script type="text/javascript">
+<!--//--><![CDATA[//>
+<!--
+document.write('<div data-send="" data-width="80px" data-how-faces="" layout="button_count" data-href="http://www.disabilitynow.org.uk/sites/default/files/styles/content-top/public/field/image/crowd.jpg%3Fitok%3DzCYbPJcf" class="fb-like" data-show-faces="true"></div>');
+//--><!]]>
+</script>		</div>
+			<div class="social-media-twitter-link">
+  			<script type="text/javascript">
+<!--//--><![CDATA[//>
+<!--
+document.write('<a href="https://twitter.com/share" class="twitter-share-button" data-count="none" data-url="http://www.disabilitynow.org.uk/sites/default/files/styles/content-top/public/field/image/crowd.jpg%3Fitok%3DzCYbPJcf">Tweet</a>');
+//--><!]]>
+</script>		</div>
+			<div class="social-media-gplus-link">
+  			<script type="text/javascript">
+<!--//--><![CDATA[//>
+<!--
+document.write('<div class="g-plusone" data-annotation="none" data-size="tall" data-href="http://www.disabilitynow.org.uk/sites/default/files/styles/content-top/public/field/image/crowd.jpg%3Fitok%3DzCYbPJcf"></div>');
+//--><!]]>
+</script>		</div>
+	</div>    </div>
+  </div>
+</div>
+<div id="block-openx-16" class="block block-openx block-even block-sidebar-first block-count-6">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      <script type='text/javascript'><!--// <![CDATA[
+    OA_show('Others pages');
+// ]]> --></script>    </div>
+
+  </div>
+</div>
+<div id="block-catch_dn_listings-listings" class="block block-catch-dn-listings block-odd block-sidebar-first block-count-7">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Adverts</h2>
+          
+    <div class="content">
+      <ul><li class="holidays"><a href="/adverts/holidays">Holidays: Search for a holiday</a></li>
+<li class="events"><a href="/adverts/events">Events: See what\'s on</a></li>
+<li class="jobs"><a href="/adverts/jobs">Job search: Find new job</a></li>
+<li class="classifieds"><a href="/adverts/classifieds">Classifieds: Buy and sell items</a></li>
+</ul>    </div>
+
+  </div>
+</div>
+  </div>
+</div>
+      
+
+    </div>
+    <!-- /columns -->
+
+    
+  </div>
+</div>
+
+
+<div id="footer-wrapper">
+  <div id="footer-top"></div>
+  <div id="footer">
+    <div id="footer-inner">
+
+
+              <div id="secondary-content">
+            <div class="region region-secondary-content">
+    <div id="block-catch_dn_users-catch_dn_users_newsletter" class="block block-catch-dn-users block-odd block-secondary-content block-count-8">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Newsletter</h2>
+          
+    <div class="content">
+      <form action="/newsletter-subscription" method="get" id="catch-dn-users-newsletter-block-form" accept-charset="UTF-8"><div><div id="catch_dn_users_newsletter_text"><p>Make sure you don't miss what's new at Disability Now. Sign up to receive our regular e-newsletter which gives details of new content, competitions and other exciting stuff.</p>
+</div><div class="form-item form-type-textfield form-item-email">
+  <label for="edit-email" id="edit-email-label">Enter your email address </label>
+ <input type="text" id="edit-email" name="email" value="" size="60" maxlength="128" class="form-text" aria-labelledby="edit-email-label" />
+</div>
+<input type="submit" id="edit-submit" name="op" value="Subscribe" class="form-submit" /><input type="hidden" name="form_build_id" value="form-8n5BemOffwgi2ZMWLVlxqnpkQZOBfJ9X80QRWS3JFac" />
+<input type="hidden" name="form_id" value="catch_dn_users_newsletter_block_form" />
+<div class="edit-feed-me-catch-dn-users-newsletter-block-form-wrapper"><div class="form-item form-type-textfield form-item-feed-me-catch-dn-users-newsletter-block-form">
+  <label for="edit-feed-me-catch-dn-users-newsletter-block-form" id="edit-feed-me-catch-dn-users-newsletter-block-form-label">title </label>
+ <input type="text" id="edit-feed-me-catch-dn-users-newsletter-block-form" name="feed_me_catch_dn_users_newsletter_block_form" value="" size="20" maxlength="128" class="form-text" aria-labelledby="edit-feed-me-catch-dn-users-newsletter-block-form-label" aria-describedby="edit-feed-me-catch-dn-users-newsletter-block-form-description" />
+<div class="description" id="edit-feed-me-catch-dn-users-newsletter-block-form-description">To prevent automated spam submissions leave this field empty.</div>
+</div>
+</div></div></form>    </div>
+
+  </div>
+</div>
+<div id="block-catch_dn_common_functionality-catch_dn_social_footer" class="block block-catch-dn-common-functionality block-even block-secondary-content block-count-9">
+  <div class="block-inner">
+
+                  <h2 class="block-title">Follow us...</h2>
+          
+    <div class="content">
+      <div class="twitter_footer">
+	<span class="tweet-text"><a href="http://twitter.com/#!/search?q=%23LordFreud" title="#LordFreud" rel="nofollow">#LordFreud</a>, party conferences, ILF and <a href="http://twitter.com/#!/search?q=%23disability" title="#disability" rel="nofollow">#disability</a> history month on The Download. Up tomorrow</span>
+	<span class="follow_us">Follow <a href="http://twitter.com/DisabilityNow">@DisabilityNow</a> on twitter</span>
+</div>
+<div class="facebook_footer">
+	<script type="text/javascript">
+<!--//--><![CDATA[//>
+<!--
+document.write('<div data-href="http://www.facebook.com/pages/Disability-Now/448258551882688" class="fb-like" data-layout="button_count" data-send="true" data-show-faces="false" data-width="120px"></div>');
+//--><!]]>
+</script>	<a href="http://www.facebook.com/pages/Disability-Now/448258551882688">Facebook.com/Disability-Now</a></div>
+    </div>
+
+  </div>
+</div>
+  </div>
+        </div>
+      
+              <div id="tertiary-content">
+            <div class="region region-tertiary-content">
+    <div id="block-catch_dn_common_functionality-catch_dn_quick_access_menu" class="block block-catch-dn-common-functionality block-odd block-tertiary-content block-count-10">
+  <div class="block-inner">
+
+              
+    <div class="content">
+      	<div class="main-menu">
+		<h4><a href="/">Home</a></h4><ul class="links inline footer-menu"><li class="menu-712 first"><a href="/now">Now</a></li>
+<li class="menu-725"><a href="/regulars">Regulars</a></li>
+<li class="menu-713"><a href="/lifestyle">Lifestyle</a></li>
+<li class="menu-714"><a href="/features">Features</a></li>
+<li class="menu-724"><a href="/blogs">Blogs</a></li>
+<li class="menu-716"><a href="/questions-and-answers">Q&amp;A</a></li>
+<li class="menu-1688"><a href="/adverts" title="Adverts frontpage">Adverts</a></li>
+<li class="menu-646 last"><a href="/podcasts">Podcasts</a></li>
+</ul>	</div>
+	<div class="tax-nowmenu">
+		<h4><a href="/now">Now</a></h4><ul class="links inline footer-menu"><li class="0 first"><a href="/now?tid=2">Newsview</a></li>
+<li class="1"><a href="/now?tid=3">Politics</a></li>
+<li class="2"><a href="/now?tid=4">Disability Rights</a></li>
+<li class="3 last"><a href="/now?tid=70">MediaWatch</a></li>
+</ul>	</div>
+	<div class="tax-lifestylemenu">
+		<h4><a href="/lifestyle">Lifestyle</a></h4><ul class="links inline footer-menu"><li class="0 first"><a href="/lifestyle?tid=261">Travel</a></li>
+<li class="1"><a href="/lifestyle?tid=9">Entertainment</a></li>
+<li class="2"><a href="/lifestyle?tid=7">Sport</a></li>
+<li class="3"><a href="/lifestyle?tid=12">Tried &amp; Tested</a></li>
+<li class="4"><a href="/lifestyle?tid=1094">One2Watch</a></li>
+<li class="5 last"><a href="/lifestyle?tid=11">Work</a></li>
+</ul>	</div>
+	<div class="tax-featuresmenu">
+		<h4><a href="/features">Features</a></h4><ul class="links inline footer-menu"><li class="0 first"><a href="/features?tid=1095">Worldview</a></li>
+<li class="1"><a href="/features?tid=76">Ideas</a></li>
+<li class="2 last"><a href="/features?tid=72">People</a></li>
+</ul>	</div>
+	<div class="regulars-menu">
+		<h4><a href="/regulars">Regulars</a></h4><ul class="links inline footer-menu"><li class="0 first"><a href="/regulars/Paul%20Carter">Paul Carter</a></li>
+<li class="1"><a href="/regulars/Andy%20Rickell">Andy Rickell</a></li>
+<li class="2"><a href="/regulars/Mike%20Oliver">Mike Oliver</a></li>
+<li class="3"><a href="/regulars/Ruth%20Patrick">Ruth Patrick</a></li>
+<li class="4"><a href="/regulars/Peter%20White">Peter White</a></li>
+<li class="5"><a href="/regulars/Mik%20Scarlet">Mik Scarlet</a></li>
+<li class="6 last"><a href="/regulars/Helen%20Dolphin">Helen Dolphin</a></li>
+</ul>	</div>
+	<div class="blogs-menu">
+		<h4><a href="/blogs">Blogs</a></h4><ul class="links inline footer-menu"><li class="0 first"><a href="/blogs?rid=4">Editor Blog</a></li>
+<li class="1 last"><a href="/blogs?rid=5">Guest Blog</a></li>
+</ul>	</div>
+     </div>
+
+  </div>
+</div>
+  </div>
+        </div>
+      
+
+    </div>
+  </div>
+  <div id="footer-bottom">
+    <div id="footer-bottom-container">
+      <div id="footer-logo"></div>
+      <div id="footer-menu">
+                    <div class="region region-footer">
+    <div id="block-menu-menu-access-keys" class="block block-menu block-odd block-footer block-count-11">
+	      <h2 class="block-title">Access Keys</h2>
+    	<div class="block-inner">
+		<div class="content">
+			<ul class="menu"><li class="first leaf"><a href="/" accesskey="1">1 - Home</a></li>
+<li class="leaf"><a href="/now" accesskey="2">2 - Now</a></li>
+<li class="leaf"><a href="/privacy" accesskey="5">5 - Privacy Policy</a></li>
+<li class="leaf"><a href="/cookies" accesskey="6">6 - Cookies</a></li>
+<li class="leaf"><a href="/user" accesskey="7">7 - Login / Register</a></li>
+<li class="leaf"><a href="/terms-and-conditions" accesskey="8">8 - Terms &amp; Conditions</a></li>
+<li class="leaf"><a href="/contact-us" accesskey="9">9 - Contact Us</a></li>
+<li class="leaf"><a href="/accessibility" accesskey="0">0 - Accessibility</a></li>
+<li class="leaf"><a href="/#container" name="Skip to content">S - Skip to content</a></li>
+<li class="leaf"><a href="/sitemap" name="Sitemap" accesskey="2">Sitemap</a></li>
+<li class="last leaf"><a href="/search" name="Search" accesskey="3">Search</a></li>
+</ul>		</div>
+	</div>
+</div>
+<div id="block-menu-menu-footer-menu" class="block block-menu block-even block-footer block-count-12">
+			<div class="block-inner">
+		<div class="content">
+			<ul class="menu"><li class="first leaf"><a href="/" title="">Home</a></li>
+<li class="leaf"><a href="/about" title="">About</a></li>
+<li class="leaf"><a href="/accessibility" title="">Accessibility</a></li>
+<li class="leaf"><a href="/sitemap" title="">Sitemap</a></li>
+<li class="leaf"><a href="/advertise" title="">Advertise</a></li>
+<li class="leaf"><a href="/contact-us" title="">Contact us</a></li>
+<li class="leaf"><a href="/write-for-us" title="">Write for us</a></li>
+<li class="leaf"><a href="/privacy" title="">Privacy</a></li>
+<li class="leaf"><a href="/terms-and-conditions" title="">Terms</a></li>
+<li class="last leaf"><a href="/cookies" title="">Cookies</a></li>
+</ul>		</div>
+	</div>
+</div>
+  </div>
+                        </div>
+      <!--<a href="http://www.catchdigital.com/" id="footer-made-by">Made by Catch.</a>-->
+    </div>
+  </div>
+
+</div>
+
+<div id="fb-root"></div>
+      <script type="text/javascript">
+        window.fbAsyncInit = function() {
+          FB.init({
+            appId : '308886632552579',
+            cookie : true, // enable cookies to allow the server to access the session
+            xfbml : true,
+            logging: '0',
+            channelURL: 'http://www.disabilitynow.org.uk/sites/all/modules/custom/fbconnect/channel.html',
+            oauth  : true
+          });
+          // whenever the user logs in, we tell our login service
+          FB.Event.subscribe('auth.login', function() {
+            window.location.reload();
+          });
+          FB.Event.subscribe('auth.logout', function(response) {
+            window.location.reload();
+          });
+
+          jQuery(document).trigger('fb:init');
+        };
+
+        (function() {
+          var e = document.createElement('script');
+          e.src = document.location.protocol + '//connect.facebook.net/en_GB/all.js';
+          e.async = true;
+          document.getElementById('fb-root').appendChild(e);
+        }());
+      </script><script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><script type="text/javascript">
+							(function() {
+								var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+								po.src = 'https://apis.google.com/js/plusone.js';
+								var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+							})();
+						</script>
+</body>
+
+</html>
