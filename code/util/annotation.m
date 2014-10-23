@@ -52,8 +52,8 @@ function annotation_OpeningFcn(hObject, eventdata, handles, varargin)
 % handles    structure with handles and user data (see GUIDATA)
 % varargin   command line arguments to annotation (see VARARGIN)
 % Create the data to plot.
-dataroot= 'data/';
-[ img ] = generate_image_list( dataroot );
+dataroot= 'data/datasetClean/';
+[ img ] = generate_image_list( dataroot , true);
 %annotated = zeros(size(img,1),1);
 %lables=zeros(size(img,1),10);
 %an_table= table(img,annotated,lables);
