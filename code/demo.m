@@ -47,22 +47,22 @@ feature = feature_all(selected_index,:);
 label = label_all(selected_index)';
 % Creat positive and negative feature and label
 FeaturePos = feature(label == 1 , :);
-LabelPos = label(label == 1); 
+LabelPos = label(label == 1);
 FeatureNeg = feature(label == -1 , :);
-LabelNeg = label(label == -1); 
+LabelNeg = label(label == -1);
 
 
 %% Train SVM
 FeaturePos = feature(label == 1 , :);
 LabelPos = label(label == 1);
 FeatureNeg = feature(label == -1 , :);
-LabelNeg = label(label == -1); 
+LabelNeg = label(label == -1);
 
 % TestLabel = double(label_selected');
-% TestLabel = 
+% TestLabel =
 % TrainLabel = double(label_selected');
 % TrainVec = double(feature_selected);
-% 
+%
 % addpath(genpath('libsvm-3.17/matlab/'));
 % % Cross validation
 % bestcv = 0;
@@ -74,7 +74,7 @@ LabelNeg = label(label == -1);
 %    end
 %    fprintf('(best c=%g, rate=%g)\n',bestc, bestcv);
 % end
-% 
+%
 % model_scores_selected = svmtrain(TrainLabel, TrainVec,['-t 0 -c ',num2str(bestc)]);
 
 %% Train LDA
@@ -92,27 +92,16 @@ EERs  = Function_compute_EER_fixedTopic(test_train_ind-1,featureAll,TestLabel,2,
 %% Method
 % Discover Patch by ELDA
 addpath(genpath('/home/moin/Desktop/UW/all_UW/cvpr_2015/code/bcp_release/'));
-
 run /home/moin/Desktop/UW/all_UW/cvpr_2015/code/bcp_release/setup.m
 run /home/moin/Desktop/UW/all_UW/cvpr_2015/code/bcp_release/startup;
 
-%image_abnorm = '/home/moin/GitHub/CrowdAbnormalityImages/code/test.jpg';
 image_abnorm = '/home/moin/GitHub/CrowdAbnormalityImages/code/test_small.jpg';
-
-% load patch.txt;
-% patch_small = patch / 4;
-% patch =  patch_small;
+load('patch.mat');
 patch_bb = [uint16(patch(:,1)) , uint16(patch(:,2)) , uint16(patch(:,1))+uint16(patch(:,3)) , uint16(patch(:,2))+uint16(patch(:,4))];
-% imshow(imread(image_abnorm));
-% for i = 1:22
-% rectangle('Position',patch_small(i,:));
-% end
-
 for i = 1 : size(patch,1)
     I{i} = image_abnorm;
     bb{i} = patch_bb(i,:);
 end
-
 currentFolder = pwd;
 VOCopts.localdir = [currentFolder,'/data/bcp_elda/'];
 disp('orig_train_elda');
@@ -121,9 +110,13 @@ for modl = 1:length(models)
     models_all{modl} = models{1,modl}.model;
 end
 
-% Train Patch by LLDA
+% Test on an image
+img_test = imread(image_abnorm);
+[im_h, im_w, ~] = size(img_test);
+bbox_current = [1 1 im_w im_h];
+[ap_scores, ~ , patches] = part_inference(img_test, models_all, bbox_current);
 
-% Train SVM
-
+heat = detection2heat(img_test,patches,ap_scores,1); % Creat Heat Map
+%contourf(flipud(heat),'DisplayName','heat');figure(gcf)
 
 %% Evaluation

@@ -92,22 +92,20 @@ EERs  = Function_compute_EER_fixedTopic(test_train_ind-1,featureAll,TestLabel,2,
 %% Method
 % Discover Patch by ELDA
 addpath(genpath('/home/moin/Desktop/UW/all_UW/cvpr_2015/code/bcp_release/'));
-
 run /home/moin/Desktop/UW/all_UW/cvpr_2015/code/bcp_release/setup.m
 run /home/moin/Desktop/UW/all_UW/cvpr_2015/code/bcp_release/startup;
 
 %image_abnorm = '/home/moin/GitHub/CrowdAbnormalityImages/code/test.jpg';
 image_abnorm = '/home/moin/GitHub/CrowdAbnormalityImages/code/test_small.jpg';
 
-%load patch.txt;
-%patch_small = patch / 4;
+% load patch.txt;
+% patch_small = patch / 4;
+% patch =  patch_small;
 patch_bb = [uint16(patch(:,1)) , uint16(patch(:,2)) , uint16(patch(:,1))+uint16(patch(:,3)) , uint16(patch(:,2))+uint16(patch(:,4))];
-%imshow(imread(image_abnorm));
+% imshow(imread(image_abnorm));
 % for i = 1:22
 % rectangle('Position',patch_small(i,:));
 % end
-
-patch_small = patch / 4;
 
 for i = 1 : size(patch,1)
     I{i} = image_abnorm;
@@ -122,9 +120,33 @@ for modl = 1:length(models)
     models_all{modl} = models{1,modl}.model;
 end
 
-% Train Patch by LLDA
-
-% Train SVM
-
-
 %% Evaluation
+img_test = imread(image_abnorm);
+[im_h, im_w, ~] = size(img_test);
+bbox_current = [1 1 im_w im_h];
+[ap_scores, sp_scores, patches] = part_inference(img_test, models_all, bbox_current);
+imshow(img_test);
+for i = 1:22
+rectangle('Position',[patches{i}(1),patches{i}(2),patches{i}(3)-patches{i}(1),patches{i}(4)-patches{i}(2)]);
+end
+% Creat Heat Map
+heat = zeros(im_h,im_w);
+for i = 1 : size(heat,1)
+    for j = 1 : size(heat,2)
+        for k = 1 : size(patches,2)
+        %k = 1;
+            if (j >= patches{k}(1) && j <= patches{k}(3) ) && ( i >= patches{k}(2) && i <= patches{k}(4) )
+                heat(i,j) = heat(i,j) + ap_scores{k};
+            end
+        end
+    end
+end
+%contourf(flipud(heat),'DisplayName','heat');figure(gcf)
+
+h_fg = imagesc(img_test); set(gca,'xtick',[],'ytick',[]); saveas(h_fg,'fg.jpg'); B_tmp = imread('fg.jpg'); B = imresize(B_tmp, [im_h im_w]);
+tempo = heat'; %tempo = fliplr(tempo); 
+        h_bg = imagesc(tempo'); set(gca,'xtick',[],'ytick',[]) %axis off; set(h,'edgecolor','none'); 
+        saveas(h_bg,'bg.jpg'); F_tmp = imread('bg.jpg'); F = imresize(F_tmp, [im_h im_w]);
+        close all;
+
+        display_img1_on_img2(F, B, 0.5); figure(gcf); 
