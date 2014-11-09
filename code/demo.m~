@@ -91,6 +91,36 @@ EERs  = Function_compute_EER_fixedTopic(test_train_ind-1,featureAll,TestLabel,2,
 
 %% Method
 % Discover Patch by ELDA
+addpath(genpath('/home/moin/Desktop/UW/all_UW/cvpr_2015/code/bcp_release/'));
+
+run /home/moin/Desktop/UW/all_UW/cvpr_2015/code/bcp_release/setup.m
+run /home/moin/Desktop/UW/all_UW/cvpr_2015/code/bcp_release/startup;
+
+%image_abnorm = '/home/moin/GitHub/CrowdAbnormalityImages/code/test.jpg';
+image_abnorm = '/home/moin/GitHub/CrowdAbnormalityImages/code/test_small.jpg';
+
+%load patch.txt;
+%patch_small = patch / 4;
+patch_bb = [uint16(patch(:,1)) , uint16(patch(:,2)) , uint16(patch(:,1))+uint16(patch(:,3)) , uint16(patch(:,2))+uint16(patch(:,4))];
+%imshow(imread(image_abnorm));
+% for i = 1:22
+% rectangle('Position',patch_small(i,:));
+% end
+
+patch_small = patch / 4;
+
+for i = 1 : size(patch,1)
+    I{i} = image_abnorm;
+    bb{i} = patch_bb(i,:);
+end
+
+currentFolder = pwd;
+VOCopts.localdir = [currentFolder,'/data/bcp_elda/'];
+disp('orig_train_elda');
+models = orig_train_elda(VOCopts, I, bb, 'ps', 'ng' , 0, 1);
+for modl = 1:length(models)
+    models_all{modl} = models{1,modl}.model;
+end
 
 % Train Patch by LLDA
 
