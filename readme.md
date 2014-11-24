@@ -17,25 +17,30 @@ Share every detail and information that all we need to know here.<br />
 
 - startup.m : initialization (i.e : include folders, tools, libraries)
 
+<br />
+<br />
 
 <b> NOTE: </b> In the following modules, maybe you need first modify images dataset path or annotation table files <br />
 
-<b> TO annotate Images (to normal/abnormal/noisy/...): </b> <br />
+<b> 1- TO annotate Images (to normal/abnormal/noisy/...): </b> <br />
 
 - First run 'startup.m'.
 
 - Then 'annotation'.
 
 
-<b> TO annotate Images Normal/Abnormal Regions (to annotate attributes): </b> <br />
+<b> 2- TO annotate Images Normal/Abnormal Regions (to annotate attributes): </b> <br />
 
 - First run 'startup.m'.
 
-- Then 'attribute_Annotation'.
+- Then 'attribute_annotation'.
+<b> Imput: </b> Input attribute_annotation would be the output table of annotate image in step No.1 (cell array including image_name and tags   <br />
+<b> Output: </b> Output is an XML file that stores image_names, tags, and annotatited points   <br />
 
-
-<b> TO extract Abnormality patches (Manual): </b> <br />
+<b> 3- TO extract Abnormality patches (Manual): </b> <br />
 
 - First run 'startup.m'.
 
 - Then 'attribute_annotation_abnormalbox'.
+<b> Imput: </b> Input attribute_annotation_abnormalbox would be the output XML file of attribute_annotation in step No.2 <br />
+<b> Output: </b> Output is an cell table that stores image_names, and cordinate of patches around the center of abnormality points  <br />
