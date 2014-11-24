@@ -34,6 +34,7 @@ Share every detail and information that all we need to know here.<br />
 - First run 'startup.m'.
 
 - Then 'attribute_annotation'.
+<br />
 <b> Imput: </b> Input attribute_annotation would be the output table of annotate image in step No.1 (cell array including image_name and tags   <br />
 <b> Output: </b> Output is an XML file that stores image_names, tags, and annotatited points   <br />
 
@@ -42,5 +43,6 @@ Share every detail and information that all we need to know here.<br />
 - First run 'startup.m'.
 
 - Then 'attribute_annotation_abnormalbox'.
+<br />
 <b> Imput: </b> Input attribute_annotation_abnormalbox would be the output XML file of attribute_annotation in step No.2 <br />
 <b> Output: </b> Output is an cell table that stores image_names, and cordinate of patches around the center of abnormality points  <br />
