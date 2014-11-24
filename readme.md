@@ -18,10 +18,24 @@ Share every detail and information that all we need to know here.<br />
 - startup.m : initialization (i.e : include folders, tools, libraries)
 
 
-<b> TO annotate Images : </b> <br />
+<b> NOTE: </b> In the following modules, maybe you need first modify images dataset path or annotation table files <br />
+
+<b> TO annotate Images (to normal/abnormal/noisy/...): </b> <br />
 
 - First run 'startup.m'.
 
 - Then 'annotation'.
 
 
+<b> TO annotate Images Normal/Abnormal Regions (to annotate attributes): </b> <br />
+
+- First run 'startup.m'.
+
+- Then 'attribute_Annotation'.
+
+
+<b> TO extract Abnormality patches (Manual): </b> <br />
+
+- First run 'startup.m'.
+
+- Then 'attribute_annotation_abnormalbox'.
