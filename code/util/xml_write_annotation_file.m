@@ -2,7 +2,7 @@
 % cell table should be include 3 columns 'image name', 'tag', cell array of polygon/center points
 %
 % By Mahdyar
-function xml_write_annotation_file( annotation_table, xml_file_name )
+function xml_write_annotation_file( annotation_table, xml_file_name, annotaitedNumber )
 %% Prameters
 %
 % *input:*
@@ -22,7 +22,11 @@ function xml_write_annotation_file( annotation_table, xml_file_name )
 %% Initialize XML object
 docNode = com.mathworks.xml.XMLUtils.createDocument('annotation');
 docRootNode = docNode.getDocumentElement;
-entry_count = size(annotation_table,1);
+if exist('annotaitedNumber','var')
+    entry_count = annotaitedNumber;
+else
+    entry_count = size(annotation_table,1);
+end
 
 %% Write header 
 firts_node = docNode.createElement('entryCount');

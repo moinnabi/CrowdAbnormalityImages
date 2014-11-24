@@ -11,6 +11,7 @@ imtool close all;
 
 img_folder = ''; % directory of images
 annotation_file='an_table.mat'; % annotation tags table
+output_xml_file='annotation.xml';
 img_namel_field_idx=1;  % index of Image_name field in tags table
 normal_field_idx=3;     % index of normal field in tags table
 abnormal_field_idx=4;   % index of abnormal field in tags table
@@ -35,8 +36,8 @@ for img_idx=1:size(an_table,1)
         abnormal_patch_flag = 0; % 1 for annotating patch in abnormal image, 0 for annoating point in abnormal images
         tag = 'normal';
     else
-        normal_flag = 1; % 1 for annotating normal images, 0 for abnormal images
-        abnormal_patch_flag = 0; % 1 for annotating patch in abnormal image, 0 for annoating point in abnormal images
+        normal_flag = 0; % 1 for annotating normal images, 0 for abnormal images
+        abnormal_patch_flag = 1; % 1 for annotating patch in abnormal image, 0 for annoating point in abnormal images
         tag = 'abnormal';
     end
     
@@ -48,10 +49,9 @@ for img_idx=1:size(an_table,1)
     imshow(grayImage, []);
     set(gcf, 'Position', get(0,'Screensize'));
     set(gcf,'name','click on abnormal region','numbertitle','off')
-    %
     DlgH = gcf;
-    H = uicontrol('Style', 'PushButton', 'String', 'Break', 'Callback', 'delete(gcbf)'); % stop with Esc and Button WTF??????
-
+    H = uicontrol('Style', 'PushButton', 'String', 'Break', 'Callback', 'cla(gcbf)'); % stop with Esc and Button WTF??????
+         
     if normal_flag
         [xc yc] = ginput(1);
         points = [{xc yc }];
@@ -59,14 +59,12 @@ for img_idx=1:size(an_table,1)
         yc_old = yc;
         while (ishandle(H))
             [xc yc] = ginput(1);
-            %%tt = getkey();
             points = [points ; {xc yc }];
             sprintf('(x,y)=(%.1f,%.1f)',xc,yc)
             hold on;
             plot([xc,xc_old],[yc,yc_old],'--rs','LineWidth',4,'Color','g','MarkerSize',20,'MarkerEdgeColor','k','MarkerFaceColor','red');
             xc_old = xc;
             yc_old = yc;
-            %% "xc" & "yc" sholuld be saved in a variable.
         end
     end;
 
@@ -81,27 +79,11 @@ for img_idx=1:size(an_table,1)
             plot(xc,yc,'rs','MarkerSize',20,'MarkerEdgeColor','k','MarkerFaceColor','red');
             xc_old = xc;
             yc_old = yc;
-            %% "xc" & "yc" sholuld be saved in a variable.
         end
     end;
     
-    annotation_table(annotation_idx,:)=[fullFileName, tag, points ];
+    annotation_table(annotation_idx,:)=[fullFileName, tag, {points} ];
     annotation_idx = annotation_idx +1 ;
 end
 
-% if abnormal_patch_flag
-%     while (ishandle(H))
-%         rect = getrect;
-%         sprintf('(BoundingBox)=(%.1f,%.1f,%.1f,%.1f)',rect(1),rect(2),rect(3),rect(4))
-%         rectangle('Position',rect,'EdgeColor',[round(rand) round(rand) round(rand)],'LineWidth',3,'LineStyle','--')
-%         %% "rect" sholuld be saved in a variable.
-%     end
-% else
-%     while (ishandle(H))
-%         [xc yc] = ginput(1)
-%         sprintf('(x,y)=(%.1f,%.1f)',xc,yc)
-%         hold on;
-%         plot(xc,yc,'Marker','o','MarkerSize',20,'MarkerEdgeColor','k','MarkerFaceColor','g');
-%         %% "xc" & "yc" sholuld be saved in a variable.
-%     end
-% end
+xml_write_annotation_file( annotation_table, output_xml_file, annotation_idx );
