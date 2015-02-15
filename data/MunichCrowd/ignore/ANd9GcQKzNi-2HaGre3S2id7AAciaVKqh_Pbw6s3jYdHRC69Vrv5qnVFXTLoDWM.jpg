@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>SignatureDoesNotMatch</Code><Message>The request signature we calculated does not match the signature you provided. Check your key and signing method.</Message><StringToSignBytes>47 45 54 0a 0a 0a 31 34 31 32 37 32 30 35 36 38 0a 2f 64 61 74 61 2e 74 75 6d 62 6c 72 2e 63 6f 6d 2f 74 75 6d 62 6c 72 5f 6c 39 32 30 75 77 38 6c 44 53 31 71 62 69 38 61 6a 6f 31 5f 31 32 38 30 2e 6a 70 67</StringToSignBytes><RequestId>1C8882844F25DAD3</RequestId><HostId>L9TjOWOoZNupJVDUXHb0+Wdm7fc/YYqs98exo2aHKT0gGjOXWYMFVoPNfZ3ujIHL</HostId><SignatureProvided>S398TWdi6ye9rnMSt9RJFLEaUxI=#_=_</SignatureProvided><StringToSign>GET
-
-
-1412720568
-/data.tumblr.com/tumblr_l920uw8lDS1qbi8ajo1_1280.jpg</StringToSign><AWSAccessKeyId>AKIAJP67HANH6OVWEMMQ</AWSAccessKeyId></Error>

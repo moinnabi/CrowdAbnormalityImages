@@ -29,7 +29,7 @@ hf = figure('units','normalized','outerposition',[0 0 1 1]);
 
 try
 [ an_tabletmp ] = xml_read_annotation( output_xml_file );
-start_idx = find(strcmp(an_table(:,1),an_tabletmp{size(an_tabletmp,1),1}))+1;
+start_idx =  find(strcmp(strrep(an_table(:,1),'/','\'), strrep(an_tabletmp{size(an_tabletmp,1),1},'/','\')))+1;
 annotation_table(1:size(an_tabletmp,1),:)=an_tabletmp;
 annotation_idx=size(an_tabletmp,1)+1;
 catch

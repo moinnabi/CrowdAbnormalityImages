@@ -8,7 +8,7 @@ close all;
 imtool close all;
 
 img_folder = ''; % directory of images
-annotation_xml_file='annotation.xml';
+annotation_xml_file='annotation2.xml';
 output_patches_file='patches.mat';
 img_namel_field_idx=1;  % index of Image_name field in annotation table
 normal_field_idx=2;     % index of normal field in annotation table
@@ -69,8 +69,8 @@ for img_idx=1:size(an_table,1)
     %% Save Data
     patch_table(annotation_idx,:)=[fullFileName, {points} ];
     annotation_idx = annotation_idx +1 ;
-    save('output_patches_file','patch_table');
+    save(output_patches_file,'patch_table');
 end
 
-save('output_patches_file','patch_table');
+save(output_patches_file,'patch_table');
 close all;
