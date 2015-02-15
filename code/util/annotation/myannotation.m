@@ -1,4 +1,4 @@
-function varargout = annotation(varargin)
+function varargout = myannotation(varargin)
 % ANNOTATION MATLAB code for annotation.fig
 %      ANNOTATION, by itself, creates a new ANNOTATION or raises the existing
 %      singleton*.
