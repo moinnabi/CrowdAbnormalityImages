@@ -1,5 +1,5 @@
 
-%clear all;
+clear all;
 resize_dim = 30;
 kmeans_size = 10;
 
@@ -28,4 +28,12 @@ end
 save('HOG_features','HOG_features','HOG_Index');
 
 [lables] = kmeans(HOG_features,kmeans_size);
+
+visualize_patch_no = 4;
+patch_size=30;
+image_dims = [20 20];
+image_out = visualize_patches( HOG_Index, lables, visualize_patch_no, patch_size, image_dims );
+imshow(image_out);
+
+
 
