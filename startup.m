@@ -2,6 +2,6 @@
 %addpath(genpath('../../mexopencv'));
 
 %----- code path
-addpath(genpath('code/'));
+addpath(genpath('code'));
 
 

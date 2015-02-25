@@ -42,8 +42,8 @@ for img_idx=1:size(annotation_table,1)
     end
     
     rng(0,'twister');
-    a = min(rows,columns)/10;
-    b = (max(rows,columns)/10)+20;
+    a = (min(rows,columns)/10)+20;
+    b = (max(rows,columns)/10)+40;
     patch_sizes = (b-a).*rand(no_of_rects,1) + a;
     
     % Show abnormality center points from annotation_table

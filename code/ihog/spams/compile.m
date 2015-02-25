@@ -28,7 +28,7 @@ blas='builtin';
 %%%%%%%%%%%% MULTITHREADING CONFIGURATION %%%%%%%%%%%%%%
 % set true if you want to use multi-threaded capabilities of the toolbox. You
 % need an appropriate compiler for that (intel compiler, most recent gcc, or visual studio pro)
-use_multithread=true;   % (might not compatible with compiler=mex)
+use_multithread=false;   % (might not compatible with compiler=mex)
 % if the compilation fails on Mac, try the single-threaded version.
 % to run the toolbox on a cluster, it can be a good idea to deactivate this
 
@@ -44,7 +44,7 @@ if strcmp(compiler,'gcc')
        % NOTE: you might try using one of these libraries
        %path_to_compiler_libraries='/usr/lib/x86_64-linux-gnu/gcc/x86_64-linux-gnu/4.5/';
        %path_to_compiler_libraries='/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/x86_64/';
-       path_to_compiler_libraries='/usr/local/lib/gcc/x86_64-apple-darwin13.0.0/4.7.3/';
+       path_to_compiler_libraries='/usr/local/lib/gcc/x86_64-apple-darwin13.2.0/4.8.3/';
        path_to_compiler='/usr/bin/';
     else
        % example when compiler='gcc' for Windows+cygwin:   (the script does not
@@ -269,7 +269,8 @@ elseif strcmp(compiler,'gcc')
    if debug
       compile_flags='-O2 -g'; 
    else
-      compile_flags='-O3 -mtune=core2 -fomit-frame-pointer -funsafe-loop-optimizations'; 
+      %compile_flags='-O3 -mtune=core2 -fomit-frame-pointer -funsafe-loop-optimizations'; 
+      compile_flags='-O3 -mtune=core2 -fomit-frame-pointer'; 
    end
    links_lib=[links_lib ' -L"' path_to_compiler_libraries '" -L' path_to_blas];
    if mac
