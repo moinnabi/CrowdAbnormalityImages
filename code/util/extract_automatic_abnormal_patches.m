@@ -42,7 +42,7 @@ save('HOG_features','HOG_features','HOG_Index','hog_size');
 patch_distribution = get_labe_distribution( lables, kmeans_size );
 visualize_patch_no = 4;
 patch_size=30;
-image_dims = [20 20];
+image_dims = [20 10];
 image_out = visualize_patches( HOG_Index, lables, visualize_patch_no, patch_size, image_dims );
 imshow(image_out);
 
