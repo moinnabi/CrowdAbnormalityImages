@@ -39,6 +39,7 @@ save('HOG_features','HOG_features','HOG_Index','hog_size');
 
 [lables] = kmeans(HOG_features,kmeans_size);
 
+patch_distribution = get_labe_distribution( lables, kmeans_size );
 visualize_patch_no = 4;
 patch_size=30;
 image_dims = [20 20];
