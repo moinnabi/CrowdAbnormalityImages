@@ -14,6 +14,7 @@ save(output_patches_file,'patch_table');
 
 HOG_features = [];
 HOG_Index = [];
+HOG_feats = [];
 
 fprintf(1,'Claculate HoG Fetures (image count %d) current: ',size (patch_table,1));
 for img_no=1:size (patch_table,1)
@@ -25,16 +26,18 @@ for img_no=1:size (patch_table,1)
         pactch = im2double(pactch);
         feat = features(pactch, 8);
         featureVector = invertHOG(feat);
-        featureVector = reshape(featureVector, 1,size(featureVector,1)*size(featureVector,1));
+        featureVector = reshape(featureVector, 1, numel(featureVector));
         HOG_Index = [HOG_Index ; cellstr(patch_table{img_no,1}), rect(pacth_no,:)];
         HOG_features = [HOG_features ; featureVector];
+        HOG_feats = [HOG_feats ; reshape(feat,1,numel(feat))];
     end
     reverseStr = repmat(sprintf('\b'), 1, length(num2str(img_no-1)));
     fprintf(1,strcat(reverseStr,'%d'),img_no);
 end
 
 hog_size = size(feat,3);
-save('HOG_features','HOG_features','HOG_Index','hog_size');
+feat_size = size(feat);
+save('HOG_features','HOG_features','HOG_feats','HOG_Index','feat_size','hog_size');
 
 
 [lables] = kmeans(HOG_features,kmeans_size);
