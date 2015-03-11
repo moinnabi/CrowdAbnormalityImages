@@ -9,7 +9,7 @@ img_namel_field_idx=1;  % index of Image_name field in annotation table
 normal_field_idx=2;     % index of normal field in annotation table
 points_field_idx=3;     % index of set points field in annotation table
 
-no_of_rects = 10;
+no_of_rects = 1;
 
 [ annotation_table ] = xml_read_annotation( xml_file_name );
 %patch_table = cell(valid_data,3);
