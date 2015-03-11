@@ -34,6 +34,7 @@ for img_no=1:size (patch_table,1)
     reverseStr = repmat(sprintf('\b'), 1, length(num2str(img_no-1)));
     fprintf(1,strcat(reverseStr,'%d'),img_no);
 end
+fprintf('\n');
 
 hog_size = size(feat,3);
 feat_size = size(feat);
@@ -47,6 +48,7 @@ visualize_patch_no = 4;
 patch_size=30;
 image_dims = [20 10];
 image_out = visualize_patches( HOG_Index, lables, visualize_patch_no, patch_size, image_dims );
+hog_out = visualize_HOGs( HOG_feats, lables, visualize_patch_no, image_dims, feat_size );
 imshow(image_out);
 
 
