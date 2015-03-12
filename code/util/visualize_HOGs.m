@@ -17,9 +17,11 @@ function [ hog_out ] = visualize_HOGs( HOG_feats, HoG_lables, visualize_patch_no
             end_idx_x=start_idx_x+patch_size-1;
             start_idx_y=((row-1)*patch_size)+1;
             end_idx_y=start_idx_y+patch_size-1;
-            img = reshape(HOG_feats(image_list(sample_no),:),feat_size);
-            patch = showHOG(img);
-            hog_out(start_idx_x:end_idx_x,start_idx_y:end_idx_y) = patch;
+            if (sample_no<size(image_list,1)+1)
+                img = reshape(HOG_feats(image_list(sample_no),:),feat_size);
+                patch = showHOG(img);
+                hog_out(start_idx_x:end_idx_x,start_idx_y:end_idx_y) = patch;
+            end
             sample_no = sample_no + 1; 
         end
     end

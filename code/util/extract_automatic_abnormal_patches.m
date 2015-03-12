@@ -1,7 +1,7 @@
 
 clear all;
-resize_dim = 30;
-kmeans_size = 10;
+resize_dim = 70;
+kmeans_size = 60;
 
 
 output_patches_file='patch_table.mat';
@@ -45,7 +45,7 @@ save('HOG_features','HOG_features','HOG_feats','HOG_Index','feat_size','hog_size
 
 patch_distribution = get_labe_distribution( lables, kmeans_size );
 visualize_patch_no = 4;
-patch_size=30;
+patch_size=60;
 image_dims = [20 10];
 image_out = visualize_patches( HOG_Index, lables, visualize_patch_no, patch_size, image_dims );
 hog_out = visualize_HOGs( HOG_feats, lables, visualize_patch_no, image_dims, feat_size );

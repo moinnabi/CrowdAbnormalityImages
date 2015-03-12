@@ -5,6 +5,9 @@ function [ patch_table ] = extract_raw_patchs_auto( xml_file_name, visualization
 
 img_folder = '';
 
+min_patch_tr=70;
+max_patch_tr=70;
+
 img_namel_field_idx=1;  % index of Image_name field in annotation table
 normal_field_idx=2;     % index of normal field in annotation table
 points_field_idx=3;     % index of set points field in annotation table
@@ -42,8 +45,8 @@ for img_idx=1:size(annotation_table,1)
     end
     
     rng(0,'twister');
-    a = (min(rows,columns)/10)+20;
-    b = (max(rows,columns)/10)+40;
+    a = (min(rows,columns)/10)+min_patch_tr;
+    b = (max(rows,columns)/10)+max_patch_tr;
     patch_sizes = (b-a).*rand(no_of_rects,1) + a;
     
     % Show abnormality center points from annotation_table
