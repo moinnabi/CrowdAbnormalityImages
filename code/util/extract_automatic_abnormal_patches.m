@@ -6,8 +6,8 @@ kmeans_size = 60;
 
 output_patches_file='patch_table.mat';
 annotation_xml_file = 'annotation2.xml';
-%load ('patch_table');
-[ patch_table ] = extract_raw_patchs_auto( annotation_xml_file, false );
+load ('patch_table');
+%[ patch_table ] = extract_raw_patchs_auto( annotation_xml_file, false );
 
 save(output_patches_file,'patch_table');
 
