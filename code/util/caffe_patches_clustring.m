@@ -8,6 +8,7 @@ load ('features/caffe_patch/Caffe_features');
 image_count = size(patch_table,1);
 index_vector_labels_per_image = zeros(image_count,kmeans_size);
 
+
 [lables] = kmeans(Caffe_feats,kmeans_size);
 %patch_distribution = get_labe_distribution( lables, kmeans_size );
 
@@ -32,4 +33,4 @@ for img_idx=1:image_count
 end
 
 test_train = choose_test_train_sets(similarity_matrix,'greedy');
-show_pairs( patch_table(:,1), test_train );
+show_pairs( patch_table(:,1), test_train, Caffe_Index, lables);

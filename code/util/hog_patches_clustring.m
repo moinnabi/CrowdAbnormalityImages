@@ -32,4 +32,4 @@ for img_idx=1:image_count
 end
 
 test_train = choose_test_train_sets(similarity_matrix,'greedy');
-show_pairs( patch_table(:,1), test_train );
+show_pairs(patch_table(:,1), test_train, HOG_Index, lables);
