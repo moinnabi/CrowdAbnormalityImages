@@ -1,7 +1,7 @@
 
 
 clear all;
-kmeans_size = 10;
+kmeans_size = 20;
 
 load ('features/caffe_patch/patch_table');
 load ('features/caffe_patch/Caffe_features');
