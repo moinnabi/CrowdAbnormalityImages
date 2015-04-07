@@ -1,4 +1,4 @@
-function show_pairs( image_list, pair_set, patch_index, patch_lables )
+function show_pairs( image_list, pair_set, patch_index, patch_lables, save_path )
 %UNTITLED2 Summary of this function goes here
 %   Detailed explanation goes here
     hf = figure('units','normalized','outerposition',[0 0 1 1]);
@@ -17,6 +17,8 @@ function show_pairs( image_list, pair_set, patch_index, patch_lables )
         img2 = draw_patches_on_image (cmap, img_name2, patch_index, patch_lables);
         subplot(1,2,1), subimage(img1);
         subplot(1,2,2), subimage(img2);
+        set(hf,'name',strcat('pair_',num2str(i)));
+        print(hf,strcat(save_path,'pair_',num2str(i)),'-dpng');
         ginput(1);
         x = double(get(hf,'CurrentCharacter'));
         if x==27 || x==113
@@ -24,7 +26,7 @@ function show_pairs( image_list, pair_set, patch_index, patch_lables )
             break;
         end
     end
-
+    
 end
 
 function image_out = draw_patches_on_image (colors, image_name, patch_index, patch_lables)
