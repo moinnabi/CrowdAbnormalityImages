@@ -6,7 +6,7 @@ close all;
 kmeans_size = 20;
 images_save_path = 'Documentation/SimilarityHogBox/';
 % First time Run kmeans for clustering samples
-run_kmeans = true;
+run_kmeans = false;
 load ('features/hog_patch/patch_table');
 load ('features/hog_patch/HOG_features');
 
