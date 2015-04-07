@@ -23,6 +23,7 @@ for img_idx=1:image_count
     else
         [patch_count,patch_lables]=hist(lables(patch_idns), unique(lables(patch_idns)));
     end
+    index_vector_labels_per_image_hist(img_idx,patch_lables) = patch_count ;
     index_vector_labels_per_image(img_idx,patch_lables)=1;
 end
 
