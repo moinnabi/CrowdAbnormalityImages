@@ -7,7 +7,7 @@ load ('features/hog_patch/patch_table');
 load ('features/hog_patch/HOG_features');
 image_count = size(patch_table,1);
 index_vector_labels_per_image = zeros(image_count,kmeans_size);
-
+index_vector_labels_per_image_hist = zeros(image_count,kmeans_size);
 [lables] = kmeans(HOG_features,kmeans_size);
 %patch_distribution = get_labe_distribution( lables, kmeans_size );
 
